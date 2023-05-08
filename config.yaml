@@ -29,10 +29,10 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
+    - identifier: toee
+      name: Toee
+      title: Temple of Elemental Evil
+      url: /toee
       weight: 2
     #Dropdown menu
     # - identifier: dropdown
@@ -117,11 +117,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Scott Bennett."
-    subtitle: "I "
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    # intro: "Hi, my name is"
+    title: "Scott Bennett"
+    # subtitle: "I "
+    content: "I will help you get your project done. I have years of project managment and support experience. I can help you see your "
+    image: /monster.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -154,12 +154,12 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "AWS"
+        - "Ansible"
+        - "Terraform"
+        - "Grafana"
+        - "Jenkins"
+        - "Git"
 
   # Experience
   experience:
@@ -212,8 +212,8 @@ params:
            - Assisted customer service team as an escalation point.
            - Managed relationships with outside vendors including Voxeo, LocationSmart and AWS.
            - Assisted customers using Fog Creek Coplot and Skype for Business.
-      - job: "Junior Software Developer"
-        company: "Apple"
+      - job: "EDI Analyst"
+        company: "GlaxoSmithKline"
         companyUrl: "https://example.com"
         date: "Jan 2020 - Aug 2020"
         info:
@@ -222,29 +222,47 @@ params:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
+           - Facilitated trading partner implementation and development with outsourced EDI vendor GXS.
+           - Resolved EDI business support issues, resulting in cost savings by reducing chargebacks.
+           - Conducted EDI application testing to identify miscommunications for Order Specialists.
+           - Troubleshot issues relating to Order to Cash, Distribution, and Accounts Receivables.
+           - Analyzed vendor data for use in forecasting sales with GlaxoSmithKline's retail partners.
+           - Traced data flow through many translation points to correct translation between systems.
+           - Reviewed COBOL code to determine how exported data was being formatted.
+           - Researched workflow in MVS TSO using IBM 3220 mainframe.
+      - job: "Technical Support Specialist"
+        company: "True Commerce"
         companyUrl: "https://example.com"
         date: "June 2017 - Nov 2019"
         featuredLink:
           enable: true
           url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          - Provided phone support for Transaction Manager and Integrator software for 3,000+ customers.
+          - Logged case information in NetSuite ticketing system.
+          - Reviewed and updated technical support documentation in the nGenera Knowledgebase.
+          - Assisted customers with EDI document rejection and mapping updates.
+          - Configured and troubleshot Microsoft SQL Server backend used by Transaction Manager software.
+          - Resolved issues with integration between Transaction Manager software and back office systems.
+          - Performed quality assurance testing on new iterations of the Transaction Manager software.
+          - Advised developers regarding software improvements based on customer feedback.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
 
       - job: "Product Designer"
-        company: "Google"
+        company: "Petrosoft"
         companyUrl: "https://example.com"
         date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: |
+          - Remotely troubleshot issues with online back office software product using GotoAssist and VNC.
+          - Created manuals and other training materials streamlining the training process.
+          - Troubleshot vendor EDI data that that failed to be processed.
+          - Assisted in configuration of Dell rackmount servers running Gentoo Linux.
+          - Collected customer feedback and submitted feature requests to offshore developers.
+          - Performed quality assurance testing before new features were implemented in production.
+          - Installed and configured temperature automation systems.
+          - Created bulk mail, fax, and telephone advertising campaigns.
+          - Configured Windows 2003 Small Business Server using group policies and scripts.
+
 
   # Education
   education:
@@ -254,14 +272,14 @@ params:
     items:
       - title: "Associates Degree in Computer Science"
         school:
-          name: "Massachusetts Institute of Technology"
+          name: "Pittsburgh Technical Institute"
           url: "https://example.org"
         date: "2009 - 2013"
   
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
@@ -280,7 +298,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
