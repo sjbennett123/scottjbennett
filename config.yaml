@@ -170,10 +170,9 @@ params:
         company: "3M"
         companyUrl: "https://www.3m.com"
         date: "Nov 2019 - present"
-        content: "I am currently working as a Site Reliability Engineer 3M /M*Modal in Pittsburgh, PA."
-
+        content: zug zug
       - job: "Software Developer"
-        company: "Amazon"
+        company: "Philips"
         companyUrl: "https://example.com"
         date: "Sep 2020 - Dec 2021"
         featuredLink:
@@ -182,12 +181,37 @@ params:
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
+        content: | 
+          ### System Administration and DevOps
+           - Developed and implemented migration from a VMware and physical environment to AWS.
+           - Migrated MySQL and CouchDB databases to AWS with no downtime using replication.
+           - Implemented server monitoring with New Relic Infrastructure.
+           - Troubleshot system outages and performed postmortems.
+           - Configured and maintained MySQL and CouchDB backups and replication.
+           - Managed users and packages with Ansible.
+           - Migrated automated email outreach of over 3,000 emails a day to Amazon SES.
+           - Ensured that Atlassian JIRA, Atlassian Confluence, and SugarCRM are updated and patched.
+           - Consulted for development team to implement AWS specific functionality.
+           - Created technical documentation regarding the medSage infrastructure.
+           
+          ### Scripting and Reporting
+          
+           - Configured Rundeck job management software and migrated all Cron based jobs to it.
+           - Performed ad hoc reporting for the Account Services team providing metrics and analytics.
+           - Wrote web scraping tool to extract reports form a vendor's website using Perl and Selenium.
+           - Ensured business critical reports ran and were correct.
+           - Documented application flow for mandated Privacy Impact Assessment.
+           - Worked with development team to ensure that the billing process worked properly and is correct.
+           
+          ### Integration Application Support
+          
+           - Designed, implemented, and updated custom integrations with DME software.
+           - Handled PHI in accordance with HIPAA policies.
+           - Performed internal and external training, documentation and quality assurance for new features.
+           - Monitored integration and troubleshot issues that arose.
+           - Assisted customer service team as an escalation point.
+           - Managed relationships with outside vendors including Voxeo, LocationSmart and AWS.
+           - Assisted customers using Fog Creek Coplot and Skype for Business.
       - job: "Junior Software Developer"
         company: "Apple"
         companyUrl: "https://example.com"
