@@ -1,7 +1,7 @@
 ---
 
 title: Experience Log
-
+layout: single
 ---
 
 
@@ -228,3 +228,29 @@ spells are different than the book says.
 check saves.
 
 ![img](https://paper-attachments.dropboxusercontent.com/s_F75CBE69FDE7C7431D9F5C8715724B13F548BA67D70B072A5F71AE1B4F0BE955_1670463673979_image.png)
+
+Wizard Experience Levels
+
+| Level | Exp  | Hit Dice |
+| ----- | ---- | -------- |
+| 1     |      | 1        |
+| 2     |      | 2        |
+| 3     |      | 3        |
+| 4     |      | 4        |
+| 5     |      | 5        |
+| 6     |      | 6        |
+| 7     |      | 6        |
+| 8     |      | 7        |
+| 9     |      |          |
+| 10    |      |          |
+| 11    |      |          |
+| 12    |      |          |
+| 13    |      |          |
+| 14    |      |          |
+| 15    |      |          |
+| 16    |      |          |
+| 17    |      |          |
+| 18    |      |          |
+| 19    |      |          |
+| 20    |      |          |
+

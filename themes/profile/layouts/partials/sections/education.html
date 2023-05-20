@@ -46,7 +46,24 @@
                                 <div class="py-1 education-content">
                                     {{ .content | markdownify}}
                                 </div>
-
+                                {{ if .certifications }}
+                                <div class="py-1 certifications">
+                                <p>Certifications</p>
+                                    <ul>
+                                    {{ range .certifications }} 
+                                    <li> {{ . }} </li>
+                                    {{ end }}
+                                </div>
+                                {{ end }}
+                                {{ if .conferences }}
+                                <div class="py-1 conferences">
+                                <p>conferences</p>
+                                    <ul>
+                                    {{ range .conferences }} 
+                                    <li> {{ . }} </li>
+                                    {{ end }}
+                                </div>
+                                {{ end }}
                                 {{ if .featuredLink.enable }}
                                 <div class="py-1">
                                     <a href="{{ .featuredLink.url }}" class="btn">

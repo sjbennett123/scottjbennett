@@ -1,33 +1,31 @@
-Equipment
+---
+title: Equipment
+---
+## Money 
 
-money 
+90-GP 
 
-197.1 GP - 7 Silver
+## Equipment
 
-Equipment
+Spell components for all first level spells
 
-Spell components afor all first level spells
-
-Commoin spell ingredients you are assumed to have
-
-you are assumed to be taking the time to gather
+Commoin spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell co ponent is more than a few gold ipeces and consumed you will ned tyo replentish it . 
 
 tent, bedrooll,utility knife, 50 feet of roiope tinderbox, nice hooded lantern with oil
 
-maps of the whole roll(roll % to see if you have it )
-
-Choice of 2 books.
+maps of the whole world roll(roll % to see if you have it )
 
 A guide to Homlet sponsored by the welcome wench
 
-Trunk fulled wit hdisguides
+Trunk fulled with disguides
 
-gemcutting equipment
+gem cutting equipment
 
-Magic Items
+## Magic Items
 
 Robes +2. Kind of lame lookiing.
 
-Bag of Holding(Modified) Can carry up to 500 poiunds of euipment. Nthing liveing can go inside it. Nothing wierd orr magic happens it just down't go in. That includes food/plants/rations. Nothing with sharep oints or explosive.
+Bag of Holding(Modified):  Can carry up to 500 pounds of equipment. Nothing living can go inside it  including food/plants/rations additionally nothing with sharp points or explosive. Nothing weird or magic happens it just doesn't go in. 
 
-Small wooden bowl: 
+Small wooden bowl: 2x per day when the appropriate phrasse is psoke nwill procdue and nutritious and adequet meal.
+
