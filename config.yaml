@@ -123,14 +123,14 @@ params:
     content: > 
        I have years of project management and support experience. 
        If you are a business moving computing infrastructure into the cloud or an artist getting a book made. 
-    image: /monster.png
+    image: /scott_hammock.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "/scott_bennett_resume.docx"
+      url: "/Scott_Bennett_Resume.docx"
       download: true
       newPage: false
 
