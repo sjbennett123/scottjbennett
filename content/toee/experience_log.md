@@ -2,17 +2,54 @@
 
 title: Experience Log
 layout: single
+# For session print exp total  exp needed for next level
+
+
 ---
 
 
 
-# 
+
 
 **Level 6**
 
 **Exp Total** 50,572
 
 **Exp Needed for Level 7 60,000**
+
+59,267 + 660 +100 = 60027
+
+Session  25  5/18/23  - storyline  100  - role play   300  - monsters defeated  600  + 10% = 1100
+
+Session 22 4/27/23 
+
+Story : 300 
+
+RP : 300 + 10% = 660 + rolls etc
+
+57507 + 880 + 100 = 59,267
+
+Session 21 4/20/23 
+
+Story : 200 
+
+Role Play : 600 +10% = 880 plus your useful rolls
+
+56,627 + 880 + 0 = 57507
+
+Session 20 4/13/23
+
+Story : 300 Roleplay : 500 +10% = 880
+
+55,217+1210 + 200 = 56,627
+
+Session 19 4/6/23 - 
+
+400 storyline - 700 role play + 10% = 1210
+
+4 Checks
+
+
 
 52722+2145+350= 55,217
 

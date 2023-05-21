@@ -1,19 +1,18 @@
+---
+title: spells
+# Spell Cards Tarrot Size Chramatic Orb By Color Full Spellbook with Notes
+---
+
 ## 1
 
 ### Chromatic Orb 
 
 School: (Alteration, Evocation)
-
 Range: 0
-
 Components: V, S, M
-
 Duration: Special
-
 Casting Time: 1
-
 Area of Effect: One creature
-
 Saving Throw: Neg.
 
 This spell causes a 4-inch-diameter sphere to appear in the caster's hand. Within the limits described below, the sphere can appear in a variety of colors; each color indicates a different special power. The caster can hurl the sphere at an opponent up to 30 yards away, providing there are no barriers between the caster and the target. If the target is no more than 10 yards away, the caster's to hit roll is made with a +3 bonus. If the target is 10-20 yards away, the caster's roll is made with a +2 bonus. If the target is 20-30 yards away, the caster's roll is made with a +1 bonus.
@@ -52,19 +51,12 @@ If the *chromatic orb* misses its target, it dissipates without effect. If the t
 ### Armor
 
 Level: 1
-
 School: (Conjuration)
-
 Range: Touch 
-
 Duration: Special 
-
 Area of Effect: 1 creature 
-
 Components: V, S, M (a piece of finely cured leather that has been blessed by a priest)
-
 Casting Time: 1 rd. 
-
 Saving Throw: None 
 
 Description: By means of this spell, the wizard creates a magical field of force that serves as if it were scale mail armor (AC 6). The spell has no effect on a person already armored or a creature with Armor Class 6 or better. It is not cumulative with the *shield* spell, but it is cumulative with Dexterity and, in case of fighter/mages, with the shield bonus. The *armor* spell does not hinder movement or prevent spellcasting, and adds no weight or encumbrance. It lasts until successfully dispelled or until the wearer sustains cumulative damage totaling greater than 8 points + 1 per level of the caster. (It is important to note that the armor does *not* absorb this damage. The armor merely grants an AC of 6; the wearer still suffers full damage from any successful attacks.) Thus, the wearer might suffer 8 points from an attack, then several minutes later sustain an additional 1 point of damage. Unless the spell were cast by a wizard of 2nd level or higher, it would be dispelled at this time. Until it is dispelled, the *armor* spell grants the wearer full benefits of the Armor Class gained.
@@ -72,52 +64,41 @@ Description: By means of this spell, the wizard creates a magical field of force
 ### Cantrip
 
 School: All Schools
-
 Range: 10 ft. 
-
 Duration: 1 hr./level 
-
 Area of Effect: Special 
-
 Components: V, S 
-
 Casting Time: 1 
-
 Saving Throw: None 
 
 Cantrips are minor spells studied by wizards during their apprenticeship, regardless of school. The *cantrip* spell is a practice method for the apprentice, teaching him how to tap minute amounts of magical energy. Once cast, the *cantrip* spell enables the caster to create minor magical effects for the duration of the spell. However, these effects are so minor that they have severe limitations. They are completely unable to cause a loss of hit points, cannot affect the concentration of spellcasters, and can only create small, obviously magical materials. Furthermore, materials created by a cantrip are extremely fragile and cannot be used as tools of any sort. Lastly, a cantrip lacks the power to duplicate any other spell effects.
 
 Whatever manifestation the cantrip takes, it remains in effect only as long as the wizard concentrates. Wizards typically use cantrips to impress common folk, amuse children, and brighten dreary lives. Common tricks with cantrips include tinklings of ethereal music, brightening faded flowers, glowing balls that float over the caster's hand, puffs of wind to flicker candles, spicing up aromas and flavors of bland food, and little whirlwinds to sweep dust under rugs. Combined with the *unseen servant* spell, it's a tool to make housekeeping and entertaining simpler for the wizard.
 
-Fetch 
+- Fetch 
 
-Clean
+- Clean
 
-Light a flame
+- Light a flame
+
 
 
 
 ### Burning Hands
 
-**(Alteration)**
-
+School: (Alteration)
 Range: 0 
-
 Duration: Instantaneous 
-
 Area of Effect: The caster 
-
 Components: V, S 
-
 Casting Time: 1 
-
 Saving Throw: ½ 
 
 When the wizard casts this spell, a jet of searing flame shoots from his fingertips. His hands must be held so as to send forth a fanlike sheet of flames: The wizard's thumbs must touch each other and the fingers must be spread. The burning hands send out flame jets 5 feet long in a horizontal arc of about 120 degrees in front of the wizard. Any creature in the area of the flames suffers 1d3 points of damage, plus 2 points for each level of experience of the spellcaster, to a maximum of 1d3+20 points of fire damage. Those successfully saving vs. spell receive half damage. Flammable materials touched by the fire burn (for example, cloth, paper, parchment, thin wood, etc.). Such materials can be extinguished in the next round if no other action is taken.
 
 ### Change Self
 
-(Illusion/Phantasm)
+School: (Illusion/Phantasm)
 Range: 0
 Components: V, S
 Duration: 2d6 rds. + 2 rds./level
@@ -128,7 +109,7 @@ This spell enables the wizard to alter the appearance of his form--including clo
 
 ### Comprehend Languages
 
-(Alteration)
+School: (Alteration)
 Reversible
 Range: Touch
 Components: V, S, M
@@ -144,7 +125,7 @@ The reverse of this spell, confuse languages, cancels a comprehend languages spe
 
 ### Detect Magic
 
-(Divination)
+School: (Divination)
 Range: 0
 Components: V, S
 Duration: 2 rds./level
@@ -155,7 +136,7 @@ When the detect magic spell is cast, the wizard detects magical radiations in a 
 
 ### Enlarge
 
-(Alteration)
+School: (Alteration)
 Reversible
 Range: 5 yds./level
 Components: V, S, M The material component of this spell is a pinch of powdered iron.
@@ -319,8 +300,9 @@ This spell causes the creature touched to vanish from sight and be undetectable 
 The spell remains in effect until it is magically broken or dispelled, until the wizard or recipient cancels it, until the recipient attacks any creature, or until 24 hours have passed. Thus, the invisible being can open doors, talk, eat, climb stairs, etc., but if he attacks, he immediately becomes visible, although the invisibility enables him to attack first. Note that the priest spells bless, chant, and prayer are not attacks for this purpose. All highly Intelligent (Intelligence 13 or more) creatures with 10 or more Hit Dice or levels of experience have a chance to detect invisible objects (they roll saving throws vs. spell; success means they noticed the invisible object).
 The material components of the invisibility spell are an eyelash and a bit of gum arabic, the former encased in the latter.
 
-Knock
-(Alteration)
+### Knock
+
+School: (Alteration)
 Reversible
 Range: 60 yds.
 Components: V
@@ -333,7 +315,7 @@ The reverse spell, lock, closes and locks a door or similar closure, provided th
 
 ### Shatter
 
-(Alteration)
+School: (Alteration)
 Range: 30 yds. + 10 yds./level
 Components: V, S, M
 Duration: Instantaneous
@@ -345,7 +327,7 @@ The material component of this spell is a chip of mica.
 
 ### Web
 
-(Evocation)
+School: (Evocation)
 Range: 5 yds./level
 Components: V, S, M
 Duration: 2 turns/level
@@ -361,11 +343,21 @@ The material component of this spell is a bit of spider web.
 
 ## 3
 
-Death Recall
+### **Death Recall**
+
+School (**Necromancy, Divination**)
+Range: Touch
+Components: V, S, M (The material component for this spell is a fragment from a shattered mirror)
+Duration: Special
+Casting Time: 1 round
+Area of Effect: One corpse
+Saving Throw: None
+
+This spell enables the caster to visualize the final minutes of the life of any creature or person that died within the previous 24 hours. When the caster touches the subject's corpse, the caster goes into a trance. The caster then has a vision of the final 10 minutes of the subject's life as seen by the subject himself. The vision ends with the last scene the subject saw before he died, at which time the caster awakens from his trance and the spell is over.
 
 ### Dispel Magic
 
-(Abjuration)
+School: (Abjuration)
 Range: 120 yds.
 Components: V, S
 Duration: Instantaneous
@@ -378,6 +370,7 @@ Each effect or potion in the spell's area is checked to determine if it is dispe
 A dispel magic spell does not affect a specially enchanted item, such as a magical scroll, ring, wand, rod, staff, miscellaneous item, weapon, shield, or armor, unless it is cast directly upon the item. This renders the item nonoperational for 1d4 rounds. An item possessed and carried by a creature gains the creature's saving throw against this effect; otherwise, it is automatically rendered nonoperational. An interdimensional interface (such as a bag of holding) rendered nonoperational would be temporarily closed. Note that an item's physical properties are unchanged: A nonoperational magical sword is still a sword.
 Artifacts and relics are not subject to this spell; however, some of their spell-like effects may be, at the DM's option.
 Note that this spell can be very effective when used upon charmed and similarly beguiled creatures. Certain spells or effects cannot be dispelled; these are listed in the spell descriptions.
+
 Summary of Dispel Magic Effects
 Source of Effect
 Resists As
@@ -417,3 +410,24 @@ Area of Effect: 1d3 undead
 Saving Throw: Neg.
 When cast, this spell renders immobile 1d3 undead creatures whose total Hit Dice are equal to or less than the caster's level. No more than three undead can be affected by a single spell. To cast, the wizard aims the spell at a point within range and the three undead closest to this are considered to be in the area of effect, provided all are within the field of vision and spell range of the caster. Undead of a mindless nature (skeletons, zombies, or ghouls) are automatically affected. Other forms of undead are allowed a saving throw to negate the effect. If the spell is successful, it renders the undead immobile for the duration of the spell.
 The material component for this spell is a pinch of sulphur and powdered garlic.
+
+
+
+### Suggestion
+
+School: (Enchantment/Charm)
+Range: 30 yds.
+Components: V, M The material components of this spell are a snake's tongue and either a bit of honeycomb or a drop of sweet oil.
+Duration: 1 hr. + 1 hr./level
+Casting Time: 3
+Area of Effect: 1 creature
+Saving Throw: Neg.
+
+When this spell is cast by the wizard, he influences the actions of the chosen recipient by the utterance of a few words--phrases or a sentence or two--suggesting a course of action desirable to the spellcaster. The creature to be influenced must, of course, be able to understand the wizard's suggestion--it must be spoken in a language that the spell recipient understands.
+
+The suggestion must be worded in such a manner as to make the action sound reasonable; asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell. However, a suggestion that a pool of acid was actually pure water and that a quick dip would be refreshing is another matter. Urging a red dragon to stop attacking the wizard's party so that the dragon and party could jointly loot a rich treasure elsewhere is likewise a reasonable use of the spell's power.
+
+The course of action of a suggestion can continue in effect for a considerable duration, such as in the case of the red dragon mentioned above. Conditions that will trigger a special action can also be specified; if the condition is not met before the spell expires, the action will not be performed. If the target successfully rolls its saving throw, the spell has no effect. Note that a very reasonable suggestion causes the saving throw to be made with a penalty (such as -1, -2, etc.) at the discretion of the DM. Undead are not subject to suggestion.
+
+
+

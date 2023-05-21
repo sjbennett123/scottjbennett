@@ -1,0 +1,4 @@
+# https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+/            https://docs.google.com/forms/d/e/1FAIpQLScjlhsW1KOVLdt_YBy-xkgHZqKsu8C3qoEndHWdnTWtuDqqhg/viewform
+/madness             https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122
+/owlbear     
