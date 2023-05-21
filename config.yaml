@@ -266,8 +266,8 @@ params:
           - Configured Windows 2003 Small Business Server using group policies and scripts.
       - job: "Integration Specialist"
         company: "Amcom Office Systems"
-        companyUrl: "https://example.com"
-        date: ", February 2006 – March 2008"
+        companyUrl: "https://teamamcom.com"
+        date: "February 2006 – March 2008"
         content: |
           - Supported networked office equipment for clients in a wide area of Western Pennsylvania.
           - Trained the entirety of the networking field service department.
