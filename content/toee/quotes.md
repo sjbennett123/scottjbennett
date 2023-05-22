@@ -2,6 +2,8 @@
 
 Dedicated to William Robert Bribe
 
+Current as of 2023-05-21
+
 ### The One liners
 
 "DO NOT COERCE ME INTO A NAP" - Aririck
@@ -36,7 +38,7 @@ Dedicated to William Robert Bribe
 
 "Cast some SHIT on this BODYYYY" - Jerry, to Autumn
 
-"just use spells to do some low level crime" - jeff
+
 
 "I will not stand by and allow these people to buy and sell children like they are commodities." - Autumn
 
@@ -48,7 +50,7 @@ Dedicated to William Robert Bribe
 
 "I drove a hard bargin and they think I'm a pervert" - Aririck
 
-"oh nnnnnnnno, im gonna walk with my legs!' - elmo 
+"oh nnnnnnnno, im gonna walk with my legs!' - Elmo 
 
 "I am gonna carry this like a person! not hide it under my hat" - Aririck
 
@@ -220,6 +222,8 @@ Dedicated to William Robert Bribe
 
 ### The Players
 
+"just use spells to do some low level crime" - jeff
+
 "I have a back up gnome cap" - Scott
 
 "Let Lathander sort it out" -Scott
@@ -280,8 +284,8 @@ honey: "wait... the hyenea looking ones not the ones with the hats"
 Autumn: "let me see your hand"
 
 Airrick: "no, it's gross"
-    b
---- 
+
+---
 
 honey: "give me your oatmeal you tiny tinkering bastard"
 

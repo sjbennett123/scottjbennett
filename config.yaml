@@ -2,7 +2,7 @@ baseURL: "https://scottjbennett.com"
 languageCode: "en-us"
 title: "Scott Bennett"
 theme: profile
-
+enableReadingTime: false
 outputs:
   home:
     - "HTML"
