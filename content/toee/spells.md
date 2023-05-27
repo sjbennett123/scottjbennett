@@ -1,15 +1,18 @@
 ---
 title: spells
 # Spell Cards Tarrot Size Chramatic Orb By Color Full Spellbook with Notes
+layout: spells
+spells: adsf
 ---
 
-## 1
 
-### Chromatic Orb 
-
-School: (Alteration, Evocation)
+name:  Chromatic Orb 
+level: 1
+School: 
+  - Alteration
+  - Evocation
 Range: 0
-Components: V, S, M
+Components: V, S, M(A gem of the appropriate hue or any diamond. The gem must have a value of at least 50 gp.)
 Duration: Special
 Casting Time: 1
 Area of Effect: One creature
@@ -33,72 +36,71 @@ If the *chromatic orb* misses its target, it dissipates without effect. If the t
 
 *Petrification* from the *orb* turns the victim to stone. If the victim successfully saves vs. petrification, he avoids turning to stone and instead is slowed (as per the spell) for 2-8 (2d4) rounds. *Death* from the *orb* causes the victim to die. If the victim successfully saves. vs death magic, he avoids death and instead is paralyzed for 2-5 (1d4 +1) rounds.
 
-**Table 16: Chromatic Orb Effects**
+**Chromatic Orb Effects**
 
-| **Level of** | **Color of Orb** | **Hit Points** | **Special**    |
-| ------------ | ---------------- | -------------- | -------------- |
-| **Caster**   | **Generated**    | **of Damage**  | **Power**      |
-| 1st          | White            | 1-4            | Light          |
-| 2nd          | Red              | 1-6            | Heat           |
-| 3rd          | Orange           | 1-8            | Fire           |
-| 4th          | Yellow           | 1-10           | Blindness      |
-| 5th          | Green            | 1-12           | Stinking Cloud |
-| 6th          | Turquoise        | 2-8            | Magnetism      |
-| 7th          | Blue             | 2-16           | Paralysis      |
-| 8th          | Violet           | *slow*         | Petrification  |
-| 9th          | Black            | *paralysis*    | Death          |
+| **Level of Caster** | **Color of Orb Generated** | **Hit Points of Damage** | **Special Power**    |
+| --------------------| ---------------------------| -------------------------| -------------------- |
+| 1st                 | White                      | 1-4                      | Light                |
+| 2nd                 | Red                        | 1-6                      | Heat                 |
+| 3rd                 | Orange                     | 1-8                      | Fire                 |
+| 4th                 | Yellow                     | 1-10                     | Blindness            |
+| 5th                 | Green                      | 1-12                     | Stinking Cloud       |
+| 6th                 | Turquoise                  | 2-8                      | Magnetism            |
+| 7th                 | Blue                       | 2-16                     | Paralysis            |
+| 8th                 | Violet                     | *slow*                   | Petrification        |
+| 9th                 | Black                      | *paralysis*              | Death                |
 
-### Armor
-
+name: Armor
 Level: 1
-School: (Conjuration)
+School: 
+  - Conjuration
 Range: Touch 
 Duration: Special 
 Area of Effect: 1 creature 
-Components: V, S, M (a piece of finely cured leather that has been blessed by a priest)
+Components: V, S, M (A piece of finely cured leather that has been blessed by a priest)
 Casting Time: 1 rd. 
 Saving Throw: None 
 
 Description: By means of this spell, the wizard creates a magical field of force that serves as if it were scale mail armor (AC 6). The spell has no effect on a person already armored or a creature with Armor Class 6 or better. It is not cumulative with the *shield* spell, but it is cumulative with Dexterity and, in case of fighter/mages, with the shield bonus. The *armor* spell does not hinder movement or prevent spellcasting, and adds no weight or encumbrance. It lasts until successfully dispelled or until the wearer sustains cumulative damage totaling greater than 8 points + 1 per level of the caster. (It is important to note that the armor does *not* absorb this damage. The armor merely grants an AC of 6; the wearer still suffers full damage from any successful attacks.) Thus, the wearer might suffer 8 points from an attack, then several minutes later sustain an additional 1 point of damage. Unless the spell were cast by a wizard of 2nd level or higher, it would be dispelled at this time. Until it is dispelled, the *armor* spell grants the wearer full benefits of the Armor Class gained.
 
-### Cantrip
-
-School: All Schools
+name: Cantrip
+level: 1
+School: 
+  - All Schools
 Range: 10 ft. 
 Duration: 1 hr./level 
 Area of Effect: Special 
 Components: V, S 
 Casting Time: 1 
 Saving Throw: None 
-
-Cantrips are minor spells studied by wizards during their apprenticeship, regardless of school. The *cantrip* spell is a practice method for the apprentice, teaching him how to tap minute amounts of magical energy. Once cast, the *cantrip* spell enables the caster to create minor magical effects for the duration of the spell. However, these effects are so minor that they have severe limitations. They are completely unable to cause a loss of hit points, cannot affect the concentration of spellcasters, and can only create small, obviously magical materials. Furthermore, materials created by a cantrip are extremely fragile and cannot be used as tools of any sort. Lastly, a cantrip lacks the power to duplicate any other spell effects.
-
+Description: > 
+  Cantrips are minor spells studied by wizards during their apprenticeship, regardless of school. The *cantrip* spell is a practice method for the apprentice, teaching him how to tap minute amounts of magical energy. Once cast, the *cantrip* spell enables the caster to create minor magical effects for the duration of the spell. However, these effects are so minor that they have severe limitations. They are completely unable to cause a loss of hit points, cannot affect the concentration of spellcasters, and can only create small, obviously magical materials. Furthermore, materials created by a cantrip are extremely fragile and cannot be used as tools of any sort. Lastly, a cantrip lacks the power to duplicate any other spell effects.
 Whatever manifestation the cantrip takes, it remains in effect only as long as the wizard concentrates. Wizards typically use cantrips to impress common folk, amuse children, and brighten dreary lives. Common tricks with cantrips include tinklings of ethereal music, brightening faded flowers, glowing balls that float over the caster's hand, puffs of wind to flicker candles, spicing up aromas and flavors of bland food, and little whirlwinds to sweep dust under rugs. Combined with the *unseen servant* spell, it's a tool to make housekeeping and entertaining simpler for the wizard.
 
-- Fetch 
+    - Fetch 
 
-- Clean
+    - Clean
 
-- Light a flame
+    - Light a flame
 
-
-
-
-### Burning Hands
-
-School: (Alteration)
+name: Burning Hands
+level: 1 
+School:
+  - Alteration
 Range: 0 
 Duration: Instantaneous 
 Area of Effect: The caster 
-Components: V, S 
+Components: V, S
 Casting Time: 1 
 Saving Throw: ½ 
 
 When the wizard casts this spell, a jet of searing flame shoots from his fingertips. His hands must be held so as to send forth a fanlike sheet of flames: The wizard's thumbs must touch each other and the fingers must be spread. The burning hands send out flame jets 5 feet long in a horizontal arc of about 120 degrees in front of the wizard. Any creature in the area of the flames suffers 1d3 points of damage, plus 2 points for each level of experience of the spellcaster, to a maximum of 1d3+20 points of fire damage. Those successfully saving vs. spell receive half damage. Flammable materials touched by the fire burn (for example, cloth, paper, parchment, thin wood, etc.). Such materials can be extinguished in the next round if no other action is taken.
 
-### Change Self
-
-School: (Illusion/Phantasm)
+name: Change Self
+level: 1
+School: 
+  - Illusion
+  - Phantasm
 Range: 0
 Components: V, S
 Duration: 2d6 rds. + 2 rds./level
@@ -107,12 +109,13 @@ Area of Effect: The caster
 Saving Throw: None
 This spell enables the wizard to alter the appearance of his form--including clothing and equipment--to appear 1 foot shorter or taller; thin, fat, or in between; human, humanoid, or any other generally man-shaped bipedal creature. The caster cannot duplicate a specific individual. The spell does not provide the abilities or mannerisms of the chosen form. The duration of the spell is 2d6 rounds plus two additional rounds per level of experience of the spellcaster. The DM may allow a saving throw for disbelief under certain circumstances: for example, if the caster acts in a manner obviously inconsistent with his chosen role. The spell does not alter the perceived tactile (i.e., touch) properties of the caster or his equipment, and the ruse can be discovered in this way.
 
-### Comprehend Languages
-
-School: (Alteration)
+name: Comprehend Languages
+level: 1 
+School: 
+  - Alteration
 Reversible
 Range: Touch
-Components: V, S, M
+Components: V, S, M(A pinch of soot and a few grains of salt.)
 Duration: 5 rds./level
 Casting Time: 1 rd.
 Area of Effect: 1 speaking
@@ -120,89 +123,89 @@ Saving Throw: None
 creature or written text
 
 When this spell is cast, the wizard is able to understand the spoken words of a creature or read an otherwise incomprehensible written message (such as writing in another language). In either case, the wizard must touch the creature or the writing. Note that the ability to read does not necessarily impart understanding of the material, nor does the spell enable the caster to speak or write an unknown language. Written material can be read at the rate of one page or equivalent per round. Magical writing cannot be read, other than to know it is magical, but the spell is often useful when deciphering treasure maps. This spell can be foiled by certain warding magic (the 3rd-level secret page and illusionary script spells), and it does not reveal messages concealed in otherwise normal text.
-The material components of this spell are a pinch of soot and a few grains of salt.
+
 The reverse of this spell, confuse languages, cancels a comprehend languages spell or renders a writing or a creature's speech incomprehensible, for the same duration as above.
 
-### Detect Magic
-
-School: (Divination)
+name: Detect Magic
+School:
+  - Divination
 Range: 0
 Components: V, S
 Duration: 2 rds./level
 Casting Time: 1
 Area of Effect: 10 x 60 ft.
 Saving Throw: None
+
 When the detect magic spell is cast, the wizard detects magical radiations in a path 10 feet wide and up to 60 feet long, in the direction he is facing. The intensity of the magic can be determined (dim, faint, moderate, strong, overwhelming), and the wizard has a 10% chance per level to recognize if a certain type of magic (alteration, conjuration, etc.) is present. The caster can turn, scanning a 60-degree arc per round. A stone wall of 1 foot or more thickness, solid metal of 1 inch thickness, or a yard or more of solid wood blocks the spell. Magical areas, multiple types of magic, or strong local magical emanations may confuse or conceal weaker radiations. Note that this spell does not reveal the presence of good or evil, or reveal alignment. Otherplanar creatures are not necessarily magical.
 
-### Enlarge
-
-School: (Alteration)
+name: Enlarge
+School: 
+  - Alteration
 Reversible
 Range: 5 yds./level
-Components: V, S, M The material component of this spell is a pinch of powdered iron.
+Components: V, S, M (a pinch of powdered iron.)
 Duration: 5 rds./level
 Casting Time: 1
 Area of Effect: 1 creature or object
 Saving Throw: Neg.
 This spell causes instant growth of a creature or object, increasing both size and weight. It can be cast only upon a single creature (or a symbiotic or community entity) or upon a single object that does not exceed 10 cubic feet in volume per caster level. The object or creature must be seen to be affected. It grows by up to 10% per level of experience of the wizard, increasing this amount in height, width, and weight.
+
 All equipment worn or carried by a creature is enlarged by the spell. Unwilling victims are entitled to a saving throw vs. spell. A successful saving throw means the spell fails. If insufficient room is available for the desired growth, the creature or object attains the maximum possible size, bursting weak enclosures in the process, but it is constrained without harm by stronger materials--the spell cannot be used to crush a creature by growth.
+
 Magical properties are not increased by this spell--a huge sword +1 is still only +1, a staff-sized wand is still only capable of its normal functions, a giant-sized potion merely requires a greater fluid intake to make its magical effects operate, etc. Weight, mass, and strength are affected, though. Thus, a table blocking a door would be heavier and more effective, a hurled stone would have more mass (and cause more damage), chains would be more massive, doors thicker, a thin line turned to a sizeable, longer rope, and so on. A creature's hit points, Armor Class, and attack rolls do not change, but damage rolls increase proportionately with size.
+
 For example, a fighter at 160% normal size hits with his long sword and rolls a 6 for damage. The adjusted damage roll is 10 (that is, 6 x 1.6 = 9.6, rounded up). Bonuses due to Strength, class, and magic are not altered.
+
 The reverse spell, reduce, negates the enlarge spell or makes creatures or objects smaller. The creature or object loses 10% of its original size for every level of the caster, to a minimum of 10% of the original size. Thereafter, the size shrinks by 1-foot increments to less than 1 foot, by 1-inch increments to 1 inch, and by 1/10-inch increments to a minimum of 1/10 of an inch--the recipient cannot dwindle away to nothingness.
+
 For example, a 16-foot-tall giant reduced by a 15th-level wizard (15 steps) would be reduced to 1.6 feet (in nine steps), then to 6/10 of a foot or 7.2 inches (in one step), and finally to 2.2 inches (in the last five steps). A shrinking object may damage weaker materials affixed to it, but an object will shrink only as long as the object itself is not damaged. Unwilling creatures are allowed a saving throw vs. spell.
 
-### Shatter
 
-(Alteration)
+name: shatter
+School: 
+  - Alteration
 Range: 30 yds. + 10 yds./level
-Components: V, S, M The material component of this spell is a chip of mica.
+Components: V, S, M (a chip of mica.)
 Duration: Instantaneous
 Casting Time: 2
 Area of Effect: 3-ft. radius
 Saving Throw: Neg.
 The shatter spell is a sound-based attack that affects nonmagical objects of crystal, glass, ceramic, or porcelain, such as vials, bottles, flasks, jugs, windows, mirrors, etc. All such objects within a 3-foot radius of the center of the spell effect are smashed into dozens of pieces by the spell. Objects weighing more than one pound per level of the caster are not affected, but all other objects of the appropriate composition must save vs. crushing blow or be shattered. Alternatively, the spell can be focused against a single item of up to 10 pounds per caster level. Crystalline creatures usually suffer 1d6 points of damage per caster level to a maximum of 6d6, with a saving throw vs. spell for half damage.
 
-**Feather Fall**
-
-
-
-**(Alteration)**
-
-
-
-
-
-| Range: 10 yds./level    | Components: V      |
-| ----------------------- | ------------------ |
-| Duration: 1 rd./level   | Casting Time: 1    |
-| Area of Effect: Special | Saving Throw: None |
-
-
-
-
+name: Feather Fall
+school: Alteration
+Range: 10 yds./level
+Components: V   
+Duration: 1 rd./level
+Casting Time: 1
+Area of Effect: Special
+Saving Throw: None
 
 When this spell is cast, the creature(s) or object(s) affected immediately assumes the mass of a piece of down. The rate of falling is instantly changed to a mere 2 feet per second (120 feet per round), and no damage is incurred upon landing while the spell is in effect. However, when the spell duration ceases, a normal rate of fall occurs. The spell can be cast upon the wizard or some other creature or object up to the maximum range and lasts for one round for each level of the wizard. The *feather fall* affects one or more objects or creatures in a 10-foot cube, as long as the maximum weight of the creatures or objects does not exceed a combined total of 200 pounds plus 200 pounds per level of the spellcaster.
 
-
-
 For example, a 2nd-level wizard has a range of 20 yards, a duration of two rounds, and a weight limit of 600 pounds when casting this spell. The spell works only upon free-falling, flying, or propelled objects (such as missiles). It does not affect a sword blow or a charging creature. Note that the spell can be effectively combined with *gust of wind* and similar spells.
 
-Identify
-(Divination)
+name: Identify
+level: 1
+School: 
+  - Divination
 Range: 0
-Components: V, S, M
+Components: V, S, M(a pearl (of at least 100 gp value) and an owl feather steeped in wine; the infusion must be drunk prior to spellcasting. If a luckstone is powdered and added to the infusion, the divination becomes much more potent: Exact bonuses or charges can be determined, and the functions of a multifunctional item can be learned from a single reading. At the DM's option, certain properties of an artifact or relic might also be learned.)
 Duration: 1 rd./level
 Casting Time: Special
 Area of Effect: 1 item/level
 Saving Throw: None
 When an identify spell is cast, magical items subsequently touched by the wizard can be identified. The eight hours immediately preceding the casting of the spell must be spent purifying the items and removing influences that would corrupt and blur their magical auras. If this period is interrupted, it must be begun again. When the spell is cast, each item must be handled in turn by the wizard. Any consequences of this handling fall fully upon the wizard and may end the spell, although the wizard is allowed any applicable saving throw.
+
 The chance of learning a piece of information about an item is equal to 10% per level of the caster, to a maximum of 90%, rolled by the DM. Any roll of 96-00 indicates a false reading (91-95 reveals nothing). Only one function of a multifunction item is discovered per handling (i.e., a 5th-level wizard could attempt to determine the nature of five different items, five different functions of a single item, or any combination of the two). If any attempt at reading fails, the caster cannot learn any more about that item until he advances a level. Note that some items, such as special magical tomes, cannot be identified with this spell.
 The item never reveals its exact attack or damage bonuses, although the fact that it has few or many bonuses can be determined. If it has charges, only a general indication of the number of charges remaining is learned: powerful (81% - 100% of the total possible charges), strong (61% - 80%), moderate (41% - 60%), weak (6% - 40%), or faint (five charges or less). The faint result takes precedence, so a fully charged ring of three wishes always appears to be only faintly charged.
 After casting the spell and determining what can be learned from it, the wizard loses 8 points of Constitution. He must rest for one hour to recover each point of Constitution. If the 8-point loss drops the spellcaster below a Constitution of 1, he falls unconscious. Consciousness is not regained until full Constitution is restored, which takes 24 hours (one point per three hours for an unconscious character).
-The material components of this spell are a pearl (of at least 100 gp value) and an owl feather steeped in wine; the infusion must be drunk prior to spellcasting. If a luckstone is powdered and added to the infusion, the divination becomes much more potent: Exact bonuses or charges can be determined, and the functions of a multifunctional item can be learned from a single reading. At the DM's option, certain properties of an artifact or relic might also be learned.
+
 
 Magic Missile
-(Evocation)
+level: 1
+School: 
+  - Evocation
 Range: 60 yds. + 10 yds./level
 Components: V, S
 Duration: Instantaneous
@@ -213,8 +216,8 @@ Use of the magic missile spell creates up to five missiles of magical energy tha
 For every two extra levels of experience, the wizard gains an additional missile--he has two at 3rd level, three at 5th level, four at 7th level, etc., up to a total of five missiles at 9th level. If the wizard has multiple missile capability, he can have them strike a single target creature or several creatures, as desired.
 
 ### Protection From Evil
-
-(Abjuration)
+level: 1
+school: Abjuration
 Reversible
 Range: Touch
 Components: V, S, M
@@ -231,24 +234,23 @@ To complete this spell, the wizard must trace a 3-foot-diameter circle on the fl
 This spell can be reversed to become protection from good; the second and third benefits remain unchanged. The material component for the reverse is a circle of powdered iron.
 
 ### Unseen Servant
-
-(Conjuration/Summoning)
+level: 1
+School: 
+  - Conjuration
+  - Summoning)
 Range: 0
-Components: V, S, M
+Components: V, S, M(a piece of string and a bit of wood.)
 Duration: 1 hr. + 1 turn/level
 Casting Time: 1
 Area of Effect: 30-ft. radius
 Saving Throw: None
 The unseen servant is an invisible, mindless, and shapeless force, used to step and fetch, open unstuck doors, and hold chairs, as well as to clean and mend. It is not strong, but unfailingly obeys the command of the wizard. It can perform only one activity at a time and can move only lightweight items, carrying a maximum of 20 pounds or pushing/pulling 40 pounds across a smooth surface. It can open only normal doors, drawers, lids, etc. The unseen servant cannot fight, nor can it be killed, as it is a force rather than a creature. It can be magically dispelled, or eliminated after receiving 6 points of damage from area-effect spells, breath weapons, or similar attacks. If the caster attempts to send it beyond the allowed radius, the spell ends immediately.
-The material components of the spell are a piece of string and a bit of wood.
-
-
 
 ## 2
 
-### Read Magic
+name: Read Magic
 
-(Divination)
+school: Divination
 Range: 0
 Components: V, S, M
 Duration: 2 rds./level
@@ -258,9 +260,8 @@ Saving Throw: None
 By means of a read magic spell, the wizard is able to read magical inscriptions on objects--books, scrolls, weapons, and the like--that would otherwise be totally unintelligible. (The personal books of the wizard, and works already magically read, are intelligible.) This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed scroll. Furthermore, once the spell is cast and the wizard has read the magical inscription, he is thereafter able to read that particular writing without recourse to the use of the read magic spell. The duration of the spell is two rounds per level of experience of the spellcaster; the wizard can read one page or its equivalent per round.
 The wizard must have a clear crystal or mineral prism, which is not expended, to cast the spell.
 
-### Continual Light
-
-(Alteration)
+name: Continual Light
+school: Alteration
 Reversible
 Range: 60 yds.
 Components: V, S
@@ -272,9 +273,10 @@ This spell is similar to a light spell, except that it is as bright as full dayl
 A continual light brought into an area of magical darkness (or vice versa) is temporarily negated so that the otherwise prevailing light conditions exist in the overlapping areas of effect. A direct casting of continual light against a similar or weaker magical darkness cancels both.
 This spell eventually consumes the material it is cast upon, but the process takes far longer than the time in the typical campaign. Extremely hard and expensive materials can last hundreds or even thousands of years.
 
-### ESP
-
-(Divination)
+name: ESP
+level: 2 
+school: 
+  - Divination
 Range: 0
 Components: V, S, M
 Duration: 1 rd./level
@@ -287,22 +289,23 @@ When an ESP spell is used, the caster is able to detect the surface thoughts of 
 The wizard employing the spell is able to probe the surface thoughts of one creature per round, getting simple instinctual thoughts from lower order creatures. Probes can continue on the same creature from round to round or can move on to other creatures. The caster can use the spell to help determine if a creature lurks behind a door, for example, but the ESP does not always reveal what sort of creature it is. If used as part of a program of interrogation, an intelligent and wary subject receives an initial saving throw. If successful, the creature successfully resists and the spell reveals no additional information. If the saving throw is failed, the caster may learn additional information, according to the DM's ruling. The creature's Wisdom adjustment applies, as may additional bonuses up to +4, based on the sensitivity of the information sought.
 The material component of this spell is a copper piece.
 
-### Invisibility
-
-(Illusion/Phantasm)
+name: Invisibility
+level: 2
+school: 
+  - Illusion
+  - Phantasm
 Range: Touch
-Components: V, S, M
+Components: V, S, M(n eyelash and a bit of gum arabic, the former encased in the latter.)
 Duration: Special
 Casting Time: 2
 Area of Effect: Creature touched
 Saving Throw: None
 This spell causes the creature touched to vanish from sight and be undetectable by normal vision or even infravision. Of course, the invisible creature is not magically silenced, and certain other conditions can render the creature detectable. Even allies cannot see the invisible creature or his gear, unless these allies can normally see invisible things or employ magic to do so. Items dropped or put down by the invisible creature become visible; items picked up disappear if tucked into the clothing or pouches worn by the creature. Note, however, that light never becomes invisible, although a source of light can become so (thus, the effect is that of a light with no visible source).
 The spell remains in effect until it is magically broken or dispelled, until the wizard or recipient cancels it, until the recipient attacks any creature, or until 24 hours have passed. Thus, the invisible being can open doors, talk, eat, climb stairs, etc., but if he attacks, he immediately becomes visible, although the invisibility enables him to attack first. Note that the priest spells bless, chant, and prayer are not attacks for this purpose. All highly Intelligent (Intelligence 13 or more) creatures with 10 or more Hit Dice or levels of experience have a chance to detect invisible objects (they roll saving throws vs. spell; success means they noticed the invisible object).
-The material components of the invisibility spell are an eyelash and a bit of gum arabic, the former encased in the latter.
 
-### Knock
-
-School: (Alteration)
+name: Knock
+School: 
+  - Alteration
 Reversible
 Range: 60 yds.
 Components: V
@@ -315,19 +318,20 @@ The reverse spell, lock, closes and locks a door or similar closure, provided th
 
 ### Shatter
 
-School: (Alteration)
+School: 
+  - Alteration
 Range: 30 yds. + 10 yds./level
-Components: V, S, M
+Components: V, S, M(a chip of mica.)
 Duration: Instantaneous
 Casting Time: 2
 Area of Effect: 3-ft. radius
 Saving Throw: Neg.
 The shatter spell is a sound-based attack that affects nonmagical objects of crystal, glass, ceramic, or porcelain, such as vials, bottles, flasks, jugs, windows, mirrors, etc. All such objects within a 3-foot radius of the center of the spell effect are smashed into dozens of pieces by the spell. Objects weighing more than one pound per level of the caster are not affected, but all other objects of the appropriate composition must save vs. crushing blow or be shattered. Alternatively, the spell can be focused against a single item of up to 10 pounds per caster level. Crystalline creatures usually suffer 1d6 points of damage per caster level to a maximum of 6d6, with a saving throw vs. spell for half damage.
-The material component of this spell is a chip of mica.
 
-### Web
-
-School: (Evocation)
+name: Web
+level: 2
+School: 
+  - Evocation
 Range: 5 yds./level
 Components: V, S, M
 Duration: 2 turns/level
@@ -343,20 +347,20 @@ The material component of this spell is a bit of spider web.
 
 ## 3
 
-### **Death Recall**
-
-School (**Necromancy, Divination**)
+name: Death Recall
+level: 3
+School:
+  - Necromancy
+  - Divination
 Range: Touch
 Components: V, S, M (The material component for this spell is a fragment from a shattered mirror)
 Duration: Special
 Casting Time: 1 round
 Area of Effect: One corpse
 Saving Throw: None
+description: This spell enables the caster to visualize the final minutes of the life of any creature or person that died within the previous 24 hours. When the caster touches the subject's corpse, the caster goes into a trance. The caster then has a vision of the final 10 minutes of the subject's life as seen by the subject himself. The vision ends with the last scene the subject saw before he died, at which time the caster awakens from his trance and the spell is over.
 
-This spell enables the caster to visualize the final minutes of the life of any creature or person that died within the previous 24 hours. When the caster touches the subject's corpse, the caster goes into a trance. The caster then has a vision of the final 10 minutes of the subject's life as seen by the subject himself. The vision ends with the last scene the subject saw before he died, at which time the caster awakens from his trance and the spell is over.
-
-### Dispel Magic
-
+name: Dispel Magic
 School: (Abjuration)
 Range: 120 yds.
 Components: V, S
@@ -401,23 +405,22 @@ DM discretion
 
 ### Hold Undead
 
-(Necromancy)
+School: Necromancy
 Range: 60 ft.
-Components: V, S, M
+Components: V, S, M(The material component for this spell is a pinch of sulphur and powdered garlic.
+)
 Duration: 1d4 rds. + 1 rd./level
 Casting Time: 5
 Area of Effect: 1d3 undead
 Saving Throw: Neg.
 When cast, this spell renders immobile 1d3 undead creatures whose total Hit Dice are equal to or less than the caster's level. No more than three undead can be affected by a single spell. To cast, the wizard aims the spell at a point within range and the three undead closest to this are considered to be in the area of effect, provided all are within the field of vision and spell range of the caster. Undead of a mindless nature (skeletons, zombies, or ghouls) are automatically affected. Other forms of undead are allowed a saving throw to negate the effect. If the spell is successful, it renders the undead immobile for the duration of the spell.
-The material component for this spell is a pinch of sulphur and powdered garlic.
 
-
-
-### Suggestion
-
-School: (Enchantment/Charm)
+name: Suggestion
+School: 
+  - Enchantment
+  - Charm
 Range: 30 yds.
-Components: V, M The material components of this spell are a snake's tongue and either a bit of honeycomb or a drop of sweet oil.
+Components: V, M(A snake's tongue and either a bit of honeycomb or a drop of sweet oil.)
 Duration: 1 hr. + 1 hr./level
 Casting Time: 3
 Area of Effect: 1 creature
@@ -428,6 +431,3 @@ When this spell is cast by the wizard, he influences the actions of the chosen r
 The suggestion must be worded in such a manner as to make the action sound reasonable; asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell. However, a suggestion that a pool of acid was actually pure water and that a quick dip would be refreshing is another matter. Urging a red dragon to stop attacking the wizard's party so that the dragon and party could jointly loot a rich treasure elsewhere is likewise a reasonable use of the spell's power.
 
 The course of action of a suggestion can continue in effect for a considerable duration, such as in the case of the red dragon mentioned above. Conditions that will trigger a special action can also be specified; if the condition is not met before the spell expires, the action will not be performed. If the target successfully rolls its saving throw, the spell has no effect. Note that a very reasonable suggestion causes the saving throw to be made with a penalty (such as -1, -2, etc.) at the discretion of the DM. Undead are not subject to suggestion.
-
-
-

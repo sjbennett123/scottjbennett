@@ -36,7 +36,69 @@
           </div>
           {{ end }}
           <article class="page-content  p-2">
-          {{ .Params.name }}
+          Name: {{ .Params.name }}
+          Alignment: {{ .Params.Alignment }}
+          Race: {{ .Params.Race }}
+          Class: {{ .Params.Class }}
+          Level: {{ .Params.Level }}
+          Name: {{ .Params.name }}
+<hr>
+<table>
+<tbody>
+<tr>
+<td>Str:</td>
+<td>{{ .Params.Str }}</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>DEX</td>
+<td>{{ .Params.Dex }}</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td> WIS</td>
+<td>{{ .Params.Wis }}</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td> CON</td>
+<td>{{ .Params.Con }}</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>INT</td>
+<td>{{ .Params.Int }}</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>CHA</td>
+<td>{{ .Params.Cha }}</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+<!-- DivTable.com -->
+           
+
+
+<p>HP: {{ .Params.HP }}</p>
+<p>AC: {{ .Params.AC }}</p>
+
+
+
           {{ .Content | emojify }}
           </article>
         </div>

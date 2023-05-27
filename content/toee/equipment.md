@@ -38,3 +38,19 @@ Kind of lame lookiing.
 ### Boots of featherfall
 
 When the wearer falls greater than 30 feet, the boots activate as per the feather fall spell. They do not activate for distances shorter than 30 feet, and do not activate if a character jumps or otherwise deliberately 'falls'.
+
+### Scroll of Detect Scrying 
+
+as per 4th level spell  (can be read from scroll, or copied into spellbook)
+
+### Scroll of Drawmij’s Instant Exit
+
+as noted in the server (can be read from scroll or copied into spellbook
+
+### Scroll of Protection from Tanar’ai
+
+(can only be read from scroll) 
+
+### Wand of paralysis
+
+2 charges remaining. With an activation word, will cause paralysis in one target. Target save vs spell to negate. Creatures normally immune to this spell are not. 
