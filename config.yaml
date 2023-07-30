@@ -146,15 +146,15 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "AWS"
+        - "Amazon Web Services"
         - "Ansible"
         - "Terraform"
         - "Grafana"
         - "Jenkins"
         - "Git"
-        - XML
-        - EDI X12
-        - Bash
+        - "XML"
+        - "EDI X12"
+        - "Bash"
 
   # Experience
   experience:
@@ -181,10 +181,10 @@ params:
           ### Misc Duties
           
             - Chaired Closed Loop internal conference. 
-      - job: "Software Developer"
+      - job: "Senior Software Application Engineer"
         company: "Philips Respironics"
         companyUrl: "https://www.usa.philips.com/healthcare/e/respironics"
-        date: "Sep 2020 - Dec 2021"
+        date: "August 2012 - Nov 2019"
         content: | 
           ### System Administration and DevOps
           
@@ -220,7 +220,7 @@ params:
       - job: "EDI Analyst"
         company: "GlaxoSmithKline"
         companyUrl: "https://www.gsk.com"
-        date: "Jan 2020 - Aug 2020"
+        date: "May 2011 - January 2012"
         content: |
            - Facilitated trading partner implementation and development with outsourced EDI vendor GXS.
            - Resolved EDI business support issues, resulting in cost savings by reducing chargebacks.
@@ -233,7 +233,7 @@ params:
       - job: "Technical Support Specialist"
         company: "True Commerce"
         companyUrl: "https://www.truecommerce.com"
-        date: "June 2017 - Nov 2019"
+        date: "June 2017 - November 2019"
         content: |
           - Provided phone support for Transaction Manager and Integrator software for 3,000+ customers.
           - Logged case information in NetSuite ticketing system.
@@ -243,10 +243,10 @@ params:
           - Resolved issues with integration between Transaction Manager software and back office systems.
           - Performed quality assurance testing on new iterations of the Transaction Manager software.
           - Advised developers regarding software improvements based on customer feedback.
-      - job: "Product Designer"
+      - job: "Customer Support Lead"
         company: "Petrosoft"
         companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
+        date: "May 2008 - June 2009"
         content: |
           - Remotely troubleshot issues with online back office software product using GotoAssist and VNC.
           - Created manuals and other training materials streamlining the training process.
