@@ -1,9 +1,13 @@
 ---
 title: Equipment
 ---
+Group Equipment
+
+
+
 ## Money
 
-90-GP 
+90 GP 
 
 ## Equipment
 
@@ -23,9 +27,11 @@ gem cutting equipment
 
 ## Magic Items
 
+### [Spellbook](https://calendar.google.com/) 
+
 ### Robes +2
 
-Kind of lame lookiing.
+Kind of lame looking.
 
 ### Bag of Holding(Modified)
 
@@ -45,12 +51,32 @@ as per 4th level spell  (can be read from scroll, or copied into spellbook)
 
 ### Scroll of Drawmij’s Instant Exit
 
-as noted in the server (can be read from scroll or copied into spellbook
+as noted in the server (can be read from scroll or copied into spellbook)
 
 ### Scroll of Protection from Tanar’ai
 
 (can only be read from scroll) 
 
+### Stone of Force
+
+
+
 ### Wand of paralysis
 
 2 charges remaining. With an activation word, will cause paralysis in one target. Target save vs spell to negate. Creatures normally immune to this spell are not. 
+
+### Scroll of Flame Magic
+
+###  Scroll of Seeing 
+
+### Scroll of fly - 
+
+wizard spell can be copied into spellbook 
+
+### Scroll of stinking cloud 
+
+wizard spall can be copied into spellbook 
+
+### Scroll of Confer Water Breathing -
+
+ wizard spell cannot be copied into spellbook"
