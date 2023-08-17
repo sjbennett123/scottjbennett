@@ -1,6 +1,11 @@
 ---
 Layout: character_sheet
 
+Name: Arrick Goldheart
+Alignment: Neutral good
+Race: Rock Gnome
+Class: Wizard
+Level: 7
 
 AC: 4
 Str: 17
@@ -10,16 +15,6 @@ Int: 21
 Wis: 11
 Cha: 12
 ---
-
-
-
-**Name**: Arrick Goldheart
-**Alignment**: Neutral good
-Race: Rock Gnome
-Class: Wizard
-Level: 7
-
-
 
 
 

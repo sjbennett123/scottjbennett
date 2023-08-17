@@ -280,13 +280,13 @@ This spell is similar to a light spell, except that it is as bright as full dayl
 A continual light brought into an area of magical darkness (or vice versa) is temporarily negated so that the otherwise prevailing light conditions exist in the overlapping areas of effect. A direct casting of continual light against a similar or weaker magical darkness cancels both.
 This spell eventually consumes the material it is cast upon, but the process takes far longer than the time in the typical campaign. Extremely hard and expensive materials can last hundreds or even thousands of years.
 
-name: ESP
-level: 2 
-school: 
-  - Divination
-Range: 0
-Components: V, S, M
-Duration: 1 rd./level
+### ESP
+
+**level**: 2 
+**school**: Divination
+**Range**: 0
+**Components**: V, S, M
+**Duration**: 1 rd./level
 Casting Time: 2
 Area of Effect: 5 yds./level
 Saving Throw: None
