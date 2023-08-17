@@ -3,6 +3,12 @@ Layout: character_sheet
 
 
 AC: 4
+Str: 17
+Dex: 18
+Con: 16
+Int: 21
+Wis: 11
+Cha: 12
 ---
 
 
@@ -13,14 +19,9 @@ Race: Rock Gnome
 Class: Wizard
 Level: 7
 
-## Stats
 
-Str: 17
-Dex: 18
-Con: 16
-Int: 21
-Wis: 11
-Cha: 12
+
+
 
 ## HP
 
@@ -44,10 +45,6 @@ Roll **Over** these. These do not change till level 11
 
 ### Weapons
 
-
-
-
-
 |               |      |      |
 | ------------- | ---- | ---- |
 | Sling         |      |      |
@@ -60,13 +57,44 @@ Roll **Over** these. These do not change till level 11
 
 Languages
 
-Ancient Elvish
-
-Demonic 
+- Ancient Elvish
+- Demonic 
 
 The Curse of St Cuthbert
 
-Nonweapon Proficiencies
+Perception (13)
+
+Immune all 1/2/3
+
+Know Curse
+
+Gnome Mining
+
++1 to hit vz kobalds goblins
+
+
+
+## Nonweapon Proficiencies
+
+(Roll Under Stat)
+
+Magical Lore/history (INT)
+
+Spellcraft (INT/-2)
+
+Disguise
+
+Navigation
+
+Gemcuttting
+
+Mining
+
+Enginerering
+
+Tinkering
+
+Herbalism
 
 
 

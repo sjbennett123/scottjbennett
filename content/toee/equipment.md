@@ -39,7 +39,7 @@ Kind of lame looking.
 
 ### Small wooden bowl
 
-2x per day when the appropriate phrasse is psoke nwill produce and nutritious and adequate meal.
+2x per day when the appropriate phrase is spoke will produce and nutritious and adequate meal.
 
 ### Boots of featherfall
 
@@ -77,6 +77,6 @@ wizard spell can be copied into spellbook
 
 wizard spall can be copied into spellbook 
 
-### Scroll of Confer Water Breathing -
+### Scroll of Confer Water Breathing
 
  wizard spell cannot be copied into spellbook"
