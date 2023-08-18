@@ -16,7 +16,7 @@ layout: single
 
 [Character Sheet](./character_sheet)
 
-[Personal Equipment](./equipment) [Group Equipment](https://docs.google.com/spreadsheets/d/19n1yl4AQ1JiV64LYY_idK_FN5MMfU6MtAT0bgjfwm5c/edit#gid=2084483276)
+[Personal Equipment](./equipment)    -    [Group Equipment](https://docs.google.com/spreadsheets/d/19n1yl4AQ1JiV64LYY_idK_FN5MMfU6MtAT0bgjfwm5c/edit#gid=2084483276)
 
 ---
 
