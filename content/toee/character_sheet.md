@@ -30,21 +30,21 @@ Cha: 12
 
 Roll **Over** these. These do not change till level 11
 
-|      | Saving Throw       |      |
-| ---- | ------------------ | ---- |
-|      | Paraze /Poison/DM  | 13   |
-|      | Rod, Staff or Wand | 9    |
-|      | Petrify/ Polymorph | 11   |
-|      | Breath Weapon      | 13   |
-|      | Spells             | 10   |
+|      | Saving Throw       | Roll Under |
+| ---- | ------------------ | ---------- |
+|      | Paraze /Poison/DM  | 13         |
+|      | Rod, Staff or Wand | 9          |
+|      | Petrify/ Polymorph | 11         |
+|      | Breath Weapon      | 13         |
+|      | Spells             | 10         |
 
 ### Weapons
 
-|               |      |      |
-| ------------- | ---- | ---- |
-| Sling         |      |      |
-| Dagger        |      |      |
-| Thrown Dagger |      |      |
+| Weapon        | #AT  | Attack Adj/DMg Adj |
+| ------------- | ---- | ------------------ |
+|               |      |                    |
+| Dagger        |      |                    |
+| Thrown Dagger |      |                    |
 
 
 
@@ -73,25 +73,15 @@ Gnome Mining
 
 (Roll Under Stat)
 
-Magical Lore/history (INT)
-
-Spellcraft (INT/-2)
-
-Disguise
-
-Navigation
-
-Gemcuttting
-
-Mining
-
-Enginerering
-
-Tinkering
-
-Herbalism
-
-
+- Magical Lore/history (INT)
+- Spellcraft (INT/-2)
+- Disguise
+- Navigation
+- Gemcuttting
+- Mining
+- Enginerering
+- Tinkering
+- Herbalism
 
 ## Spells
 
@@ -99,4 +89,6 @@ Herbalism
 - **2nd**: 5
 - **3rd**: 5
 - **4th**: 2 
+
+
 

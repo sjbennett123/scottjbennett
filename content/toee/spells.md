@@ -108,24 +108,25 @@ When the wizard casts this spell, a jet of searing flame shoots from his fingert
 
 This spell enables the wizard to alter the appearance of his form--including clothing and equipment--to appear 1 foot shorter or taller; thin, fat, or in between; human, humanoid, or any other generally man-shaped bipedal creature. The caster cannot duplicate a specific individual. The spell does not provide the abilities or mannerisms of the chosen form. The duration of the spell is 2d6 rounds plus two additional rounds per level of experience of the spellcaster. The DM may allow a saving throw for disbelief under certain circumstances: for example, if the caster acts in a manner obviously inconsistent with his chosen role. The spell does not alter the perceived tactile (i.e., touch) properties of the caster or his equipment, and the ruse can be discovered in this way.
 
-### name: Comprehend Languages
+###  Comprehend Languages
 
 **level**: 1 
 **School**: Alteration
 **Reversible**
 **Range**: Touch
-Components: V, S, M(A pinch of soot and a few grains of salt.)
-Duration: 5 rds./level
-Casting Time: 1 rd.
-Area of Effect: 1 speaking
-Saving Throw: None
+**Components**: V, S, M(A pinch of soot and a few grains of salt.)
+**Duration**: 5 rds./level
+**Casting Time**: 1 rd.
+**Area of Effect**: 1 speaking
+**Saving Throw**: None
+
 creature or written text
 
 When this spell is cast, the wizard is able to understand the spoken words of a creature or read an otherwise incomprehensible written message (such as writing in another language). In either case, the wizard must touch the creature or the writing. Note that the ability to read does not necessarily impart understanding of the material, nor does the spell enable the caster to speak or write an unknown language. Written material can be read at the rate of one page or equivalent per round. Magical writing cannot be read, other than to know it is magical, but the spell is often useful when deciphering treasure maps. This spell can be foiled by certain warding magic (the 3rd-level secret page and illusionary script spells), and it does not reveal messages concealed in otherwise normal text.
 
 The reverse of this spell, confuse languages, cancels a comprehend languages spell or renders a writing or a creature's speech incomprehensible, for the same duration as above.
 
-### name: Detect Magic
+### Detect Magic
 
 **School**: Divination
 **Range**: 0
@@ -137,10 +138,10 @@ The reverse of this spell, confuse languages, cancels a comprehend languages spe
 
 When the detect magic spell is cast, the wizard detects magical radiations in a path 10 feet wide and up to 60 feet long, in the direction he is facing. The intensity of the magic can be determined (dim, faint, moderate, strong, overwhelming), and the wizard has a 10% chance per level to recognize if a certain type of magic (alteration, conjuration, etc.) is present. The caster can turn, scanning a 60-degree arc per round. A stone wall of 1 foot or more thickness, solid metal of 1 inch thickness, or a yard or more of solid wood blocks the spell. Magical areas, multiple types of magic, or strong local magical emanations may confuse or conceal weaker radiations. Note that this spell does not reveal the presence of good or evil, or reveal alignment. Otherplanar creatures are not necessarily magical.
 
-### name: Enlarge
+### Enlarge
 
 **School**:  Alteration
-Reversible
+**Reversible**
 **Range**: 5 yds./level
 **Components**: V, S, M (a pinch of powdered iron.)
 **Duration**: 5 rds./level
@@ -162,15 +163,14 @@ For example, a 16-foot-tall giant reduced by a 15th-level wizard (15 steps) woul
 
 ### name: shatter
 
-School: 
+**School**: Alteration
+**Range**: 30 yds. + 10 yds./level
+**Components**: V, S, M (a chip of mica.)
+**Duration**: Instantaneous
+**Casting Time**: 2
+**Area of Effect:** 3-ft. radius
+**Saving Throw**: Neg.
 
-  - Alteration
-Range: 30 yds. + 10 yds./level
-Components: V, S, M (a chip of mica.)
-Duration: Instantaneous
-Casting Time: 2
-Area of Effect: 3-ft. radius
-Saving Throw: Neg.
 The shatter spell is a sound-based attack that affects nonmagical objects of crystal, glass, ceramic, or porcelain, such as vials, bottles, flasks, jugs, windows, mirrors, etc. All such objects within a 3-foot radius of the center of the spell effect are smashed into dozens of pieces by the spell. Objects weighing more than one pound per level of the caster are not affected, but all other objects of the appropriate composition must save vs. crushing blow or be shattered. Alternatively, the spell can be focused against a single item of up to 10 pounds per caster level. Crystalline creatures usually suffer 1d6 points of damage per caster level to a maximum of 6d6, with a saving throw vs. spell for half damage.
 
 ### name: Feather Fall
@@ -207,32 +207,33 @@ After casting the spell and determining what can be learned from it, the wizard 
 
 ### name: Magic Missile
 
-level: 1
-School: 
+**level**: 1
+**School**: Evocation
+**Range**: 60 yds. + 10 yds./level
+**Components**: V, S
+**Duration**: Instantaneous
+**Casting Time**: 1
+**Area of Effect**: 1-5 targets
+**Saving Throw**: None
 
-  - Evocation
-Range: 60 yds. + 10 yds./level
-Components: V, S
-Duration: Instantaneous
-Casting Time: 1
-Area of Effect: 1-5 targets
-Saving Throw: None
 Use of the magic missile spell creates up to five missiles of magical energy that dart forth from the wizard's fingertip and unerringly strike their target. This includes enemy creatures in a melee. The target creature must be seen or otherwise detected to be hit, however, so near-total concealment, such as that offered by arrow slits, can render the spell ineffective. Likewise, the caster must be able to identify the target. He cannot direct a magic missile to “Strike the commander of the legion,” unless he can single out the commander from the rest of the soldiers. Specific parts of a creature cannot be singled out. Inanimate objects (locks, etc.) cannot be damaged by the spell, and any attempt to do so wastes the missiles to no effect. Against creatures, each missile inflicts 1d4+1 points of damage.
 For every two extra levels of experience, the wizard gains an additional missile--he has two at 3rd level, three at 5th level, four at 7th level, etc., up to a total of five missiles at 9th level. If the wizard has multiple missile capability, he can have them strike a single target creature or several creatures, as desired.
 
 ### name: Protection From Evil
 
-level: 1
-school: Abjuration
-Reversible
-Range: Touch
-Components: V, S, M
-Duration: 2 rds./level
-Casting Time: 1
-Area of Effect: Creature touched
-Saving Throw: None
+**level**: 1
+**school**: Abjuration
+**Reversible**
+**Range**: Touch
+**Components**: V, S, M
+**Duration**: 2 rds./level
+**Casting Time**: 1
+**Area of Effect**: Creature touched
+**Saving Throw**: None
+
 When this spell is cast, it creates a magical barrier around the recipient at a distance of 1 foot. The barrier moves with the recipient and has three major effects:
 First, all attacks made by evil (or evilly enchanted) creatures against the protected creature suffer -2 penalties to attack rolls; any saving throws caused by such attacks are made with +2 bonuses.
+
 Second, any attempt to possess (as by a magic jar attack) or to exercise mental control over (as by a vampire's charm ability) the protected creature is blocked by this spell. Note that the protection does not prevent a vampire's charm itself, but it does prevent the exercise of mental control through the barrier. Likewise, a possessing life force is merely kept out. It would not be expelled if in place before the protection is cast.
 Third, the spell prevents bodily contact by creatures of an extraplanar or conjured nature (such as aerial servants, elementals, imps, invisible stalkers, salamanders, water weirds, xorn, and others). This causes the natural (body) weapon attacks of such creatures to fail and the creatures to recoil, if such attacks require touching the protected being. Animals or monsters summoned or conjured by spells or similar magic are likewise hedged from the character.
 This protection ends if the protected character makes a melee attack against or tries to force the barrier against the blocked creature.
@@ -296,11 +297,10 @@ When an ESP spell is used, the caster is able to detect the surface thoughts of 
 The wizard employing the spell is able to probe the surface thoughts of one creature per round, getting simple instinctual thoughts from lower order creatures. Probes can continue on the same creature from round to round or can move on to other creatures. The caster can use the spell to help determine if a creature lurks behind a door, for example, but the ESP does not always reveal what sort of creature it is. If used as part of a program of interrogation, an intelligent and wary subject receives an initial saving throw. If successful, the creature successfully resists and the spell reveals no additional information. If the saving throw is failed, the caster may learn additional information, according to the DM's ruling. The creature's Wisdom adjustment applies, as may additional bonuses up to +4, based on the sensitivity of the information sought.
 The material component of this spell is a copper piece.
 
-name: Invisibility
-level: 2
-school: 
-  - Illusion
-  - Phantasm
+### Invisibility
+
+**level**: 2
+**school**: Illusion, Phantasm
 Range: Touch
 Components: V, S, M(n eyelash and a bit of gum arabic, the former encased in the latter.)
 Duration: Special
@@ -336,18 +336,17 @@ The reverse spell, lock, closes and locks a door or similar closure, provided th
 
 The shatter spell is a sound-based attack that affects nonmagical objects of crystal, glass, ceramic, or porcelain, such as vials, bottles, flasks, jugs, windows, mirrors, etc. All such objects within a 3-foot radius of the center of the spell effect are smashed into dozens of pieces by the spell. Objects weighing more than one pound per level of the caster are not affected, but all other objects of the appropriate composition must save vs. crushing blow or be shattered. Alternatively, the spell can be focused against a single item of up to 10 pounds per caster level. Crystalline creatures usually suffer 1d6 points of damage per caster level to a maximum of 6d6, with a saving throw vs. spell for half damage.
 
-### name: Web
+### Web
 
-level: 2
-School: 
+**level**: 2
+**School**: Evocation
+**Range**: 5 yds./level
+**Components**: V, S, M
+**Duration**: 2 turns/level
+**Casting Time**: 2
+**Area of Effect**: 8,000 cubic ft.
+**Saving Throw**: Neg. or ½
 
-  - Evocation
-Range: 5 yds./level
-Components: V, S, M
-Duration: 2 turns/level
-Casting Time: 2
-Area of Effect: 8,000 cubic ft.
-Saving Throw: Neg. or ½
 A web spell creates a many-layered mass of strong, sticky strands similar to spider webs but far larger and tougher. These masses must be anchored to two or more solid and diametrically opposed points--floor and ceiling, opposite walls, etc.--or the web collapses upon itself and disappears.
 The web spell covers a maximum area of eight 10-foot x 10-foot x 10-foot cubes and the webs must be at least 10 feet thick, so a mass 40 feet high, 20 feet wide, and 10 feet deep may be cast. Creatures caught within webs, or simply touching them, become stuck among the gluey fibers.
 Anyone in the area when the spell is cast must roll a saving throw vs. spell with a -2 penalty. If the saving throw is successful, two things may have occurred. If the creature has room to escape the area, then it is assumed to have jumped free. If there is no room to escape, then the webs are only half strength. Creatures with less than 13 Strength (7 if the webs are half strength) are stuck until freed by another or until the spell wears off. Missile fire is generally ineffective against creatures trapped in webs.
@@ -386,31 +385,34 @@ A dispel magic spell does not affect a specially enchanted item, such as a magic
 Artifacts and relics are not subject to this spell; however, some of their spell-like effects may be, at the DM's option.
 Note that this spell can be very effective when used upon charmed and similarly beguiled creatures. Certain spells or effects cannot be dispelled; these are listed in the spell descriptions.
 
-Summary of Dispel Magic Effects
-Source of Effect
-Resists As
-Result of Dispel
-Caster
-None
-Dispel automatic
-Other caster/innate ability
-Level/HD of other caster
-Effect negated
-Wand
-6th level
+**Summary of Dispel Magic Effects**
+
+| Source of Effect            | Resists As               | Result of Dispel |
+| --------------------------- | ------------------------ | ---------------- |
+| Caster                      | None                     | Dispel automatic |
+| Other caster/innate ability | Level/HD of other caster | Effect negated   |
+| Wand                        | 6th level                |                  |
+| Staff                       | 8th level                |                  |
+| Other magic                 | 12th, unless special     |                  |
+| Potion                      | 12th level               | Potion destroyed |
+| Artifact                    | DM discretion            | DM discretion    |
+
+
+
+
+
+
+
+
+
+
+
 *
-Staff
-8th level
+
 *
-Potion
-12th level
-Potion destroyed
-Other magic
-12th, unless special
+
+
 *
-Artifact
-DM discretion
-DM discretion
 
 * Effect negated; if cast directly on item, item becomes nonoperational for 1d4 rounds.
 

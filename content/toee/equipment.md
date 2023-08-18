@@ -1,9 +1,7 @@
 ---
 title: Equipment
 ---
-Group Equipment
-
-
+[Group Equipment](https://docs.google.com/spreadsheets/d/19n1yl4AQ1JiV64LYY_idK_FN5MMfU6MtAT0bgjfwm5c/edit#gid=2084483276)
 
 ## Money
 
@@ -35,7 +33,7 @@ Kind of lame looking.
 
 ### Bag of Holding(Modified)
 
- Can carry up to 500 pounds of equipment. Nothing living can go inside it including food/plants/rations additionally nothing with sharp points or explosive can enter. Nothing weird or magic happens it just doesn't go in. 
+Can carry up to 500 pounds of equipment. Nothing living can go inside it including food/plants/rations additionally nothing with sharp points or explosive can enter. Nothing weird or magic happens it just doesn't go in. 
 
 ### Small wooden bowl
 
@@ -67,15 +65,15 @@ as noted in the server (can be read from scroll or copied into spellbook)
 
 ### Scroll of Flame Magic
 
+
+
 ###  Scroll of Seeing 
 
-### Scroll of fly - 
+
+
+### Scroll of fly 
 
 wizard spell can be copied into spellbook 
-
-### Scroll of stinking cloud 
-
-wizard spall can be copied into spellbook 
 
 ### Scroll of Confer Water Breathing
 

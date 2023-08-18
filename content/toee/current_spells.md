@@ -10,7 +10,7 @@ layout: single
 # 1
 Change Self     [ ]
 Enlarge         [-]
-Magic Missle    [-] [-] [ ]
+Magic Missle    [-] [-] [-]
 
 # 2
 Continual Light [ ] 
