@@ -666,3 +666,27 @@ spells: adsf
 > By means of this spell, the wizard immediately becomes aware of any attempt to observe him by means of clairvoyance, clairaudience, or magic mirror. This also reveals the use of crystal balls or other magical scrying devices, provided the attempt is within the area of effect of the spell. Since the spell is centered on the spellcaster, it moves with him, enabling him to “sweep” areas for the duration of the spell.
 >
 > When a scrying attempt is detected, the scryer must immediately roll a saving throw. If this is failed, the identity and general location of the scryer immediately become known to the wizard who cast this spell. The general location is a direction and significant landmark close to the scryer. Thus, the caster might learn, “The wizard Sniggel spies on us from east, under the stairs,” or, “You are watched by Asquil in the city of Samarquol.”
+
+## 5
+
+### Wall of Force
+
+**School:** Evocation 
+
+**Range**: 30 yds.
+
+**Components**: V, S, M The material component for this spell is a pinch of powdered diamond worth 5,000 gp.
+
+**Duration**: 1 turn + 1 rd./level
+
+**Casting Time**: 5
+
+**Area of Effect:** 10-ft. square/level
+
+**Saving Throw**: None
+
+> A wall of force spell creates an invisible barrier in the locale desired by the caster, up to the spell's range. The wall of force cannot move and is totally unaffected by most spells, including dispel magic. However, a disintegrate spell will immediately destroy it, as will a rod of cancellation or a sphere of annihilation. Likewise, the wall of force is not affected by blows, missiles, cold, heat, electricity, etc. Spells and breath weapons cannot pass through it in either direction, although dimension door, teleport, and similar effects can bypass the barrier.
+>
+> The wizard can, if desired, form the wall into a spherical shape with a radius of up to 1 foot per level or an open hemispherical shape with a radius of 1.5 feet per caster level. The wall of force must be continuous and unbroken when formed; if its surface is broken by any object or creature, the spell fails. The caster can end the spell on command.
+>
+

@@ -41,15 +41,15 @@ Can carry up to 500 pounds of equipment. Nothing living can go inside it includi
 
 ### Boots of Featherfall
 
-When the wearer falls greater than 30 feet, the boots activate as per the feather fall spell. They do not activate for distances shorter than 30 feet, and do not activate if a character jumps or otherwise deliberately 'falls'.
+When the wearer falls greater than 30 feet, the boots activate as per the [feather fall spell](https://scottjbennett.com/toee/spells/#feather-fall). They do not activate for distances shorter than 30 feet, and do not activate if a character jumps or otherwise deliberately 'falls'.
 
 ### Scroll of Detect Scrying 
 
-as per 4th level spell  (can be read from scroll, or copied into spellbook)
+(can be read from scroll, or copied into spellbook [Per Spell](https://scottjbennett.com/toee/spells/#detect-scrying) 
 
 ### Scroll of Drawmij’s Instant Exit
 
-as noted in the server (can be read from scroll or copied into spellbook)
+can be read from scroll or copied into spellbook . [Per Spell](https://scottjbennett.com/toee/spells/#drawmijs-instant-exit-alteration-conjuration) 
 
 ### Scroll of Protection from Tanar’ai
 
