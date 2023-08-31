@@ -22,5 +22,4 @@ layout: single
 
 [Spellbook (Primary)](./spellbook)
 
-[Spells (current) ](./current_spells)[Spell Descriptions ](./spells) [Spell Descriptions Short]()
-
+[Spells (current) ](./current_spells)    -   [Spell Descriptions ](./spells)   -    [Spell Descriptions Short]()

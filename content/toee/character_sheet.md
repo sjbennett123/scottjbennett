@@ -55,7 +55,9 @@ Languages
 - Ancient Elvish
 - Demonic 
 
-The Curse of St Cuthbert
+[The Curse of St Cuthbert](./the_curse_of_st_cuthbert)
+
+[Mental State](./mental_state)
 
 Perception (13)
 
@@ -65,7 +67,7 @@ Know Curse
 
 Gnome Mining
 
-+1 to hit vz kobalds goblins
++1 to hit vs Kobalds and Goblins
 
 
 

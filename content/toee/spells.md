@@ -7,14 +7,22 @@ spells: adsf
 
 ## 1
 
-**name**:  Chromatic Orb 
+**name**:  Chromatic Orb
+
 **Level**: 1
+
 **School**: Alteration, Evocation
+
 **Range**: 0
+
 **Components**: V, S, M(A gem of the appropriate hue or any diamond. The gem must have a value of at least 50 gp.)
+
 **Duration**: Special
+
 **Casting Time**: 1
+
 **Area of Effect**: One creature
+
 **Saving Throw**: Neg.
 
 This spell causes a 4-inch-diameter sphere to appear in the caster's hand. Within the limits described below, the sphere can appear in a variety of colors; each color indicates a different special power. The caster can hurl the sphere at an opponent up to 30 yards away, providing there are no barriers between the caster and the target. If the target is no more than 10 yards away, the caster's to hit roll is made with a +3 bonus. If the target is 10-20 yards away, the caster's roll is made with a +2 bonus. If the target is 20-30 yards away, the caster's roll is made with a +1 bonus.
@@ -49,31 +57,42 @@ If the *chromatic orb* misses its target, it dissipates without effect. If the t
 | 8th                 | Violet                     | *slow*                   | Petrification        |
 | 9th                 | Black                      | *paralysis*              | Death                |
 
-### Name: Armor
+### Armor
 
 **Level**: 1
+
 **School**: Conjuration
+
 **Range**: Touch 
+
 **Duration**: Special 
+
 **Area of Effect**: 1 creature 
+
 **Components**: V, S, M (A piece of finely cured leather that has been blessed by a priest)
 **Casting Time**: 1 rd. 
 **Saving Throw**: None 
 
 **Description**: By means of this spell, the wizard creates a magical field of force that serves as if it were scale mail armor (AC 6). The spell has no effect on a person already armored or a creature with Armor Class 6 or better. It is not cumulative with the *shield* spell, but it is cumulative with Dexterity and, in case of fighter/mages, with the shield bonus. The *armor* spell does not hinder movement or prevent spellcasting, and adds no weight or encumbrance. It lasts until successfully dispelled or until the wearer sustains cumulative damage totaling greater than 8 points + 1 per level of the caster. (It is important to note that the armor does *not* absorb this damage. The armor merely grants an AC of 6; the wearer still suffers full damage from any successful attacks.) Thus, the wearer might suffer 8 points from an attack, then several minutes later sustain an additional 1 point of damage. Unless the spell were cast by a wizard of 2nd level or higher, it would be dispelled at this time. Until it is dispelled, the *armor* spell grants the wearer full benefits of the Armor Class gained.
 
-### name:  Cantrip
+###  Cantrip
 
 **level**: 1
+
 **School**: All Schools
+
 **Range**: 10 ft. 
+
 **Duration**: 1 hr./level 
+
 **Area of Effect**: Special 
-**Components**: V, S 
+
 **Casting Time**: 1 
+
 **Saving Throw**: None 
-**Description**: > 
+
   Cantrips are minor spells studied by wizards during their apprenticeship, regardless of school. The *cantrip* spell is a practice method for the apprentice, teaching him how to tap minute amounts of magical energy. Once cast, the *cantrip* spell enables the caster to create minor magical effects for the duration of the spell. However, these effects are so minor that they have severe limitations. They are completely unable to cause a loss of hit points, cannot affect the concentration of spellcasters, and can only create small, obviously magical materials. Furthermore, materials created by a cantrip are extremely fragile and cannot be used as tools of any sort. Lastly, a cantrip lacks the power to duplicate any other spell effects.
+
 Whatever manifestation the cantrip takes, it remains in effect only as long as the wizard concentrates. Wizards typically use cantrips to impress common folk, amuse children, and brighten dreary lives. Common tricks with cantrips include tinklings of ethereal music, brightening faded flowers, glowing balls that float over the caster's hand, puffs of wind to flicker candles, spicing up aromas and flavors of bland food, and little whirlwinds to sweep dust under rugs. Combined with the *unseen servant* spell, it's a tool to make housekeeping and entertaining simpler for the wizard.
 
 - Fetch 
@@ -82,28 +101,42 @@ Whatever manifestation the cantrip takes, it remains in effect only as long as t
 
 - Light a flame
 
-### name: Burning Hands
+### Burning Hands
 
 **level**: 1 
+
 **School**: Alteration
+
 **Range**: 0 
+
 **Duration**: Instantaneous 
+
 **Area of Effect**: The caster 
+
 **Components**: V, S
+
 **Casting Time**: 1 
+
 **Saving Throw**: ½ 
 
 When the wizard casts this spell, a jet of searing flame shoots from his fingertips. His hands must be held so as to send forth a fanlike sheet of flames: The wizard's thumbs must touch each other and the fingers must be spread. The burning hands send out flame jets 5 feet long in a horizontal arc of about 120 degrees in front of the wizard. Any creature in the area of the flames suffers 1d3 points of damage, plus 2 points for each level of experience of the spellcaster, to a maximum of 1d3+20 points of fire damage. Those successfully saving vs. spell receive half damage. Flammable materials touched by the fire burn (for example, cloth, paper, parchment, thin wood, etc.). Such materials can be extinguished in the next round if no other action is taken.
 
-### name: Change Self
+### Change Self
 
 **level**: 1
+
 **School**: Illusion, Phantasm
+
 **Range**: 0
+
 **Components**: V, S
+
 **Duration**: 2d6 rds. + 2 rds./level
+
 **Casting Time:** 1
+
 **Area of Effect**: The caster
+
 **Saving Throw**: None
 
 This spell enables the wizard to alter the appearance of his form--including clothing and equipment--to appear 1 foot shorter or taller; thin, fat, or in between; human, humanoid, or any other generally man-shaped bipedal creature. The caster cannot duplicate a specific individual. The spell does not provide the abilities or mannerisms of the chosen form. The duration of the spell is 2d6 rounds plus two additional rounds per level of experience of the spellcaster. The DM may allow a saving throw for disbelief under certain circumstances: for example, if the caster acts in a manner obviously inconsistent with his chosen role. The spell does not alter the perceived tactile (i.e., touch) properties of the caster or his equipment, and the ruse can be discovered in this way.
@@ -129,11 +162,17 @@ The reverse of this spell, confuse languages, cancels a comprehend languages spe
 ### Detect Magic
 
 **School**: Divination
+
 **Range**: 0
+
 **Components**: V, S
+
 **Duration**: 2 rds./level
+
 **Casting Time**: 1
+
 **Area of Effect**: 10 x 60 ft.
+
 **Saving Throw**: None
 
 When the detect magic spell is cast, the wizard detects magical radiations in a path 10 feet wide and up to 60 feet long, in the direction he is facing. The intensity of the magic can be determined (dim, faint, moderate, strong, overwhelming), and the wizard has a 10% chance per level to recognize if a certain type of magic (alteration, conjuration, etc.) is present. The caster can turn, scanning a 60-degree arc per round. A stone wall of 1 foot or more thickness, solid metal of 1 inch thickness, or a yard or more of solid wood blocks the spell. Magical areas, multiple types of magic, or strong local magical emanations may confuse or conceal weaker radiations. Note that this spell does not reveal the presence of good or evil, or reveal alignment. Otherplanar creatures are not necessarily magical.
@@ -141,12 +180,19 @@ When the detect magic spell is cast, the wizard detects magical radiations in a 
 ### Enlarge
 
 **School**:  Alteration
+
 **Reversible**
+
 **Range**: 5 yds./level
+
 **Components**: V, S, M (a pinch of powdered iron.)
+
 **Duration**: 5 rds./level
+
 **Casting Time**: 1
+
 **Area of Effect**: 1 creature or object
+
 **Saving Throw**: Neg.
 
 This spell causes instant growth of a creature or object, increasing both size and weight. It can be cast only upon a single creature (or a symbiotic or community entity) or upon a single object that does not exceed 10 cubic feet in volume per caster level. The object or creature must be seen to be affected. It grows by up to 10% per level of experience of the wizard, increasing this amount in height, width, and weight.
@@ -161,11 +207,14 @@ The reverse spell, reduce, negates the enlarge spell or makes creatures or objec
 
 For example, a 16-foot-tall giant reduced by a 15th-level wizard (15 steps) would be reduced to 1.6 feet (in nine steps), then to 6/10 of a foot or 7.2 inches (in one step), and finally to 2.2 inches (in the last five steps). A shrinking object may damage weaker materials affixed to it, but an object will shrink only as long as the object itself is not damaged. Unwilling creatures are allowed a saving throw vs. spell.
 
-### name: shatter
+### Shatter
 
 **School**: Alteration
+
 **Range**: 30 yds. + 10 yds./level
+
 **Components**: V, S, M (a chip of mica.)
+
 **Duration**: Instantaneous
 **Casting Time**: 2
 **Area of Effect:** 3-ft. radius
