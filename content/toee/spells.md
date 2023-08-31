@@ -7,7 +7,8 @@ spells: adsf
 
 ## 1
 
-**name**:  Chromatic Orb
+### Chromatic Orb
+
 **Level**: 1
 **School**: Alteration, Evocation
 **Range**: 0
@@ -467,3 +468,18 @@ The party has no control over where they will be teleported, and there is always
 
 ### 
 
+### Detect Scrying
+
+**In Scroll**
+
+**School**: Divination
+**Range**: 0
+**Components**: V, S, M  The material components for this spell are a small piece of mirror and a miniature brass hearing trumpet.
+**Duration**: 1d6 turns + 1 turn/level
+**Casting Time**: 3
+**Area of Effect**: 120-ft. radius
+**Saving Throw**: Special
+
+By means of this spell, the wizard immediately becomes aware of any attempt to observe him by means of clairvoyance, clairaudience, or magic mirror. This also reveals the use of crystal balls or other magical scrying devices, provided the attempt is within the area of effect of the spell. Since the spell is centered on the spellcaster, it moves with him, enabling him to “sweep” areas for the duration of the spell.
+
+When a scrying attempt is detected, the scryer must immediately roll a saving throw. If this is failed, the identity and general location of the scryer immediately become known to the wizard who cast this spell. The general location is a direction and significant landmark close to the scryer. Thus, the caster might learn, “The wizard Sniggel spies on us from east, under the stairs,” or, “You are watched by Asquil in the city of Samarquol.”
