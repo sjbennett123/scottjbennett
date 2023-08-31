@@ -61,7 +61,7 @@ When activated, casts Wall of Force as per spell as cast 12th lv wizard. Stone t
 
 ### Wand of paralysis
 
-2 charges remaining
+1 charge remaining
 
 With an activation word, will cause paralysis in one target. Target save vs spell to negate. Creatures normally immune to this spell are not. 
 
