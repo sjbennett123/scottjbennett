@@ -453,33 +453,48 @@ The course of action of a suggestion can continue in effect for a considerable d
 
 ### Drawmij’s Instant Exit (Alteration-Conjuration)
 
-In scroll
+**In scroll**
+
 **Level**: 4
+
 **Components**: V, S, M
+
 **Range**: 30 yds
+
 **Casting Time**: 1 segment
+
 **Duration**: 1 round
+
 **Saving Throw**: None
+
 **Area of Effect**: Special
 
-This spell enables the mage and others to use a limited and risky form of teleportation. When the spell is cast, a door suddenly appears on a wall or other flat surface within 3 yards of the caster. The caster and as many others who can pass through the door in one round (usually at the rate of one creature or person per segment) can enter into a zone of nil-space by passing through the doorway. When the door is closed behind by the mage, the mage and all those with him in the nil-space zone are teleported to a random location within 250 yards of the door. If the door is not closed before the end of the spell’s duration, then the door slams shut automatically at the end of the round. The door disappears when closed by the mage or after it shuts itself.
-
-The party has no control over where they will be teleported, and there is always a 5% chance the spell will malfunction and dump the party into the ethereal plane. To determine where the mage and his friends are sent, consult the DM map, track back along the path of the party, and place them in a random area where they have been before. This spell cannot send the party into unknown territory. The material component is a miniature silver door decorated with ruby chips worth 5,000 g.p. that vanishes after the spell is cast.
-
-### 
+> This spell enables the mage and others to use a limited and risky form of teleportation. When the spell is cast, a door suddenly appears on a wall or other flat surface within 3 yards of the caster. The caster and as many others who can pass through the door in one round (usually at the rate of one creature or person per segment) can enter into a zone of nil-space by passing through the doorway. When the door is closed behind by the mage, the mage and all those with him in the nil-space zone are teleported to a random location within 250 yards of the door. If the door is not closed before the end of the spell’s duration, then the door slams shut automatically at the end of the round. The door disappears when closed by the mage or after it shuts itself.
+>
+> The party has no control over where they will be teleported, and there is always a 5% chance the spell will malfunction and dump the party into the ethereal plane. To determine where the mage and his friends are sent, consult the DM map, track back along the path of the party, and place them in a random area where they have been before. This spell cannot send the party into unknown territory. The material component is a miniature silver door decorated with ruby chips worth 5,000 g.p. that vanishes after the spell is cast.
+>
+> ### 
+>
 
 ### Detect Scrying
 
 **In Scroll**
 
 **School**: Divination
+
 **Range**: 0
+
 **Components**: V, S, M  The material components for this spell are a small piece of mirror and a miniature brass hearing trumpet.
+
 **Duration**: 1d6 turns + 1 turn/level
+
 **Casting Time**: 3
+
 **Area of Effect**: 120-ft. radius
+
 **Saving Throw**: Special
 
-By means of this spell, the wizard immediately becomes aware of any attempt to observe him by means of clairvoyance, clairaudience, or magic mirror. This also reveals the use of crystal balls or other magical scrying devices, provided the attempt is within the area of effect of the spell. Since the spell is centered on the spellcaster, it moves with him, enabling him to “sweep” areas for the duration of the spell.
-
-When a scrying attempt is detected, the scryer must immediately roll a saving throw. If this is failed, the identity and general location of the scryer immediately become known to the wizard who cast this spell. The general location is a direction and significant landmark close to the scryer. Thus, the caster might learn, “The wizard Sniggel spies on us from east, under the stairs,” or, “You are watched by Asquil in the city of Samarquol.”
+> By means of this spell, the wizard immediately becomes aware of any attempt to observe him by means of clairvoyance, clairaudience, or magic mirror. This also reveals the use of crystal balls or other magical scrying devices, provided the attempt is within the area of effect of the spell. Since the spell is centered on the spellcaster, it moves with him, enabling him to “sweep” areas for the duration of the spell.
+>
+> When a scrying attempt is detected, the scryer must immediately roll a saving throw. If this is failed, the identity and general location of the scryer immediately become known to the wizard who cast this spell. The general location is a direction and significant landmark close to the scryer. Thus, the caster might learn, “The wizard Sniggel spies on us from east, under the stairs,” or, “You are watched by Asquil in the city of Samarquol.”
+> 
