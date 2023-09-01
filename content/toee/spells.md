@@ -474,7 +474,7 @@ spells: adsf
 
 ## 3
 
-**Fly**
+### Fly
 
 **In Scroll**
 
@@ -618,7 +618,26 @@ spells: adsf
 **Saving Throw**: None 
 
 > The recipient of a *water breathing* spell is able to breathe water freely for the duration of the spell. The caster can touch more than one creature with a single casting; in this case the duration is divided by the number of creatures touched. The reverse, *air breathing* enables water-breathing creatures to comfortably survive in the atmosphere for an equal duration.
->
+
+### Paralyzation
+
+from rod
+
+**Level**: 3	
+
+**Schools**: Illusion, Shadow
+
+**Components**: V, S
+
+**Range**: 10 yds/level
+
+**Casting Time**: 3
+
+**Duration**: Special	Saving Throw: Negates
+
+**Area**: 20-ft. cube
+
+The caster holds enemies rigid with a powerful illusion. The caster can affect any non-mindless creature in the area, up to a total number of Hit Dice equal to twice their caster level. The creatures with the lowest Hit Dice are affected first, and any affected creature is allowed a saving throw vs. paralyzation to negate the spell. The effect lasts for an hour, though the caster can end it early, and spells like dispel illusion or dispel magic will end the efect as well.
 
 ## 4
 

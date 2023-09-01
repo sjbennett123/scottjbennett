@@ -6,21 +6,19 @@ layout: single
 
 
 
-```mark
 # 1
-Change Self     [ ]
-Enlarge         [-]
-Magic Missle    [-] [-] [-]
+[ ] Change Self 
+[x] Enlarge
+[x] [x] [x]Magic Missle   
 
 # 2
-Continual Light [ ] 
-Read Magic      [-]
-Knock           [-]
-Web             [-] [-]
+ [  ] Continual Light
+ [ ] Read Magic     
+ [ ] Knock          
+ [x] [x] Web            
 
 # 3
-Death Recall    [-]
-Dispel Magic    [ ] [ ]
-Suggestion      [-] [ ] 
-```
+ [x] Death Recall   
+ [ ] [ ] Dispel Magic   
+ [x] [ ] Suggestion     
 

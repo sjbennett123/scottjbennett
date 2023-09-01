@@ -53,21 +53,17 @@ can be read from scroll or copied into spellbook . [Per Spell](https://scottjben
 
 ### Scroll of Protection from Tanar’ai
 
-(can only be read from scroll) 
+(can only be read from scroll) Per Spell 
 
 ### Stone of Force
 
 When activated, casts Wall of Force as per spell as cast 12th lv wizard. Stone turns to dust after use.
 
-### Wand of paralysis
+### Wand of Paralysis
 
-1 charge remaining
+[  ] charge remaining
 
 With an activation word, will cause paralysis in one target. Target save vs spell to negate. Creatures normally immune to this spell are not. 
-
-### Scroll of Flame Magic
-
-When read, this scroll casts a fire-based spell at random of the highest spell level of the caster reading it. DM should choose the specific spell at random. (cannot be copied into spellbook)
 
 ###  Scroll of Seeing 
 
