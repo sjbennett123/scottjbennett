@@ -12,7 +12,7 @@ layout: single
 [x] [x] [x]Magic Missle   
 
 # 2
- [  ] Continual Light
+ [ ] Continual Light
  [ ] Read Magic     
  [ ] Knock          
  [x] [x] Web            
