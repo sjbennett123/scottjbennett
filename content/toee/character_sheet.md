@@ -20,7 +20,7 @@ Cha: 12
 
 ## HP
 
-37
+37 current 0
 
 ## Armor Class 
 
@@ -30,13 +30,13 @@ Cha: 12
 
 Roll **Over** these. These do not change till level 11
 
-|      | Saving Throw       | Roll Under |
-| ---- | ------------------ | ---------- |
-|      | Paraze /Poison/DM  | 13         |
-|      | Rod, Staff or Wand | 9          |
-|      | Petrify/ Polymorph | 11         |
-|      | Breath Weapon      | 13         |
-|      | Spells             | 10         |
+| Saving Throw       | Roll Under |
+| ------------------ | ---------- |
+| Paraze /Poison/DM  | 13         |
+| Rod, Staff or Wand | 9          |
+| Petrify/ Polymorph | 11         |
+| Breath Weapon      | 13         |
+| Spells             | 10         |
 
 ### Weapons
 
@@ -55,7 +55,9 @@ Languages
 - Ancient Elvish
 - Demonic 
 
-[The Curse of St Cuthbert](./the_curse_of_st_cuthbert)
+[The Curse of St Cuthbert](https://scottjbennett.com/toee/the_curse_of_st_cuthbert/)
+
+Frank's Pact
 
 [Mental State](./mental_state)
 

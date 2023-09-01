@@ -1,6 +1,20 @@
 ---
 title: Equipment
+
+#### Empty checkbox   
+# :black_square_button: 
+##### Completed checkbox 1   
+# :ballot_box_with_check: 
+#####: Completed checkbox 2    
+# :white_check_mark
+##### Completed checkbox 3  
+# :heavy_check_mark: 
+
+
 ---
+
+
+
 [Group Equipment](https://docs.google.com/spreadsheets/d/19n1yl4AQ1JiV64LYY_idK_FN5MMfU6MtAT0bgjfwm5c/edit#gid=2084483276)
 
 ## Money
@@ -11,7 +25,7 @@ title: Equipment
 
 Spell components for all first level spells
 
-Common spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell co ponent is more than a few gold pieces and consumed you will need to replenish it. 
+Common spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell component is more than a few gold pieces and consumed you will need to replenish it. 
 
 **Camping Supplies**: tent, bedroll,utility knife, 50 feet of rope, tinderbox
 
@@ -25,7 +39,7 @@ gem cutting equipment
 
 ## Magic Items
 
-### [Spellbook](https://calendar.google.com/) 
+### [📕 Red Spellbook](https://calendar.google.com/) 
 
 ### Robes +2
 
@@ -61,7 +75,7 @@ When activated, casts Wall of Force as per spell as cast 12th lv wizard. Stone t
 
 ### Wand of Paralysis
 
-[  ] charge remaining
+:black_square_button: charge remaining
 
 With an activation word, will cause paralysis in one target. Target save vs spell to negate. Creatures normally immune to this spell are not. 
 
@@ -75,4 +89,4 @@ Can be copied into spellbook. [Per Spell](https://scottjbennett.com/toee/spells/
 
 ### Scroll of Confer Water Breathing
 
-Cannot be copied into spellbook. Per Spell
+Cannot be copied into spellbook. [Per Spell](https://scottjbennett.com/toee/spells/#water-breathing)

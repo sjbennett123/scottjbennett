@@ -9,6 +9,8 @@ spells: adsf
 
 ### Chromatic Orb
 
+📕
+
 **Level**: 1
 
 **School**: Alteration, Evocation
@@ -60,6 +62,8 @@ spells: adsf
 
 ### Armor
 
+📕
+
 **Level**: 1
 
 **School**: Conjuration
@@ -80,6 +84,8 @@ spells: adsf
 >
 
 ###  Cantrip
+
+📕
 
 **Level**: 1
 
@@ -108,6 +114,8 @@ spells: adsf
 
 ### Burning Hands
 
+📕
+
 **level**: 1 
 
 **School**: Alteration
@@ -129,6 +137,8 @@ spells: adsf
 
 ### Change Self
 
+📕
+
 **Level**: 1
 
 **School**: Illusion, Phantasm
@@ -149,6 +159,8 @@ spells: adsf
 >
 
 ###  Comprehend Languages
+
+📕
 
 **Reversible**
 
@@ -175,6 +187,8 @@ spells: adsf
 
 ### Detect Magic
 
+📕
+
 **Level**: 1 
 
 **School**: Divination
@@ -195,6 +209,8 @@ spells: adsf
 >
 
 ### Enlarge
+
+📕
 
 **Reversible**
 
@@ -227,12 +243,20 @@ spells: adsf
 
 ### Shatter
 
+📕
+
 **School**: Alteration
+
 **Range**: 30 yds. + 10 yds./level
+
 **Components**: V, S, M (a chip of mica.)
+
 **Duration**: Instantaneous
+
 **Casting Time**: 2
+
 **Area of Effect:** 3-ft. radius
+
 **Saving Throw**: Neg.
 
 > The shatter spell is a sound-based attack that affects nonmagical objects of crystal, glass, ceramic, or porcelain, such as vials, bottles, flasks, jugs, windows, mirrors, etc. All such objects within a 3-foot radius of the center of the spell effect are smashed into dozens of pieces by the spell. Objects weighing more than one pound per level of the caster are not affected, but all other objects of the appropriate composition must save vs. crushing blow or be shattered. Alternatively, the spell can be focused against a single item of up to 10 pounds per caster level. Crystalline creatures usually suffer 1d6 points of damage per caster level to a maximum of 6d6, with a saving throw vs. spell for half damage.
@@ -241,11 +265,17 @@ spells: adsf
 ### Feather Fall
 
 **school**: Alteration
+
 **Range**: 10 yds./level
-**Components**: V   
+
+**Components**: V
+
 **Duration**: 1 rd./level
+
 **Casting Time**: 1
+
 **Area of Effect**: Special
+
 **Saving Throw**: None
 
 > When this spell is cast, the creature(s) or object(s) affected immediately assumes the mass of a piece of down. The rate of falling is instantly changed to a mere 2 feet per second (120 feet per round), and no damage is incurred upon landing while the spell is in effect. However, when the spell duration ceases, a normal rate of fall occurs. The spell can be cast upon the wizard or some other creature or object up to the maximum range and lasts for one round for each level of the wizard. The *feather fall* affects one or more objects or creatures in a 10-foot cube, as long as the maximum weight of the creatures or objects does not exceed a combined total of 200 pounds plus 200 pounds per level of the spellcaster.
@@ -255,13 +285,22 @@ spells: adsf
 
 ###  Identify
 
+📕
+
 **level**: 1
+
 **School**: Divination
+
 **Range**: 0
+
 **Components**: V, S, M(a pearl (of at least 100 gp value) and an owl feather steeped in wine; the infusion must be drunk prior to spellcasting. If a luckstone is powdered and added to the infusion, the divination becomes much more potent: Exact bonuses or charges can be determined, and the functions of a multifunctional item can be learned from a single reading. At the DM's option, certain properties of an artifact or relic might also be learned.)
+
 **Duration**: 1 rd./level
+
 **Casting Time**: Special
+
 **Area of Effect**: 1 item/level
+
 **Saving Throw**: None
 
 > When an identify spell is cast, magical items subsequently touched by the wizard can be identified. The eight hours immediately preceding the casting of the spell must be spent purifying the items and removing influences that would corrupt and blur their magical auras. If this period is interrupted, it must be begun again. When the spell is cast, each item must be handled in turn by the wizard. Any consequences of this handling fall fully upon the wizard and may end the spell, although the wizard is allowed any applicable saving throw.
@@ -275,12 +314,19 @@ spells: adsf
 ### Magic Missile
 
 **level**: 1
+
 **School**: Evocation
+
 **Range**: 60 yds. + 10 yds./level
+
 **Components**: V, S
+
 **Duration**: Instantaneous
+
 **Casting Time**: 1
+
 **Area of Effect**: 1-5 targets
+
 **Saving Throw**: None
 
 > Use of the magic missile spell creates up to five missiles of magical energy that dart forth from the wizard's fingertip and unerringly strike their target. This includes enemy creatures in a melee. The target creature must be seen or otherwise detected to be hit, however, so near-total concealment, such as that offered by arrow slits, can render the spell ineffective. Likewise, the caster must be able to identify the target. He cannot direct a magic missile to “Strike the commander of the legion,” unless he can single out the commander from the rest of the soldiers. Specific parts of a creature cannot be singled out. Inanimate objects (locks, etc.) cannot be damaged by the spell, and any attempt to do so wastes the missiles to no effect. Against creatures, each missile inflicts 1d4+1 points of damage.
@@ -290,13 +336,21 @@ spells: adsf
 ### Protection From Evil
 
 **level**: 1
+
 **school**: Abjuration
+
 **Reversible**
+
 **Range**: Touch
+
 **Components**: V, S, M
+
 **Duration**: 2 rds./level
+
 **Casting Time**: 1
+
 **Area of Effect**: Creature touched
+
 **Saving Throw**: None
 
 > When this spell is cast, it creates a magical barrier around the recipient at a distance of 1 foot. The barrier moves with the recipient and has three major effects:
@@ -312,12 +366,19 @@ spells: adsf
 
 ### Unseen Servant
 **level**: 1
+
 **School**: ConjurationSummoning)
+
 **Range**: 0
+
 **Components**: V, S, M(a piece of string and a bit of wood.)
+
 **Duration**: 1 hr. + 1 turn/level
+
 **Casting Time**: 1
+
 **Area of Effect**: 30-ft. radius
+
 **Saving Throw**: None
 
 > The unseen servant is an invisible, mindless, and shapeless force, used to step and fetch, open unstuck doors, and hold chairs, as well as to clean and mend. It is not strong, but unfailingly obeys the command of the wizard. It can perform only one activity at a time and can move only lightweight items, carrying a maximum of 20 pounds or pushing/pulling 40 pounds across a smooth surface. It can open only normal doors, drawers, lids, etc. The unseen servant cannot fight, nor can it be killed, as it is a force rather than a creature. It can be magically dispelled, or eliminated after receiving 6 points of damage from area-effect spells, breath weapons, or similar attacks. If the caster attempts to send it beyond the allowed radius, the spell ends immediately.
@@ -328,11 +389,17 @@ spells: adsf
 ### Read Magic
 
 **School**: Divination
+
 **Range**: 0
+
 **Components**: V, S, M The wizard must have a clear crystal or mineral prism, which is not expended, to cast the spell.
+
 **Duration**: 2 rds./level
+
 **Casting Time**: 1rd.
+
 **Area of Effect**: Special
+
 **Saving Throw**: None
 
 > By means of a read magic spell, the wizard is able to read magical inscriptions on objects--books, scrolls, weapons, and the like--that would otherwise be totally unintelligible. (The personal books of the wizard, and works already magically read, are intelligible.) This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed scroll. Furthermore, once the spell is cast and the wizard has read the magical inscription, he is thereafter able to read that particular writing without recourse to the use of the read magic spell. The duration of the spell is two rounds per level of experience of the spellcaster; the wizard can read one page or its equivalent per round.
@@ -342,12 +409,19 @@ spells: adsf
 ###  Continual Light
 
 **Reversible**
+
 **School**: Alteration
+
 **Range**: 60 yds.
+
 **Components**: V, S This spell eventually consumes the material it is cast upon, but the process takes far longer than the time in the typical campaign. Extremely hard and expensive materials can last hundreds or even thousands of years.
+
 **Duration**: Permanent
+
 **Casting Time**: 2
+
 **Area of Effect**: 60-ft. radius
+
 **Saving Throw**: Special
 
 > This spell is similar to a light spell, except that it is as bright as full daylight and lasts until negated by magical darkness or by a dispel magic spell. Creatures who suffer penalties in bright light suffer them in this spell's area of effect. As with the light spell, it can be cast into the air, onto an object, or at a creature. When cast at a creature, the target gets a saving throw vs. spell; success indicates that the spell affects the space about 1 foot behind the creature instead. Note that this spell can also blind a creature if it is successfully cast upon the creature's visual organs, reducing its attack rolls, saving throws, and Armor Class by 4. If the spell is cast on a small object that is then placed in a light-proof covering, the spell's effects are blocked until the covering is removed.
@@ -475,6 +549,8 @@ spells: adsf
 ## 3
 
 **Water Breathing**
+
+📕
 
 **In Scroll**
 
@@ -624,7 +700,7 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 ### Water Breathing
 
-​		**In Scroll**
+[📜](https://scottjbennett.com/toee/equipment/#scroll-of-confer-water-breathing)
 
 **Reversible**
 
