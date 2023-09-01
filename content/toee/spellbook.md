@@ -1,5 +1,5 @@
 ---
-title: "Arrick's Spellbook"
+title: "Arrick's Spellbook "
 ---
 
 Memorizing Spells 15 Minutes per slevel of spell.

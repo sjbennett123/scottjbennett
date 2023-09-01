@@ -474,6 +474,31 @@ spells: adsf
 
 ## 3
 
+**Water Breathing**
+
+**In Scroll**
+
+**Reversible**
+
+**School**: Alteration
+
+**Range**: Touch 
+
+**Duration**: 1 hr./level + 1d4 hrs. 
+
+**Area of Effect**: Creature touched 
+
+**Components**: V, S, M The material component of the spell is a short reed or piece of straw.
+
+**Saving Throw**: None 
+
+**Casting Time**: 3 
+
+The recipient of a *water breathing* spell is able to breathe water freely for the duration of the spell. The caster can touch more than one creature with a single casting; in this case the duration is divided by the number of creatures touched. The reverse, *air breathing* enables water-breathing creatures to comfortably survive in the atmosphere for an equal duration.
+
+
+
+
 ### Fly
 
 **In Scroll**

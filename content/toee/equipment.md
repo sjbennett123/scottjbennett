@@ -13,7 +13,7 @@ Spell components for all first level spells
 
 Common spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell co ponent is more than a few gold pieces and consumed you will need to replenish it. 
 
-Camping Supplies: tent, bedroll,utility knife, 50 feet of rope, tinderbox, nice hooded lantern with oil
+**Camping Supplies**: tent, bedroll,utility knife, 50 feet of rope, tinderbox
 
 Maps of the whole world roll(roll % to see if you have it )
 
@@ -71,8 +71,8 @@ This scroll is blank. When held and commanded to write, it will draw, with perfe
 
 ### Scroll of Fly 
 
-wizard spell can be copied into spellbook 
+Can be copied into spellbook. [Per Spell](https://scottjbennett.com/toee/spells/#fly)
 
 ### Scroll of Confer Water Breathing
 
-wizard spell cannot be copied into spellbook"
+Cannot be copied into spellbook. Per Spell
