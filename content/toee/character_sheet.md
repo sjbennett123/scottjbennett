@@ -49,26 +49,17 @@ Roll **Over** these. These do not change till level 11
 
 ### Special Abilities
 
-Languages
-
-- Ancient Elvish
-- Demonic 
-
-[The Curse of St Cuthbert](https://scottjbennett.com/toee/the_curse_of_st_cuthbert/)
-
-Frank's Pact
-
-[Mental State](./mental_state)
-
-Perception (13)
-
-Immune all 1/2/3
-
-Know Curse
-
-Gnome Mining
-
-+1 to hit vs Kobalds and Goblins
+- Languages
+  - Ancient Elvish
+  - Demonic 
+- [The Curse of St Cuthbert](https://scottjbennett.com/toee/the_curse_of_st_cuthbert/)
+- Frank's Pact
+- [Mental State](./mental_state)
+- Perception (13)
+- Immune all 1/2/3
+- Know Curse
+- Gnome Mining
+- +1 to hit vs Kobalds and Goblins
 
 ## Nonweapon Proficiencies
 
@@ -80,7 +71,7 @@ Gnome Mining
 - Navigation()
 - Gemcuttting()
 - Mining()
-- Enginerering()
+- Engineering()
 - Tinkering()
 - Herbalism()
 
@@ -91,5 +82,5 @@ Gnome Mining
 - **3rd**: 5
 - **4th**: 2 
 
-
+[🎒](https://scottjbennett.com/toee/equipment/)
 

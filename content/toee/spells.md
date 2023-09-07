@@ -1,5 +1,5 @@
 ---
-title: spells
+title: Spells
 # Spell Cards Tarrot Size Chramatic Orb By Color Full Spellbook with Notes
 layout: spells
 spells: adsf
