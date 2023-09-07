@@ -71,7 +71,7 @@ can be read from scroll or copied into spellbook . [Per Spell](https://scottjben
 
 ### Stone of Force
 
-When activated, casts Wall of Force as per spell as cast 12th lv wizard. Stone turns to dust after use.
+When activated, casts [Wall of Force](https://scottjbennett.com/toee/spells/#wall-of-force) as per spell as cast 12th lv wizard. Stone turns to dust after use.
 
 ### Wand of Paralysis
 
