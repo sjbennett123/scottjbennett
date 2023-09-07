@@ -1,6 +1,8 @@
 ---
 title: Equipment
-
+#### closed-book
+#### https://emojipedia.org/closed-book
+# 📕
 #### Empty checkbox   
 # :black_square_button: 
 ##### Completed checkbox 1   
@@ -12,8 +14,6 @@ title: Equipment
 
 
 ---
-
-
 
 [Group Equipment](https://docs.google.com/spreadsheets/d/19n1yl4AQ1JiV64LYY_idK_FN5MMfU6MtAT0bgjfwm5c/edit#gid=2084483276)
 
@@ -39,7 +39,7 @@ gem cutting equipment
 
 ## Magic Items
 
-### [📕 Red Spellbook](https://calendar.google.com/) 
+### [📕 Red Spellbook](https://scottjbennett.com/toee/red_spellbook/)
 
 ### Robes +2
 
@@ -83,10 +83,12 @@ With an activation word, will cause paralysis in one target. Target save vs spel
 
 This scroll is blank. When held and commanded to write, it will draw, with perfect accuracy, any creature within line of sight of the caster. Up to four different creatures can be drawn per use. It can be used once every 24 hours. (cannot be copied into spellbook)
 
+### Ring of Protection +3 
+
 ### Scroll of Fly 
 
 Can be copied into spellbook. [Per Spell](https://scottjbennett.com/toee/spells/#fly)
 
 ### Scroll of Confer Water Breathing
 
-Cannot be copied into spellbook. [Per Spell](https://scottjbennett.com/toee/spells/#water-breathing)
+Can NOT be copied into spellbook. [Per Spell](https://scottjbennett.com/toee/spells/#water-breathing)

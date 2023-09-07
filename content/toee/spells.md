@@ -264,7 +264,9 @@ spells: adsf
 
 ### Feather Fall
 
-**school**: Alteration
+📕
+
+**School**: Alteration
 
 **Range**: 10 yds./level
 
@@ -313,6 +315,8 @@ spells: adsf
 
 ### Magic Missile
 
+📕
+
 **level**: 1
 
 **School**: Evocation
@@ -334,6 +338,8 @@ spells: adsf
 > For every two extra levels of experience, the wizard gains an additional missile--he has two at 3rd level, three at 5th level, four at 7th level, etc., up to a total of five missiles at 9th level. If the wizard has multiple missile capability, he can have them strike a single target creature or several creatures, as desired.
 
 ### Protection From Evil
+
+📕
 
 **level**: 1
 
@@ -365,6 +371,9 @@ spells: adsf
 > This spell can be reversed to become protection from good; the second and third benefits remain unchanged. The material component for the reverse is a circle of powdered iron.
 
 ### Unseen Servant
+
+📕
+
 **level**: 1
 
 **School**: ConjurationSummoning)
@@ -388,6 +397,8 @@ spells: adsf
 
 ### Read Magic
 
+📕
+
 **School**: Divination
 
 **Range**: 0
@@ -407,6 +418,8 @@ spells: adsf
 >
 
 ###  Continual Light
+
+📕
 
 **Reversible**
 
@@ -429,8 +442,9 @@ spells: adsf
 > A continual light brought into an area of magical darkness (or vice versa) is temporarily negated so that the otherwise prevailing light conditions exist in the overlapping areas of effect. A direct casting of continual light against a similar or weaker magical darkness cancels both.
 >
 
-
 ### ESP
+
+📕
 
 **level**: 2 
 
@@ -453,8 +467,9 @@ spells: adsf
 > The wizard employing the spell is able to probe the surface thoughts of one creature per round, getting simple instinctual thoughts from lower order creatures. Probes can continue on the same creature from round to round or can move on to other creatures. The caster can use the spell to help determine if a creature lurks behind a door, for example, but the ESP does not always reveal what sort of creature it is. If used as part of a program of interrogation, an intelligent and wary subject receives an initial saving throw. If successful, the creature successfully resists and the spell reveals no additional information. If the saving throw is failed, the caster may learn additional information, according to the DM's ruling. The creature's Wisdom adjustment applies, as may additional bonuses up to +4, based on the sensitivity of the information sought.
 >
 
-
 ### Invisibility
+
+📕
 
 **Level**: 2
 
@@ -479,6 +494,8 @@ spells: adsf
 
 ###  Knock
 
+📕
+
 **Reversible**
 
 **School**: Alteration
@@ -502,6 +519,8 @@ spells: adsf
 
 ### Shatter
 
+📕
+
 **School**: Alteration
 
 **Range**: 30 yds. + 10 yds./level
@@ -520,6 +539,8 @@ spells: adsf
 >
 
 ### Web
+
+📕
 
 **level**: 2
 
@@ -572,12 +593,9 @@ spells: adsf
 
 The recipient of a *water breathing* spell is able to breathe water freely for the duration of the spell. The caster can touch more than one creature with a single casting; in this case the duration is divided by the number of creatures touched. The reverse, *air breathing* enables water-breathing creatures to comfortably survive in the atmosphere for an equal duration.
 
-
-
-
 ### Fly
 
-**In Scroll**
+📜**In Scroll**
 
 **School**: Alteration
 
@@ -598,6 +616,8 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 ###  Death Recall
 
+📕
+
 **Level**: 3
 
 **School**: Necromancy, Divination
@@ -617,6 +637,8 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 > This spell enables the caster to visualize the final minutes of the life of any creature or person that died within the previous 24 hours. When the caster touches the subject's corpse, the caster goes into a trance. The caster then has a vision of the final 10 minutes of the subject's life as seen by the subject himself. The vision ends with the last scene the subject saw before he died, at which time the caster awakens from his trance and the spell is over.
 
 ###  Dispel Magic
+
+📕
 
 **School**: Abjuration
 
@@ -722,7 +744,7 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 ### Paralyzation
 
-from rod
+🎱**From Rod**
 
 **Level**: 3	
 
@@ -744,7 +766,7 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 
 ### Drawmij’s Instant Exit (Alteration-Conjuration)
 
-**In scroll**
+📜**From Scroll**
 
 **Level**: 4
 
@@ -767,7 +789,7 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 
 ### Detect Scrying
 
-**In Scroll**
+📜**From Scroll**
 
 **School**: Divination
 
@@ -790,6 +812,8 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 ## 5
 
 ### Wall of Force
+
+**From Stone of Force**
 
 **School:** Evocation 
 
