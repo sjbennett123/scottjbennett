@@ -9,7 +9,7 @@ spells: adsf
 
 ### Chromatic Orb
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Level**: 1
 
@@ -62,7 +62,7 @@ spells: adsf
 
 ### Armor
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Level**: 1
 
@@ -85,7 +85,7 @@ spells: adsf
 
 ###  Cantrip
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Level**: 1
 
@@ -114,7 +114,7 @@ spells: adsf
 
 ### Burning Hands
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **level**: 1 
 
@@ -137,7 +137,7 @@ spells: adsf
 
 ### Change Self
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Level**: 1
 
@@ -160,7 +160,7 @@ spells: adsf
 
 ###  Comprehend Languages
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Reversible**
 
@@ -187,7 +187,7 @@ spells: adsf
 
 ### Detect Magic
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Level**: 1 
 
@@ -210,7 +210,7 @@ spells: adsf
 
 ### Enlarge
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Reversible**
 
@@ -241,30 +241,12 @@ spells: adsf
 > For example, a 16-foot-tall giant reduced by a 15th-level wizard (15 steps) would be reduced to 1.6 feet (in nine steps), then to 6/10 of a foot or 7.2 inches (in one step), and finally to 2.2 inches (in the last five steps). A shrinking object may damage weaker materials affixed to it, but an object will shrink only as long as the object itself is not damaged. Unwilling creatures are allowed a saving throw vs. spell.
 >
 
-### Shatter
-
-📕
-
-**School**: Alteration
-
-**Range**: 30 yds. + 10 yds./level
-
-**Components**: V, S, M (a chip of mica.)
-
-**Duration**: Instantaneous
-
-**Casting Time**: 2
-
-**Area of Effect:** 3-ft. radius
-
-**Saving Throw**: Neg.
-
-> The shatter spell is a sound-based attack that affects nonmagical objects of crystal, glass, ceramic, or porcelain, such as vials, bottles, flasks, jugs, windows, mirrors, etc. All such objects within a 3-foot radius of the center of the spell effect are smashed into dozens of pieces by the spell. Objects weighing more than one pound per level of the caster are not affected, but all other objects of the appropriate composition must save vs. crushing blow or be shattered. Alternatively, the spell can be focused against a single item of up to 10 pounds per caster level. Crystalline creatures usually suffer 1d6 points of damage per caster level to a maximum of 6d6, with a saving throw vs. spell for half damage.
+> 
 >
 
 ### Feather Fall
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **School**: Alteration
 
@@ -287,7 +269,7 @@ spells: adsf
 
 ###  Identify
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **level**: 1
 
@@ -315,7 +297,7 @@ spells: adsf
 
 ### Magic Missile
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **level**: 1
 
@@ -339,7 +321,7 @@ spells: adsf
 
 ### Protection From Evil
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **level**: 1
 
@@ -372,7 +354,7 @@ spells: adsf
 
 ### Unseen Servant
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **level**: 1
 
@@ -397,7 +379,7 @@ spells: adsf
 
 ### Read Magic
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **School**: Divination
 
@@ -419,7 +401,7 @@ spells: adsf
 
 ###  Continual Light
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Reversible**
 
@@ -444,7 +426,7 @@ spells: adsf
 
 ### ESP
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **level**: 2 
 
@@ -469,7 +451,7 @@ spells: adsf
 
 ### Invisibility
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Level**: 2
 
@@ -494,7 +476,7 @@ spells: adsf
 
 ###  Knock
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Reversible**
 
@@ -519,7 +501,7 @@ spells: adsf
 
 ### Shatter
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **School**: Alteration
 
@@ -540,7 +522,7 @@ spells: adsf
 
 ### Web
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **level**: 2
 
@@ -571,7 +553,7 @@ spells: adsf
 
 **Water Breathing**
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **In Scroll**
 
@@ -616,7 +598,7 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 ###  Death Recall
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **Level**: 3
 
@@ -638,7 +620,7 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 ###  Dispel Magic
 
-📕
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **School**: Abjuration
 
@@ -681,6 +663,8 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 ### Hold Undead
 
+[📕](https://scottjbennett.com/toee/red_spellbook/)
+
 **School**: Necromancy
 
 **Range**: 60 ft.
@@ -698,6 +682,8 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 > When cast, this spell renders immobile 1d3 undead creatures whose total Hit Dice are equal to or less than the caster's level. No more than three undead can be affected by a single spell. To cast, the wizard aims the spell at a point within range and the three undead closest to this are considered to be in the area of effect, provided all are within the field of vision and spell range of the caster. Undead of a mindless nature (skeletons, zombies, or ghouls) are automatically affected. Other forms of undead are allowed a saving throw to negate the effect. If the spell is successful, it renders the undead immobile for the duration of the spell.
 
 ### Suggestion
+
+[📕](https://scottjbennett.com/toee/red_spellbook/)
 
 **School**: Enchantment, Charm
 
