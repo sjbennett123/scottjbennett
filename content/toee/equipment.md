@@ -12,7 +12,6 @@ title: Equipment
 ##### Completed checkbox 3  
 # :heavy_check_mark: 
 
-
 ---
 
 [Group Equipment](https://docs.google.com/spreadsheets/d/19n1yl4AQ1JiV64LYY_idK_FN5MMfU6MtAT0bgjfwm5c/edit#gid=2084483276)
@@ -31,11 +30,13 @@ Common spell ingredients you are assumed to have. You are assumed to be taking t
 
 Maps of the whole world roll(roll % to see if you have it )
 
-A guide to Homlet sponsored by the welcome wench
-
 Trunk filled with disguises
 
-gem cutting equipment
+Gem cutting equipment
+
+## [Books](./books)
+
+[A Guide to Homlet](./guide_to_homlet), [A Day to Remember](./a_day_to_remember), [Diets of Gnolls](./diets_of_gnolls)
 
 ## Magic Items
 
@@ -77,7 +78,7 @@ When activated, casts [Wall of Force](https://scottjbennett.com/toee/spells/#wal
 
 :black_square_button: charge remaining
 
-With an activation word, will cause paralysis in one target. Target save vs spell to negate. Creatures normally immune to this spell are not. 
+With an activation word, will cause paralysis [per spell](https://scottjbennett.com/toee/spells/#paralyzation) in one target. Target save vs spell to negate. Creatures normally immune to this spell are not. 
 
 ###  Scroll of Seeing 
 

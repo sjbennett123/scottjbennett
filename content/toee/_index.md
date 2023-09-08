@@ -4,8 +4,6 @@ layout: single
 
 ---
 
-
-
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/nxbEsPqJGxKB/ToEE)
 
 [Discord](https://discord.com/channels/1021933364153958561/1044031138789863504)
@@ -20,6 +18,6 @@ layout: single
 
 ---
 
-[Spellbook (Primary)](./spellbook)
+[📕 Red Spellbook (Primary)](./spellbook)
 
 [Spells (current) ](./current_spells)    -   [Spell Descriptions ](./spells)   -    [Spell Descriptions Short]()
