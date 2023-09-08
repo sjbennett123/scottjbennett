@@ -28,7 +28,7 @@ layout: single
 
 :black_square_button:  [Read Magic](https://scottjbennett.com/toee/spells/#read-magic)
 
-:black_square_button: [Knock](https://scottjbennett.com/toee/spells/#knock)
+:ballot_box_with_check: [Knock](https://scottjbennett.com/toee/spells/#knock)
 
 :ballot_box_with_check: :ballot_box_with_check:  [Web](https://scottjbennett.com/toee/spells/#web)
 

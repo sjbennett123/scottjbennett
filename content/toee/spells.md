@@ -577,7 +577,7 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 ### Fly
 
-📜**In Scroll**
+[📜**In Scroll**](https://scottjbennett.com/toee/equipment/#scroll-of-fly)
 
 **School**: Alteration
 
@@ -730,7 +730,7 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 ### Paralyzation
 
-🎱**From Rod**
+[🎱**From Rod**](https://scottjbennett.com/toee/equipment/#wand-of-paralysis)
 
 **Level**: 3	
 
@@ -752,7 +752,7 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 
 ### Drawmij’s Instant Exit (Alteration-Conjuration)
 
-📜**From Scroll**
+[📜**From Scroll**](https://scottjbennett.com/toee/equipment/#scroll-of-drawmijs-instant-exit)
 
 **Level**: 4
 
@@ -775,7 +775,7 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 
 ### Detect Scrying
 
-📜**From Scroll**
+[📜**From Scroll**](https://scottjbennett.com/toee/equipment/#scroll-of-detect-scrying)
 
 **School**: Divination
 
@@ -799,7 +799,7 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 
 ### Wall of Force
 
-**From Stone of Force**
+[**From Stone of Force**](https://scottjbennett.com/toee/equipment/#stone-of-force)
 
 **School:** Evocation 
 

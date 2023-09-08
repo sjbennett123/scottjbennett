@@ -18,7 +18,7 @@ Cha: 12
 
 ## HP
 
-37 current 4
+**Max** 37 **Current** 4
 
 ## Armor Class 
 
