@@ -308,12 +308,6 @@ params:
 
 
   footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/sjbennett123
       linkedin: https://www.linkedin.com/in/scott-bennett-82597b7/
@@ -328,7 +322,7 @@ params:
   # Single pages like blog and post
   singlePages:
     readTime:
-      enable: true
+      enable: false
       content: "min read"
     scrollprogress:
       enable: true
