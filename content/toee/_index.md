@@ -1,14 +1,11 @@
 ---
 title: Temple of Elemental Evil
 layout: single
-
 ---
 
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/nxbEsPqJGxKB/ToEE)
 
 [Discord](https://discord.com/channels/1021933364153958561/1044031138789863504)
-
-[https://www.purpleworm.org/rules/](https://www.purpleworm.org/rules/)
 
 ---
 
@@ -21,3 +18,7 @@ layout: single
 [📕 Red Spellbook (Primary)](./spellbook)
 
 [Spells (current) ](./current_spells)    -   [Spell Descriptions ](./spells)   -    [Spell Descriptions Short]()
+
+---
+
+[purpleworm.org/rules](https://www.purpleworm.org/rules/)
