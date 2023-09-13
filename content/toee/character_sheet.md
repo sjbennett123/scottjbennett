@@ -5,7 +5,7 @@ Name: Arrick Goldheart
 Alignment: Neutral good
 Race: Rock Gnome
 Class: Wizard
-Level: 7
+Level: 8
 
 AC: 4
 Str: 17
@@ -18,7 +18,7 @@ Cha: 12
 
 ## HP
 
-**Max** 37 **Current** 13
+**Max** 43 **Current** 43
 
 ## Armor Class 
 
@@ -82,8 +82,8 @@ Roll **Over** these. These do not change till level 11
 
 - **1st**: 7
 - **2nd**: 5
-- **3rd**: 5
-- **4th**: 2 
+- **3rd**:  6
+- **4th**: 3
 
 [🎒](https://scottjbennett.com/toee/equipment/)
 

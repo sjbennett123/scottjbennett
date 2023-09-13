@@ -7,6 +7,48 @@ layout: single
 
 ---
 
+**Airrick** 
+
+6 checks 6x50 X 1.10 =330 
+
+- Story : 300
+- Role play : 400
+- Monsters : 470
+
+\+ 10%  =  1,287 
+
+- 2,500 role play bonus
+
+1,287 + 330 + 2,500 
+
+
+
+session 38 
+
+1. ###  
+
+   New Arrick XP 98,430
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+2. September 8, 2023
+
+3. 
+
+
+
+
+
 **Level 8**
 
 9/7 
