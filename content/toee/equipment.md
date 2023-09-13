@@ -36,7 +36,7 @@ Gem cutting equipment
 
 ## [Books](./books)
 
-[A Guide to Homlet](./guide_to_homlet), [A Day to Remember](./a_day_to_remember), [Diets of Gnolls](./diets_of_gnolls)
+[A Guide to Homlet](./guide_to_homlet), [A Day to Remember](./a_day_to_remember), [Diets of Gnolls](./diets_of_gnolls) [corrospondence](./books/corrospondence)
 
 ## Magic Items
 
