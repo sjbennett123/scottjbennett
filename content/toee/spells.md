@@ -820,3 +820,6 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 > The wizard can, if desired, form the wall into a spherical shape with a radius of up to 1 foot per level or an open hemispherical shape with a radius of 1.5 feet per caster level. The wall of force must be continuous and unbroken when formed; if its surface is broken by any object or creature, the spell fails. The caster can end the spell on command.
 >
 
+### Protection from Tanar’ai
+
+[**From Stone of Force**](https://scottjbennett.com/toee/equipment/#stone-of-force)

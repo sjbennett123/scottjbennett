@@ -22,6 +22,8 @@ title: Equipment
 
 ## Equipment
 
+5 Sheets of paper
+
 Spell components for all first level spells
 
 Common spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell component is more than a few gold pieces and consumed you will need to replenish it. 
@@ -36,7 +38,7 @@ Gem cutting equipment
 
 ## [Books](./books)
 
-[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls) ,[Correspondence](/toee/books/correspondence)
+[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls),[Correspondence with Lareth](/toee/books/correspondence)
 
 ## Magic Items
 
@@ -44,7 +46,7 @@ Gem cutting equipment
 
 ### Robes +2
 
-Kind of lame looking.
+Kind of lame looking....
 
 ### Bag of Holding(Modified)
 
@@ -60,15 +62,15 @@ When the wearer falls greater than 30 feet, the boots activate as per the [feath
 
 ### Scroll of Detect Scrying 
 
-(can be read from scroll, or copied into spellbook [Per Spell](https://scottjbennett.com/toee/spells/#detect-scrying) 
+(Can be read from scroll, or copied into spellbook.) [Per Spell](https://scottjbennett.com/toee/spells/#detect-scrying) 
 
 ### Scroll of Drawmij’s Instant Exit
 
-can be read from scroll or copied into spellbook . [Per Spell](https://scottjbennett.com/toee/spells/#drawmijs-instant-exit-alteration-conjuration) 
+(Can be read from scroll or copied into spellbook.) [Per Spell](https://scottjbennett.com/toee/spells/#drawmijs-instant-exit-alteration-conjuration) 
 
 ### Scroll of Protection from Tanar’ai
 
-(can only be read from scroll) Per Spell 
+(Can only be read from scroll.) Per Spell 
 
 ### Stone of Force
 
