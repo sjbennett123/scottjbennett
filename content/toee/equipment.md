@@ -35,8 +35,9 @@ Trunk filled with disguises
 Gem cutting equipment
 
 ## [Books](./books)
+https://scottjbennett.com/toee/equipment/guide_to_homlet
 
-[A Guide to Homlet](./books/guide_to_homlet), [A Day to Remember](./books/a_day_to_remember), [Diets of Gnolls](./books/diets_of_gnolls) [Correspondence](./books/correspondence)
+[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls) [Correspondence](/toee/books/correspondence)
 
 ## Magic Items
 
