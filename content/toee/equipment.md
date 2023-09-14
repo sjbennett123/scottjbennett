@@ -35,9 +35,8 @@ Trunk filled with disguises
 Gem cutting equipment
 
 ## [Books](./books)
-https://scottjbennett.com/toee/equipment/guide_to_homlet
 
-[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls) [Correspondence](/toee/books/correspondence)
+[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls) ,[Correspondence](/toee/books/correspondence)
 
 ## Magic Items
 
@@ -51,7 +50,7 @@ Kind of lame looking.
 
 Can carry up to 500 pounds of equipment. Nothing living can go inside it including food/plants/rations additionally nothing with sharp points or explosive can enter. Nothing weird or magic happens it just doesn't go in. 
 
-### Small Wooden bowl
+### Small Wooden Bowl
 
 2x per day when the appropriate phrase is spoke will produce and nutritious and adequate meal.
 
