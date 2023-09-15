@@ -25,7 +25,7 @@ tile: Corrospondence with Lareth
 
 ## 6 
 
-‘Brother Wormwood arrived safely with the package. You have pleased Her, Beautiful One. A token of Her gratitude is enclosed. His skills with the glass have not been exaggerated.’ (edited)
+‘Brother Wormwood arrived safely with the package. You have pleased Her, Beautiful One. A token of Her gratitude is enclosed. His skills with the glass have not been exaggerated.’
 
 ## 7  
 
