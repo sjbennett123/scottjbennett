@@ -14,13 +14,20 @@ layout: single
 
 ---
 
+## Spells
+
+- **1st**: 7
+- **2nd**: 5
+- **3rd**:  6
+- **4th**: 3
+
 # 1
 
 :black_square_button: [Change Self](https://scottjbennett.com/toee/spells/#change-self) 
 
-:ballot_box_with_check:[Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
+:black_square_button: :[Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
 
-:ballot_box_with_check: :ballot_box_with_check:  [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile)   
+:black_square_button::black_square_button::black_square_button::black_square_button::black_square_button: [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile)   
 
 # 2
 
@@ -28,14 +35,14 @@ layout: single
 
 :black_square_button:  [Read Magic](https://scottjbennett.com/toee/spells/#read-magic)
 
-:ballot_box_with_check: [Knock](https://scottjbennett.com/toee/spells/#knock)
+:black_square_button: [Knock](https://scottjbennett.com/toee/spells/#knock)
 
-:ballot_box_with_check: :ballot_box_with_check:  [Web](https://scottjbennett.com/toee/spells/#web)
+:black_square_button::black_square_button: [Web](https://scottjbennett.com/toee/spells/#web)
 
 # 3
 
-:ballot_box_with_check: [Death Recall](https://scottjbennett.com/toee/spells/#death-recall)
+:black_square_button: [Death Recall](https://scottjbennett.com/toee/spells/#death-recall)
 
 :black_square_button: :black_square_button:  [Dispel Magic](https://scottjbennett.com/toee/spells/#dispel-magic)
 
-:ballot_box_with_check: :black_square_button:  [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
+:black_square_button::black_square_button:  [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
