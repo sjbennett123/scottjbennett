@@ -9,7 +9,23 @@ layout: single
 
 **Airrick** 
 
+
+
+## 9/14 
+
+1 check 50 +10% = 55
+
+900 + 10% = 990
+
+New Arrick 104,867
+
+previous  103,822 
+
+## 9/7
+
 6 checks 6x50 X 1.10 =330 
+
+New Arrick 103,822 
 
 - Story : 300
 - Role play : 400
