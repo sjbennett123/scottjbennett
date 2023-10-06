@@ -14,18 +14,11 @@ layout: single
 
 ---
 
-## Spells
-
-- **1st**: 7
-- **2nd**: 5
-- **3rd**:  6
-- **4th**: 3
-
 # 1
 
 :black_square_button: [Change Self](https://scottjbennett.com/toee/spells/#change-self) 
 
-:black_square_button: :[Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
+:black_square_button: [Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
 
 :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button: [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile)   
 
@@ -45,4 +38,4 @@ layout: single
 
 :black_square_button: :black_square_button:  [Dispel Magic](https://scottjbennett.com/toee/spells/#dispel-magic)
 
-:black_square_button::black_square_button:  [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
+:ballot_box_with_check:  :black_square_button:  [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
