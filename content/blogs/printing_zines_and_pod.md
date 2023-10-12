@@ -23,3 +23,5 @@ https://www.amazon.com/Brother-HL-2270DW-Compact-Wireless-Printing/dp/B00JJ3M2U0
 https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=HL-2270DW&_sacat=0
 get it from ebay used instead
 
+Once you are feeling confident Mixam is the way to go to get the zines printed professionally.
+
