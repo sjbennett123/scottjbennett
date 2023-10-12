@@ -4,31 +4,29 @@ title: polar notes
 
 ## Website To Do
 
-Policies
-
-Event schedule 
-
-Between Game actions
-
-Playtests
-
-New player landing page.
-
-Rulebook
+- Policies
+- Event schedule 
+- Between Game actions
+- Playtests
+- New player landing page.
+- Rulebook
 
 ## Joe Valenti
 
 PR Nightmare. Like having the One Pillow guy or the Papa Johns guy as your CEO.
 
-- Litigiious
-  - Bad Contracts with Chapter Owners that they have decided to break. I can't blame the chapter owners for this. They were silly contracts for anyone to agree to in the first place. 
+- Litigious
+  - Bad Contracts with Chapter Owners that they have decided to break. I can't blame the chapter owners for this. They were silly contracts for anyone to agree to in the first place.
+  - Whatever is going on with his trademarks... I don't really understand this but the fact that I don't and there is no easy way TO understand it is a bad sign.  ![nero seo](/images/nero_facebook.png)
+
 - Crass
 - Pay to Win
-  - Extracting money in this way corrupts the game in the long term. Some people will see this and NOPE out right away. Additionally as the game gets more and 
+  - Extracting money in this way corrupts the game in the long term. Some people will see this and NOPE out right away. Additionally as the game gets more and more saturated with the high level players new players have a harder and harder time joining. 
 
 ## Stagnant NERO
 
 No updates to the game despite paying money for membership fees and events. Other games manage this just fine. Part of this is because nobody will work with Joe Valenti and part of this is that the playerbase will fight tooth and nail against most changes. This lack of change has led to a complicated mess of playtests and addendums that make learning the game very hard. 
+ - the nero national facebook page is all people asking if a game is near them and being told that no in fact there are no games near anyone. 
 
 ## Props
 
@@ -76,7 +74,7 @@ New players are expected to come to an event with costuming and props rather tha
 
 ## Community
 
-POLAR needs to do better at getting it's community together outside of games. Things like getting together at the resutuant or going to mini golf together. I feel like this sense of community would really help with people getting the impression that the game has a good vibe. 
+POLAR needs to do better at getting it's community together outside of games. Things like getting together at a diner or going to mini golf together. I feel like this sense of community would really help with people getting the impression that the game has a good vibe. 
 
 
 
