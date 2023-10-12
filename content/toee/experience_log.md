@@ -9,7 +9,28 @@ layout: single
 
 **Airrick** 
 
+arrick
 
+10/5
+
+story : 50  
+
+role play : 200  
+
+monsters : 1,960 
+
+6 checks x50 = 300 
+
+
+
+old exp 104,867 + 2,761
+
+
+
+
+
+1. October 6, 2023
+2. 
 
 ## 9/14 
 
