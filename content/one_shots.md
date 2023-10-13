@@ -12,6 +12,8 @@ By Jason Morningstar
 
 ## Alice is Missing
 
+by Spenser Starke
+
 - [https://www.huntersentertainment.com/alice-is-missing](https://www.huntersentertainment.com/alice-is-missing)
 - [https://renegadegamestudios.com/alice-is-missing/](https://renegadegamestudios.com/alice-is-missing/)
 - Youtube video of rules [https://www.youtube.com/watch?v=-nvD49zV09M&t=1s](https://www.youtube.com/watch?v=-nvD49zV09M&t=1s)
@@ -21,6 +23,12 @@ By Jason Morningstar
 - [https://www.kickstarter.com/projects/huntersbooks/alice-is-missing-silent-falls](https://www.kickstarter.com/projects/huntersbooks/alice-is-missing-silent-falls)
 
 - [https://www.kickstarter.com/projects/huntersbooks/alice-is-missing-a-silent-role-playing-game](https://www.kickstarter.com/projects/huntersbooks/alice-is-missing-a-silent-role-playing-game)
+
+- https://www.enworld.org/threads/alice-is-missing-an-interview-with-spenser-starke-hunters-entertainment.672843/
+
+- https://www.youtube.com/watch?v=fKqn8WGiO6s
+
+- https://www.youtube.com/watch?v=_At2I8yjA9A
 
 
 ## Super Blood Harvest: The Bloodship
@@ -59,9 +67,9 @@ By James Wallis
 
 - https://www.drivethrurpg.com/product/327200/The-Extraordinary-Adventures-of-Baron-Munchausen-third-edition
 
-## Puppetland
+## The Mountain Witch
 
-## The Mountain Witch	
+## Puppetland
 
 ## Ten Candles
 
@@ -74,6 +82,15 @@ By James Wallis
 ## Stealing the Throne
 
 ## Women are Werewolves
+
+by **Yeonsoo Julian Kim** 
+
+- [How to play](https://www.youtube.com/watch?v=57cFVzb80Q0)
+
+- https://www.9thlevel.com/women-are-werewolves
+
+- https://www.kickstarter.com/projects/9thlevel/women-are-werewolves
+- https://podcasts.apple.com/us/podcast/253-table-top-crowd-women-are-werewolves/id1187771163?i=1000539702882
 
 ## Fiasco
 
@@ -88,6 +105,8 @@ By James Wallis
 ## Fall of Magic
 
 ## The Mountain Witch
+
+- 
 
 ---
 
