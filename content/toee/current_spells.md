@@ -20,9 +20,9 @@ layout: single
 
 :black_square_button: [Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
 
-:black_square_button::black_square_button::black_square_button::black_square_button::black_square_button: [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
+:black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button: [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
 
-:white_check_mark: detect magic
+:black_square_button: detect magic
 
 
 # 2
@@ -41,4 +41,4 @@ layout: single
 
 :black_square_button: :black_square_button:  [Dispel Magic](https://scottjbennett.com/toee/spells/#dispel-magic)
 
-:ballot_box_with_check:  :black_square_button:  [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
+:black_square_button:  :black_square_button:  [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
