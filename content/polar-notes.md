@@ -17,7 +17,7 @@ PR Nightmare. Like having the One Pillow guy or the Papa Johns guy as your CEO.
 
 - Litigious
   - Bad Contracts with Chapter Owners that they have decided to break. I can't blame the chapter owners for this. They were silly contracts for anyone to agree to in the first place.
-  - Whatever is going on with his trademarks... I don't really understand this but the fact that I don't and there is no easy way TO understand it is a bad sign.  ![nero seo](/images/nero_facebook.png)
+  - Whatever is going on with his trademarks... I don't really understand this but the fact that I don't and there is no easy way TO understand it is a bad sign.  ![nero facebook](/images/nero_facebook.png)
 
 - Crass
 - Pay to Win
