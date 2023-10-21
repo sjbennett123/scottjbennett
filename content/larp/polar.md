@@ -5,11 +5,20 @@ title: polar notes
 ## Website To Do
 
 - Policies
+  - Local and National
+
+- Background
+  - Add Zine Covers.
+  - Add purchase Link
+
 - Event schedule 
 - Between Game actions
 - Playtests
 - New player landing page.
 - Rulebook
+  - Incorporate Eratta
+  - do we incorporate playtests into the core of the book
+
 
 ## Joe Valenti
 
@@ -18,10 +27,9 @@ PR Nightmare. Like having the One Pillow guy or the Papa Johns guy as your CEO.
 - Litigious
   - Bad Contracts with Chapter Owners that they have decided to break. I can't blame the chapter owners for this. They were silly contracts for anyone to agree to in the first place.
   - Whatever is going on with his trademarks... I don't really understand this but the fact that I don't and there is no easy way TO understand it is a bad sign.  ![nero facebook](/images/nero_facebook.png)
-
 - Crass
 - Pay to Win
-  - Extracting money in this way corrupts the game in the long term. Some people will see this and NOPE out right away. Additionally as the game gets more and more saturated with the high level players new players have a harder and harder time joining. 
+  - Extracting money in this way corrupts the game in the long term. Some people will see this and NOPE out right away. Additionally as the game gets more and more saturated with the high level players new players have a harder and harder time joining. I don't see how you fix this. This is the death knell for the game for the next phase of it's life. 
 
 ## Stagnant NERO
 
@@ -38,7 +46,7 @@ If the game can afford that it's fine but it seems foolish.
 
 ## Zines
 
-can the game pay for these?
+The Game CANNOT pay for these it is totally broke. 
 
 What is the feedback from the game on these.
 
@@ -76,5 +84,14 @@ New players are expected to come to an event with costuming and props rather tha
 
 POLAR needs to do better at getting it's community together outside of games. Things like getting together at a diner or going to mini golf together. I feel like this sense of community would really help with people getting the impression that the game has a good vibe. 
 
+---
 
+Objective: Provide incoming players with the material and social support they need to understand and enjoy the
+game as well as encourage continued patronage
+
+Goal: Supply each new player with simple costuming and weapons and/ or spell packets. These materials will
+remain in POLAR’s possession to be utilized on a loan basis.
+Goal: Supply each new player with a printed version of the rulebook
+Goal: Offer veteran players bonus Goblin Stamps to provide “on the job” training by traveling with the new
+player throughout the event. This should continue for a minimum of five events.
 
