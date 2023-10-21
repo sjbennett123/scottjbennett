@@ -1,9 +1,13 @@
 ---
 title: polar notes
+layout: single
+image: /images/polar.png
 ---
 
 ## Website To Do
 
+- Current Staff
+  
 - Policies
   - Local and National
 
@@ -86,12 +90,11 @@ POLAR needs to do better at getting it's community together outside of games. Th
 
 ---
 
-Objective: Provide incoming players with the material and social support they need to understand and enjoy the
-game as well as encourage continued patronage
-
-Goal: Supply each new player with simple costuming and weapons and/ or spell packets. These materials will
-remain in POLAR’s possession to be utilized on a loan basis.
-Goal: Supply each new player with a printed version of the rulebook
-Goal: Offer veteran players bonus Goblin Stamps to provide “on the job” training by traveling with the new
-player throughout the event. This should continue for a minimum of five events.
+- **Objective**: Provide incoming players with the material and social support they need to understand and enjoy the
+  game as well as encourage continued patronage
+- **Goal**: Supply each new player with simple costuming and weapons and/ or spell packets. These materials will
+  remain in POLAR’s possession to be utilized on a loan basis.
+- **Goal**: Supply each new player with a printed version of the rulebook
+- **Goal**: Offer veteran players bonus Goblin Stamps to provide “on the job” training by traveling with the new
+  player throughout the event. This should continue for a minimum of five events.
 
