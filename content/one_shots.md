@@ -95,6 +95,13 @@ by **Yeonsoo Julian Kim**
 - https://www.kickstarter.com/projects/9thlevel/women-are-werewolves
 - https://podcasts.apple.com/us/podcast/253-table-top-crowd-women-are-werewolves/id1187771163?i=1000539702882
 
+name
+pronouns
+what do you do to unwind outside of family gatherings
+werewolf-gender-family
+
+
+
 ## Fiasco
 
 ## Sign
