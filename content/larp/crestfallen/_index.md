@@ -19,11 +19,19 @@ What are the 3 main crafting skill put this ingathering description
 
 Photo release
 
+https://crestfallenlarp.com/new_player/ should pull the next hangout from the schedule page
+
+https://crestfallenlarp.com should pull the next weekend event from the schedule page.
+
+danger den should have countdown and link to the schedule page.
+
+
+
 ---
 
 ## Character Usability Test 
 
-Rocker surgery made easy
+Rocket surgery made easy
 
 Videos 
 
