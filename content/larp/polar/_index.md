@@ -35,6 +35,7 @@ PR Nightmare. Like having the One Pillow guy or the Papa Johns guy as your CEO.
 - Crass
 - Pay to Win
   - Extracting money in this way corrupts the game in the long term. Some people will see this and NOPE out right away. Additionally as the game gets more and more saturated with the high level players new players have a harder and harder time joining. I don't see how you fix this. This is the death knell for the game for the next phase of it's life. 
+- http://www.larphack.com/nero-international-nero-world-larping-rules/
 
 ## Stagnant NERO
 
