@@ -1,3 +1,7 @@
+---
+title: women are werewolves
+---
+
 by **Yeonsoo Julian Kim** 
 
 - [How to play](https://www.youtube.com/watch?v=57cFVzb80Q0)

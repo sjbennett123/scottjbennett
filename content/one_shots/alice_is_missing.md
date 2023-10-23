@@ -1,3 +1,7 @@
+---
+title: Alice is missing
+---
+
 by Spenser Starke
 
 - [https://www.huntersentertainment.com/alice-is-missing](https://www.huntersentertainment.com/alice-is-missing)
