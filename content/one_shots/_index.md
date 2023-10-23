@@ -35,36 +35,39 @@ layout: single
 
 [A Penny for my Thoughts](./a_penny_for_my_thoughts)
 
-Stealing the Throne
+[Stealing the Throne](./stealing_the_throne)
 
 [Women are Werewolves](./women_are_werewolves)
 
-Fiasco
+[Fiasco](./fiasco)
 
-Sign
+[Sign](./sign)
 
-Soth
+[Soth](./soth)
 
-Stealing the Throne
+[Stealing the Throne](./stealing_the_throne)
 
-Delta green: Last Things Last
+[Delta green: Last Things Last](./delta_green_last_things_last)
 
-Fall of Magic
+[Fall of Magic](fall_of_magic)
 
-The Mountain Witch
+[The Mountain Witch](./the_mountain_witch)
 
-Red Carnations on a Black Grave
+[Red Carnations on a Black Grave](./red_carnations_on_a_black_grave)
 
-The Quiet Year
+[The Quiet Year](./the_quiet_year)
 
-Montsegur 1244
+[Montsegur 1244](./montsegur_1244)
 
 ---
 
-## Before Game
+## Befoe Game Week of 
 
-- short talk about creator
 - YouTube links
+
+## Before Game Day of 
+
+- Short talk about creator
 - copies to hand out
 - banner
 
