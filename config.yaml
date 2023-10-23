@@ -39,6 +39,11 @@ Menus:
       title: LARP
       url: /larp
       weight: 3
+    - identifier: TTRPG
+      name: TTRPG
+      title: TTRPG
+      url: /ttrpg
+      weight: 3
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
