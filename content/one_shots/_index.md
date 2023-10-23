@@ -3,6 +3,8 @@ title: One Shots
 layout: single
 ---
 
+## Games
+
 [The Skeletons](./the_skeletons)
 
 [Alice is Missing](./alice_is_missing)
