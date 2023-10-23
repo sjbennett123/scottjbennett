@@ -26,13 +26,14 @@ Story time... When NERO started it was not supposed to be as big as it is now. I
 The foam is often sold with an option for the foam to have an adhesive coating along the slit or to not. I generally get the adhesive backed for anchor points and the unadhesive for my blades. The adhesive makes the cost of the foam a bit more but it's worth it for some appications. Right now there are 2 big options for foam. 3/4 Inch Wall foam from McMaster Carr or 5/8 Inch Wall foam from a hardware store. The McMaster Carr foam is really good in that it fits correctly on Kitespar and it is thicker so it lasts longer. It's not quite as good for CPVC weapons though becing that it's the thicker wall size it will be a thicker weapon.
 
 ### Bad
-- Pool Noodle - These break down very very fast. they are lighter than other foams because
-3/8" Wall Thickness foam - The commo
+- Pool Noodle - These break down very very fast. they are lighter than other foams because of the huge bubbles in the foam.
 ### Good
 - Unifoam - Mcmaster carr 85735K66: "POLYURETHANE FOAM SHEET, 2" THICK, 24" X 48", CHARCOAL"
-\--
+
+  
+### Tubular pipe insulation  
   - 5/8" Wall thickness foam - used for CPVC boffers
-  - 4/3" Wall thickness foam - This is availible from mcmaster carr and is what I use for my Ultralight swords
+  - 3/4" Wall thickness foam - This is availible from mcmaster carr and is what I use for my Ultralight swords
 
 Order Foam from: [www.mcmaster.com](http://www.mcmaster.com/) ships fast from 3-5 days
 
@@ -74,7 +75,7 @@ Mcmaster Carr Part # 85735K66
 Don't try to get too creative with your core designs. Most of the issues that I have seen with new players making their first props is that they want to use something different than what is being used right now and innovate. While this is a noble goal most alternate materials are not particularly good for one reason or another.  
 
 As was mentioned early on, keep in mind that PVC is usually measured with the inside diameter, whereas regular fiberglass rods are outside diameter. So 1/2" PVC will easily slide over 1/2" fiberglass.
- 
+
 ### Bad Weapon Cores
 
 - Bamboo - is heavier than PVC and not particularly suited for touch fighting. It is good for other larps where the style of combat is different.
@@ -153,7 +154,7 @@ To use this apply to both materials that you are sticking together and wait 15-3
 1 coat - 10 minues then second coat.
 
 If in a hurry you can also use Super 74 Spray adhesive from 3M. Use turpentine to clean.
- 
+
 When doing foam to foam use a spray glue. When doing foam to pipe use DAP contact cement.
 
 Size 1-3 Microfiber tights with a toe.  - Walmart is the best cost/durability. Three packs are cheapest, but you usually have to get three different colors for that. Remember to not get ones without toes or with multiple toes.
