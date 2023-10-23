@@ -1,5 +1,6 @@
 ---
 title: One Shots
+layout: single
 ---
 
 [The Skeletons](./the_skeletons)
