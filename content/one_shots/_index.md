@@ -19,25 +19,25 @@ layout: single
 
 [Black Sun Deathcrawl](./black_sun_deathcrawl)
 
-Dialect
+[Dialect](./dialect)
 
-Baron Muchausen
+[Baron Muchausen](./baron_muchausen)
 
-The Mountain Witch
+[The Mountain Witch](./the_mountain_witch)
 
-Puppetland
+[Puppetland](./puppetland)
 
-Ten Candles
+[Ten Candles](./ten_candles)
 
-Honey Heist
+[Honey Heist](./ten_candles)
 
-Lacuna
+[Lacuna](./lacuna)
 
-A Penny for my Thoughts
+[A Penny for my Thoughts](./a_penny_for_my_thoughts)
 
 Stealing the Throne
 
-Women are Werewolves
+[Women are Werewolves](./women_are_werewolves)
 
 Fiasco
 
@@ -52,6 +52,12 @@ Delta green: Last Things Last
 Fall of Magic
 
 The Mountain Witch
+
+Red Carnations on a Black Grave
+
+The Quiet Year
+
+Montsegur 1244
 
 ---
 
