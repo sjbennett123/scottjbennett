@@ -19,7 +19,7 @@ layout: single
 
 [📕 Red Spellbook (Primary)](./red_spellbook)
 
-[Spells (current) ](./current_spells)    -   [Spell Descriptions ](./spells)   -    [Spell Descriptions Short]()
+[Spells (current) ](./current_spells)    -   [Spell Descriptions ](./spells)   -    [Spell Descriptions Short](./spells_short)
 
 ---
 
