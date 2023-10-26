@@ -11,7 +11,25 @@ layout: single
 
 arrick
 
-10/5
+
+
+## 10/12
+
+9 checks + 10% = 495
+
+900 for magic item first use +10% 990
+
+story : 50 
+role play : 200 
+monsters : 4,130
+
++ 10% = 4,818
+
+6,303
+
+Old exp 107,628
+
+## 10/5
 
 story : 50  
 
