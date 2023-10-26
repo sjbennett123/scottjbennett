@@ -48,7 +48,7 @@ Roll **Over** these. These do not change till level 11
 ### Special Abilities
 
 - [The Curse of St Cuthbert](https://scottjbennett.com/toee/the_curse_of_st_cuthbert/)
-- [Frank's Pact]()
+- [Frank's Pact](./frank_pact)
 - [Mental State](./mental_state)
 - Languages
   - Ancient Elvish
