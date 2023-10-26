@@ -12,3 +12,5 @@ confirm if playtests are not actually playtests. Specifically the Racial Traits 
 
 Formal magic rules must be included in the rulebook.
 
+sell at cost for base version. Possibly have a premium version that is sold for a pofit
+
