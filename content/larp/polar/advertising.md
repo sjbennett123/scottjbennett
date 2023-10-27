@@ -8,7 +8,9 @@ image: /images/polar.png
 
 [/larp/polar_flier.afpub](/larp/polar_flier.afpub)
 
-[fliers](/larp/polar/advertising)
+
+
+## Challenges
 
 NERO is interesting as a place to advertising for because it has in the larp community a terrible reputation. I would be curious how the national organization intends to remedy that reputation of being a bad actor in the larp space. This is among the first things that comes up when you search for the game as seen in the below screenshot in the "what's up with nero link" 
 
