@@ -4,23 +4,13 @@ layout: single
 image: /images/polar.png
 ---
 
-## Website To Do
+[Website To Do](./website_to_do)
 
-- 
-  
+[Joe Valenti PR](./joe_valenti_pr)
 
-
-## Joe Valenti
-
-- 
-
-## Stagnant NERO
-
- - 
+[Stagnant NERO](./stagnant_nero)
 
 ## Props
-
-
 
 ## Zines
 
@@ -28,9 +18,7 @@ The Game CANNOT pay for these it is totally broke.
 
 What is the feedback from the game on these.
 
-## Recruiting and Advertising
-
-- - 
+## Advertising
 
 ## Onboarding
 
