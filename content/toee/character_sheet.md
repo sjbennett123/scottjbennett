@@ -55,7 +55,7 @@ Roll **Over** these. These do not change till level 11
   - Demonic 
 - Perception (13)
 - Immune all 1/2/3
-- infravision 60 Feet
+- Infravision 60 Feet
 - Know Curse
 - Gnome Mining
   - Detect grade or slope in passage 1-6 on 1d6
