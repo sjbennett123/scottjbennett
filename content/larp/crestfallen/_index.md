@@ -2,7 +2,6 @@
 title: Crestfallen
 layout: single
 image: /images/crestfallen.png
-
 ---
 
 - rulebook issues sumbit form
@@ -11,11 +10,15 @@ image: /images/crestfallen.png
 
 - add links to items to items and effects. 
 
+- logos for conventions
+
+- customink tshirt setup
+
 Positive only response 
 
 Cancellation policy
 
-What are the 3 main crafting skill put this ingathering description 
+What are the 3 main crafting skill put this in gathering description 
 
 Photo release
 
