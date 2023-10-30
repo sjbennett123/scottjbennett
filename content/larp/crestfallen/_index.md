@@ -10,6 +10,8 @@ re-order module book
 
 re-order stickers
 
+add advertising pricing information
+
 rulebook issues sumbit form
 
 add links to items to items and effects. 
