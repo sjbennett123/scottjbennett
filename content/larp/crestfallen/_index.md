@@ -5,11 +5,15 @@ image: /images/crestfallen.png
 
 ---
 
-- rulebook issues sumbit form
+Re-order rulebook
 
-- update cover with new font.
+re-order module book
 
-- add links to items to items and effects. 
+re-order stickers
+
+rulebook issues sumbit form
+
+add links to items to items and effects. 
 
 Positive only response 
 
