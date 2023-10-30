@@ -19,3 +19,7 @@ image: /images/polar.png
 [Onboarding](./onboarding)
 
 [Community](./community)
+
+[marshaling_discussiion](./marshaling_discussiion)
+
+[safety_discussion](./safety_discussion)
