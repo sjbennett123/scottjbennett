@@ -20,6 +20,8 @@ image: /images/polar.png
 
 [Community](./community)
 
+[between_game_actions](./between_game_actions)
+
 [marshaling_discussiion](./marshaling_discussiion)
 
 [safety_discussion](./safety_discussion)
