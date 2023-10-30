@@ -4,6 +4,8 @@ layout: single
 image: /images/crestfallen.png
 ---
 
+add character sheet pdf
+
 update northmoreland park gps coordinates
 
 Re-order rulebook
