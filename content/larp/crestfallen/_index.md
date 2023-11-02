@@ -12,13 +12,9 @@ add character sheet pdf
 
 update northmoreland park gps coordinates
 
-Re-order rulebook
-
 re-order module book
 
 re-order stickers
-
-add advertising pricing information
 
 rulebook issues sumbit form
 
@@ -29,8 +25,6 @@ add links to items to items and effects.
 - customink tshirt setup
 
 Positive only response 
-
-Cancellation policy
 
 What are the 3 main crafting skill put this in gathering description 
 
