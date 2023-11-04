@@ -5,7 +5,7 @@ title: The Skeletons
 By Jason Morningstar
 
 - [bullypulpitgames.com the-skeletons](https://bullypulpitgames.com/products/the-skeletons)
-- [tch.io the-skeletons](https://bullypulpitgames.itch.io/the-skeletons)
+- [itch.io the-skeletons](https://bullypulpitgames.itch.io/the-skeletons)
 - [youtube playthrough](https://www.youtube.com/watch?v=uwUHCUuiX2Q)
 
 > Years fly by like dead leaves.

@@ -11,7 +11,17 @@ layout: single
 
 arrick
 
+## 10/26
 
+new arrick 115,361
+
+1 check 55
+
+ Session  44  10/26/23  story : 100  role play : 250  monsters : 900  +10% = 1,375
+
+. 113,931 old exp 
+
+## 10/18
 
 ## 10/12
 

@@ -6,7 +6,7 @@ Matt Himrod
 
 Stephen Dupree - 2023-10-8
 
-Nigel 
+Nigel 2023-11-02
 
 Dan Eury
 
@@ -16,12 +16,16 @@ Kevin Logue
 
 Bob Wallace
 
-Trista
+Trista 2023-11-02
 
 Mike Fife 2023-10-9
 
-Anji
-
 Boone
 
-Devin Pusateri 2023-10-9
+Devin Pusateri 2023-11-02
+
+## Job Search
+
+Arleigh Dickerson
+
+Anji 2023-11-02
