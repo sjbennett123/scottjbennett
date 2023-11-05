@@ -2,6 +2,14 @@
 title: Website_to_do
 ---
 
+formal magic zine
+
+cantrips zine
+
+skills yaml file
+
+formal magic rituals yaml file
+
 polar dropbox link pictures upload
 
 Current Staff
