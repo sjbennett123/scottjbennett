@@ -1,7 +1,7 @@
 ---
-title: challenges
+title: Fliers
 ---
 
 ![/larp/polar_flier.png](/larp/polar_flier.png)
 
-[/larp/polar_flier.afpub](/larp/polar_flier.afpub)
+[Affinity Publisher Source File](/larp/polar_flier.afpub)
