@@ -1,5 +1,6 @@
 ---
 title: advertising
+layout: single
 ---
 
 [fliers](./fliers)
@@ -11,5 +12,7 @@ title: advertising
 [onboarding](./onboarding)
 
 [challenges](./advertising_challenges)
+
+[Joe Valenti PR Investigation](./joe_valenti_pr)
 
 [stagnant nero](./stagnant_nero)
