@@ -18,7 +18,7 @@ use serif font
 
 ## Cosmology
 
-
+Inhibited effects on the elemental planes Bold.
 
 ## Fae Packet
 

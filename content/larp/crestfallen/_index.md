@@ -4,31 +4,19 @@ layout: single
 image: /images/crestfallen.png
 ---
 
+## props
+
 shadowbrand Medalions
 
 Boulderton sign
 
-add character sheet pdf
-
-update northmoreland park gps coordinates
-
-re-order module book
-
-re-order stickers
+## website
 
 rulebook issues sumbit form
 
+logos for conventions
+
 add links to items to items and effects. 
-
-- logos for conventions
-
-- customink tshirt setup
-
-Positive only response 
-
-What are the 3 main crafting skill put this in gathering description 
-
-Photo release
 
 https://crestfallenlarp.com/new_player/ should pull the next hangout from the schedule page
 
@@ -36,7 +24,19 @@ https://crestfallenlarp.com should pull the next weekend event from the schedule
 
 danger den should have countdown and link to the schedule page.
 
+## merch
 
+re-order stickers
+
+re-order module book
+
+## unsorted
+
+Positive only response 
+
+What are the 3 main crafting skill put this in gathering description 
+
+Photo release
 
 ---
 
