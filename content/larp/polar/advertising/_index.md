@@ -3,16 +3,16 @@ title: advertising
 layout: single
 ---
 
-[fliers](./fliers)
+[Fliers](./fliers)
 
-[community events](./community)
+[Community Events](./community)
 
 ---
 
-[onboarding](./onboarding)
+[Onboarding](./onboarding)
 
-[challenges](./advertising_challenges)
+[Challenges](./advertising_challenges)
 
 [Joe Valenti PR Investigation](./joe_valenti_pr)
 
-[stagnant nero](./stagnant_nero)
+[Stagnant NERO](./stagnant_nero)
