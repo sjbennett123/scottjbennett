@@ -12,10 +12,6 @@ Boulderton sign
 
 ## website
 
-add character sheet pdf
-
-re-order module book
-
 rulebook issues sumbit form
 
 logos for conventions
@@ -28,15 +24,11 @@ https://crestfallenlarp.com should pull the next weekend event from the schedule
 
 danger den should have countdown and link to the schedule page.
 
-
-
 ## merch
 
 re-order stickers
 
-
-
-
+re-order module book
 
 ## unsorted
 
@@ -45,8 +37,6 @@ Positive only response
 What are the 3 main crafting skill put this in gathering description 
 
 Photo release
-
-
 
 ---
 
