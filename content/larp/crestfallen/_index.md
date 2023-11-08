@@ -12,8 +12,6 @@ Boulderton sign
 
 ## website
 
-rulebook issues sumbit form
-
 logos for conventions
 
 add links to items to items and effects. 
@@ -23,6 +21,8 @@ https://crestfallenlarp.com/new_player/ should pull the next hangout from the sc
 https://crestfallenlarp.com should pull the next weekend event from the schedule page.
 
 danger den should have countdown and link to the schedule page.
+
+add larube hall details 
 
 ## merch
 
