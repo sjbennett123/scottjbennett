@@ -18,5 +18,5 @@ image: /images/polar.png
 
 [safety_discussion](./safety_discussion)
 
-
+[Board Questions](./board_questions)
 
