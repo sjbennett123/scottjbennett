@@ -7,6 +7,10 @@ title: Fliers
 
 [Affinity Publisher Source File](/larp/polar_general_flier.afpub)
 
+![/larp/polar_flier.png](/larp/polar_general_flier_terse.png)
+
+
+
 ![/larp/polar_schedule_flier.png](/larp/polar_schedule_flier.png)
 
 [PDF](/larp/polar_schedule_flier.pdf)
