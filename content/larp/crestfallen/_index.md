@@ -36,7 +36,9 @@ Positive only response
 
 What are the 3 main crafting skill put this in gathering description 
 
-Photo release
+add photos for staff
+
+update surgery charts
 
 ---
 
