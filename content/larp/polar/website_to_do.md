@@ -2,34 +2,16 @@
 title: Website_to_do
 ---
 
-formal magic zine
-
-cantrips zine
-
 skills yaml file
 
 formal magic rituals yaml file
-
-polar dropbox link pictures upload
-
-Current Staff
-
-- [https://www.facebook.com/groups/348666906438615/permalink/1007132723925360/](https://www.facebook.com/groups/348666906438615/permalink/1007132723925360/)
 
 Policies
 - Local and National
 - cancellation policy
 
-Background
-- Add purchase Link
-- add credits page
-
 Event schedule 
 - add community events. 
-
-Between Game actions
-
-- how do these work. 
 
 Playtests
 
