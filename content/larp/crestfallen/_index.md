@@ -40,6 +40,8 @@ add photos for staff
 
 update surgery charts
 
+get bearnpc logo
+
 ---
 
 ## Character Usability Test 
