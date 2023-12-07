@@ -11,6 +11,17 @@ layout: single
 
 arrick
 
+11/2
+
+3 checks 150 = 165
+story 200
+role play 500
+monsters 2,400
+
+\+ 10% = 2,640 + 165 
+
+118,001
+
 ## 10/26
 
 new arrick 115,361
