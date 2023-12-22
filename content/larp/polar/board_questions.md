@@ -2,7 +2,7 @@
 title: Board Questions
 ---
 
-Who is the current staff? Is the 
+Who is the current staff?
 
 ## Policies
 
