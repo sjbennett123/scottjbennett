@@ -38,7 +38,7 @@ Gem cutting equipment
 
 ## [Books](./books)
 
-[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls),[Correspondence with Lareth](/toee/books/correspondence),Mushroom Cult Book
+[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls), [Correspondence with Lareth](/toee/books/correspondence), Mushroom Cult Book, Master Boggs Spellbook
 
 ## Magic Items
 
