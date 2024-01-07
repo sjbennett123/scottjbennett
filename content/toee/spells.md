@@ -377,7 +377,7 @@ spells: adsf
 
 ### Animate Dead Animals
 
-[📗](./master_boggs_spellbook)
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 **School**: Necromancy
 
@@ -418,7 +418,7 @@ This spell is often a necromancer’s first experience animating corpses. For th
 
 ### Chill Touch
 
-[📗 ](./master_boggs_spellbook)
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 **School**: Necromancy
 
@@ -448,7 +448,7 @@ This spell has a special effect on undead creatures. Undead touched by the caste
 
 **Range**: 0
 
-**Components**: V, S, M The wizard must have a clear crystal or mineral prism, which is not expended, to cast the spell.
+**Components**: V, S, M (The wizard must have a clear crystal or mineral prism, which is not expended, to cast the spell.)
 
 **Duration**: 2 rds./level
 
