@@ -4,28 +4,26 @@ title: master boggs spellbook
 
 [https://docs.google.com/document/d/1LFVZIw7NcLGygFSdIch-p1jnSWSqzd6u-hNzalsf8Qo/edit](https://docs.google.com/document/d/1LFVZIw7NcLGygFSdIch-p1jnSWSqzd6u-hNzalsf8Qo/edit)
 
-
-
 **1st Level :** 
 
 **ANIMATE DEAD ANIMALS** : 
 
 Casting time : 2rds
+
 Range : 10 ft
+
 Components : V, S, M
 
-
-
 Animates the skeletons of dead vertebrates. Full skeleton must be present. Skeleton will obey simple commands. Remains until destroyed or turned. Skeletons have the stats of the animal if 1HD or less. If over 1HD, worsen AC by 2, damage by 2, and ½ movement. See chart volume 1 page 47 of wizard’s spell compendium if animating more than one skeleton for number that can be animated. Often the first experiments of a necromancer! 
-
-
 
 **CHILL TOUCH** : 
 
 Casting time : 1
 
 Duration : 3rds + 1rd per lvl 
+
 Saving throw : Negates 
+
 Components : V, S 
 
 Spell allows caster to drain life of enemy. Must touch creature. Must make a successful melee attack as if proficient (ie no non-proficiency penalty). If successful, creature gets a save. If the creature saves, spell does nothing. If save is failed, drain 1d4 HP + 1 pt str. The str returns at 1 pt per hour. Damage cannot be magically healed, HP must return naturally. If used against undead, they flee as opposed to being damaged. 
@@ -35,7 +33,9 @@ Spell allows caster to drain life of enemy. Must touch creature. Must make a suc
 Casting time : 1 
 
 Range : 10 yrds 
+
 Duration : 1rd/lvl 
+
 Components : V, S, M
 
 Can animate a single corpse and control it as if a marionette. Corpse cannot attack or perform delicate or intricate tasks. Corpse must be no more than twice the caster’s mass. The corpse has 1d8 HP and 1HD, and AC of whatever it is wearing. Turn as a zombie. If animating the fallen comrade of an enemy in a group, the group must all make a morale check in order to continue. Often a necromancer’s first spell! 
@@ -45,9 +45,13 @@ Can animate a single corpse and control it as if a marionette. Corpse cannot att
 **FRIENDS** : 
 
 Casting time : 1 
+
 Duration : 1d4rds + 1rd/lvl 
+
 Area of Effect : 60’ radius 
+
 Save : special 
+
 Components : V, S, M 
 
 Gives caster temp 2d4 Cha boost. Those within the area of effect when cast make a reaction check with the new Cha. When the spell wears off, those effected realize the ruse 100% of the time, and DM’s decide how they react to this. Casters use this spell for things such as talking their way through a gate, getting a better price on a big purchase, talking a enemy out of attacking. Casters must paint their face with chalk + vermillion prior to casting, so most go away and come back to an encounter when possible when using this spell. 
@@ -57,10 +61,10 @@ Gives caster temp 2d4 Cha boost. Those within the area of effect when cast make 
 Casting time : 1 
 
 Range : Touch 
+
 Duration : 1/hr per lvl 
+
 Components : V, S, M 
-
-
 
 Allows the target(s) to carry their max press weight as if unencumbered. Will not cause fatigue. Target must be ‘on the march’ for the spell to work, it cannot be used outside of travel or similar. Can use used on more than one target at once, in this case the duration is divided evenly among all targets. Spell ends if the target ceases to ‘march’ or lifts more than their max press allows. Target must be able to carry the item(s) to begin with, so bulky or awkward items still cannot be easily carried. 
 
@@ -94,8 +98,6 @@ If used on an object held by an attacker, the attacker’s attack roll is reduce
 
 Often used to disrupt spell casting! 
 
-
-
 **RAY OF FATIGUE** : 
 
 Casting time : 1 
@@ -105,10 +107,6 @@ Save : negates
 Components : V, S
 
 This ray emanates from the casters fingers. It can effect one creature. The ray saps the victim’s life force, causing them to feel profound fatigue. The effect is based on the fatigue of the target at DM discretion. The penalties can range from -1 - -4 to hit/damage and -1 - -4 to AC and reduction in movement from 15% - 75%, all depending on how fatigued the target is to begin with. A save negates entirely. Some consider use of this spell to be an evil act! 
-
-
-
-
 
 **SPOIL HOLY WATER** : 
 
@@ -120,12 +118,6 @@ Components : V, S
 
 Unholy water is unaffected by this spell. Spoils all holy water in any container within the area of effect, and is rendered useless in all relevant ways. Save on 10 or less. If used on a font, must be concentrated on only that font and caster must touch it. Font gets +1 - +5 to save based on material. If save fails, font is rendered useless until it is reconsecrated. 
 
-
-
-
-
-
-
 **WARDAWAY** : 
 
 Casting time : 1 
@@ -136,16 +128,9 @@ Components : V, S, M
 
 This spell creates a small chaotic, disjointed, shimmering area of magical energies that harrows a single target. It darts about them, striking and swirling and generally being a nuisance. Target saves v spell. If successful, target suffers -1 to at/dam rolls for the duration. If target fails, in addition to previous takes 1d4+4 dam per round, and cannot concentrate to cast any spell with a somatic component (arcane or divine). Spell always breaks a charge attack regardless of save. Most common use of this spell is to break a charge or interrupt casting. Material component is a small human hand carved of crystal or moonstone. 
 
+---
 
-
-
-
-***************************************************
-
-
-
-
-**2nd Level :** 
+## 2nd Level 
 
 **BLOODBRIDGE** : 
 
@@ -157,8 +142,6 @@ Components : V, S, M
 
 This spell allows the caster to serve as a bridge between a donor and a recipient of blood. The caster magically passes blood from one, through themselves, to the other. The blood heals the recipient and damages the donor. The damage that can be healed is limited to 2HP + 1HP per lvl of the caster per day. Multiple donors can be used but the total healing cannot exceed that maximum. For each pt healed, the donor loses 1 pt. The donor must share a race with the recipient. The caster may serve as a donor. The healing only works for any damage sustained in conjunction with blood loss (so things like electrical shock, suffocation, or force bolts cannot be healed in this manner). The spell is extremely taxing for the caster. The caster loses 1 pt STR per 5 pts healed, and 1 pt CON per casting. These return at the rate of 1 pt per day. Blood can be extracted from an unwilling donor, but donor and recipient must both be immobile for the duration of the spell (2rds prior to effect) and thus cannot be used in combat. Component is two small gold needles which are consumed at casting. 
 
-
-
 **CHOKE** : 
 
 Casting time : 1 
@@ -168,11 +151,7 @@ Area of effect : Creature orge size or smaller
 Save : ½ 
 Components : V, S, M 
 
-
-
 Conjures a pair of ghostly spectral hands that appear around the throat of a target. Target must be humanoid, non-animal, and of Ogre side or smaller. Target cannot wrench free of hands. They continue to choke for the entire duration of the spell unless the caster is slain or falls unconscious. Choking causes 1d4 pts damage per round. Target saves each rd for ½ damage. Target makes all combat rolls with a penalty of 2 for duration of choking. Dispel magic can dispel, otherwise spell continues for spell duration. Component is a handkerchief tied in a knot. 
-
-
 
 **DETECT POISON** :
 
@@ -181,11 +160,7 @@ Duration : 1rd/lvl
 Area of Effect : 1 object or 5ft cube 
 Components : V, S, M 
 
-
-
 Spell enables caster to unerringly detect poison within area of effect (1 object or container, or a 5 foot cube, whichever is smaller). Caster has a 5% change per level to determine the exact nature of any poison detected. Component is powdered unicorn horn. Spell is a speciality of the Red Wizards of Thay! 
-
-
 
 **DISPLACE SELF** : 
 
@@ -216,11 +191,7 @@ Area of Effect : 1 - 4 targets in a 20’ cube
 Save : Negates 
 Components : V, S 
 
-
-
 Caster causes targets within area of effect to forget the previous round/one minute of time prior to casting. Caster can increase that time by one round/minute per every 3 lvls. Target forgets this time period entirely and permanently. Saves work as follows : one creature effected = -2 to save, two = -1 to save, three or four no modifier. A wish, limited wish, or heal spell can restore the memories. Cannot reverse the effects of spells such as friends or gias, but may make the victim forget key parts as per DM choice. Use of the spell on unwilling victims is considered an evil act in any but clear, un-complicated, life or death circumstance. 
-
-
 
 
 **TASHA’S UNCONTROLLABLE HIDEOUS LAUGHTER** : 
