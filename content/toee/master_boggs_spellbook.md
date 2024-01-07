@@ -4,9 +4,37 @@ title: master boggs spellbook
 
 [https://docs.google.com/document/d/1LFVZIw7NcLGygFSdIch-p1jnSWSqzd6u-hNzalsf8Qo/edit](https://docs.google.com/document/d/1LFVZIw7NcLGygFSdIch-p1jnSWSqzd6u-hNzalsf8Qo/edit)
 
+## First Level Spells
+
+- ANIMATE DEAD ANIMALS
+- CHILL TOUCH
+- DANCE MACABRE
+- FRIENDS
+- MARCH
+- METAMORPHOSE LIQUIDS 
+- PUSH
+- RAY OF FATIGUE : 
+
+## Second Level Spells
+
+- [Read Magic](https://scottjbennett.com/toee/spells/#read-magic)
+- [Continual Light](https://scottjbennett.com/toee/spells/#continual-light) 
+- [ESP](https://scottjbennett.com/toee/spells/#esp) 
+- [Invisibility](https://scottjbennett.com/toee/spells/#invisibility) 
+- [Knock](https://scottjbennett.com/toee/spells/#knock) 
+- [Web](https://scottjbennett.com/toee/spells/#web)
+- [Shatter](https://scottjbennett.com/toee/spells/#shatter)
+
+## Third Level Spells
+
+ - [Death Recall](https://scottjbennett.com/toee/spells/#death-recall) 
+ - [Dispel Magic](https://scottjbennett.com/toee/spells/#dispel-magic) 
+ - [Hold Undead](https://scottjbennett.com/toee/spells/#hold-undead) 
+ - [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
+
 **1st Level :** 
 
-**ANIMATE DEAD ANIMALS** : 
+
 
 Casting time : 2rds
 
@@ -69,7 +97,6 @@ Components : V, S, M
 Allows the target(s) to carry their max press weight as if unencumbered. Will not cause fatigue. Target must be ‘on the march’ for the spell to work, it cannot be used outside of travel or similar. Can use used on more than one target at once, in this case the duration is divided evenly among all targets. Spell ends if the target ceases to ‘march’ or lifts more than their max press allows. Target must be able to carry the item(s) to begin with, so bulky or awkward items still cannot be easily carried. 
 
 Often used on beasts of burden! 
-
 
 **METAMORPHOSE LIQUIDS** : 
 
