@@ -375,6 +375,69 @@ spells: adsf
 > The unseen servant is an invisible, mindless, and shapeless force, used to step and fetch, open unstuck doors, and hold chairs, as well as to clean and mend. It is not strong, but unfailingly obeys the command of the wizard. It can perform only one activity at a time and can move only lightweight items, carrying a maximum of 20 pounds or pushing/pulling 40 pounds across a smooth surface. It can open only normal doors, drawers, lids, etc. The unseen servant cannot fight, nor can it be killed, as it is a force rather than a creature. It can be magically dispelled, or eliminated after receiving 6 points of damage from area-effect spells, breath weapons, or similar attacks. If the caster attempts to send it beyond the allowed radius, the spell ends immediately.
 >
 
+### Animate Dead Animals
+
+[📗](./master_boggs_spellbook)
+
+**School**: Necromancy
+
+**Range**: 10 feet
+
+**Components**: V, S, M
+
+**Duration**: Permanent
+
+**Casting Time**: 2 rounds
+
+**Area of Effect**: Special
+
+**Saving Throw**: None
+
+This spell creates undead skeletons and zombies from the bones and bodies of dead animals, specifically vertebrates (fish, amphibians, reptiles, birds, and mammals). The animated remains obey simple verbal commands given by the caster, regardless of the language employed. Only naturally occurring animals of no higher than semi-intelligence can be animated with this particular spell (lizards, cats, frogs, weasels, tigers, and so on), including minimals and non-magical, giant-sized animals. These undead remain animated until they are destroyed in combat or turned; the animating magic cannot be dispelled.
+
+The number of undead that a wizard can animate depends on the animal’s original hit dice, the caster’s level, and the type of undead being created. The caster can create the following number of animal skeletons:
+
+-  ¼ HD animal or less: 4/caster level
+- ½ to 1 HD animal: 2/caster level
+-  1+ to 3 HD animal: 1/caster level
+-   3+ to 6 HD animal: 1/2 caster levels
+-    Animal of over 6 HD: 1/4 caster levels
+
+The caster can create the following number of animal zombies:
+
+- ¼ HD animal or less: 2/caster level
+- ½ to 1–1 HD animal: 1/caster level
+- 1 to 3 HD animal: 1/2 caster levels
+- Animal of over 3 HD: 1/4 caster levels
+
+Animated skeletons of animals that had ¼ to 1 HD conform to the statistics of animal skeletons (see “Skeleton” in the *MC*). Skeletons of animals that had less than ¼ HD when living conform to those same statistics, with the following changes: AC 9, HD 1-4; hp 1, #AT 1, Dmg 1. Skeletons of those animals of over 1 HD conform to the regular animal statistics in the *MM*, with the following changes: armor class is worsened by two (AC 10 maximum), damage per attack is reduced by two (1 hp minimum), and movement is reduced by half. Animal zombies conform to the statistics for the particular animal that has been animated, with the following changes: the animal’s number of hit dice is increased by one, AC is worsened by three (AC 8 maximum), and movement is reduced by half.
+
+Skeletal and zombie animals gain the standard undead immunities (resistance to cold-based, *sleep, charm*, and *hold* spells), but lose any normal defenses that the living animal might have had. They also lose any special attacks (raking of rear claws, swallowing whole, and so on) and cannot inject poison or emit fluids, such as musk or saliva. Swallowing does no further damage to the creature swallowed, except to trap it within the swallower’s rib cage. Priests gain a +1 bonus when turning these undead.
+
+This spell is often a necromancer’s first experience animating corpses. For this to work, the animal bodies or skeletons must be intact. The material components are a blood drop and bone chip from the same species as the target remains (only animals belonging to the same species may be animated per spell).
+
+### Chill Touch
+
+[📗 ](./master_boggs_spellbook)
+
+**School**: Necromancy
+
+**Range**: 0   
+
+**Components**: V, S
+
+**Duration**: 3 rds. + 1 rd./level 
+
+**Casting Time**: 1    
+
+**Area of Effect**: The caster   
+
+**Saving Throw**: Neg. 
+
+When the caster completes this spell, a blue glow encompasses his hand. This energy attacks the life force of any living creature upon which the wizard makes a successful melee attack. The touched creature must roll a successful saving throw vs. spell or suffer 1d4 points of damage and lose 1 point of Strength. If the save is successful, the creature remains unharmed. Creatures not rated for Strength suffer a -1 penalty to their attack rolls for every other successful touch. Lost Strength returns at the rate of 1 point per hour. Damage must be cured magically or healed naturally.
+
+This spell has a special effect on undead creatures. Undead touched by the caster suffer no damage or Strength loss, but they must successfully save vs. spell or flee for 1d4 rounds + 1 round per level of the caster.
+
 ## 2
 
 ### Read Magic
@@ -750,13 +813,15 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 
 ## 4
 
-### Drawmij’s Instant Exit (Alteration-Conjuration)
+### Drawmij's Instant Exit
 
 [📜**From Scroll**](https://scottjbennett.com/toee/equipment/#scroll-of-drawmijs-instant-exit)
 
 **Level**: 4
 
-**Components**: V, S, M
+**School**: Alteration-Conjuration
+
+**Components**: V, S, M(a miniature silver door decorated with ruby chips worth 5,000 g.p. that vanishes after the spell is cast.)
 
 **Range**: 30 yds
 
@@ -768,10 +833,9 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 
 **Area of Effect**: Special
 
-> This spell enables the mage and others to use a limited and risky form of teleportation. When the spell is cast, a door suddenly appears on a wall or other flat surface within 3 yards of the caster. The caster and as many others who can pass through the door in one round (usually at the rate of one creature or person per segment) can enter into a zone of nil-space by passing through the doorway. When the door is closed behind by the mage, the mage and all those with him in the nil-space zone are teleported to a random location within 250 yards of the door. If the door is not closed before the end of the spell’s duration, then the door slams shut automatically at the end of the round. The door disappears when closed by the mage or after it shuts itself.
->
-> The party has no control over where they will be teleported, and there is always a 5% chance the spell will malfunction and dump the party into the ethereal plane. To determine where the mage and his friends are sent, consult the DM map, track back along the path of the party, and place them in a random area where they have been before. This spell cannot send the party into unknown territory. The material component is a miniature silver door decorated with ruby chips worth 5,000 g.p. that vanishes after the spell is cast.
->
+This spell enables the mage and others to use a limited and risky form of teleportation. When the spell is cast, a door suddenly appears on a wall or other flat surface within 3 yards of the caster. The caster and as many others who can pass through the door in one round (usually at the rate of one creature or person per segment) can enter into a zone of nil-space by passing through the doorway. When the door is closed behind by the mage, the mage and all those with him in the nil-space zone are teleported to a random location within 250 yards of the door. If the door is not closed before the end of the spell’s duration, then the door slams shut automatically at the end of the round. The door disappears when closed by the mage or after it shuts itself.
+
+The party has no control over where they will be teleported, and there is always a 5% chance the spell will malfunction and dump the party into the ethereal plane. To determine where the mage and his friends are sent, consult the DM map, track back along the path of the party, and place them in a random area where they have been before. This spell cannot send the party into unknown territory. The material component is a miniature silver door decorated with ruby chips worth 5,000 g.p. that vanishes after the spell is cast.
 
 ### Detect Scrying
 
@@ -820,6 +884,6 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 > The wizard can, if desired, form the wall into a spherical shape with a radius of up to 1 foot per level or an open hemispherical shape with a radius of 1.5 feet per caster level. The wall of force must be continuous and unbroken when formed; if its surface is broken by any object or creature, the spell fails. The caster can end the spell on command.
 >
 
-### Protection from Tanar’ai
+### Protection from Tanar'ai
 
 [**From Stone of Force**](https://scottjbennett.com/toee/equipment/#stone-of-force)
