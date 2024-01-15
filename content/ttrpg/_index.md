@@ -7,6 +7,8 @@ layout: single
 
 [The Skeletons](./the_skeletons)
 
+Ghost/Echo
+
 [Super Blood Harvest: The Bloodship](./super_blood_harvest_the_bloodship)
 
 [Alice is Missing](./alice_is_missing)
