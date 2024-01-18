@@ -2,7 +2,6 @@
 title: Current Spells
 layout: single
 
-
 #### Empty checkbox   
 # :black_square_button: 
 ##### Completed checkbox 1   

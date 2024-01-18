@@ -4,6 +4,8 @@ title: master boggs spellbook
 
 [https://docs.google.com/document/d/1LFVZIw7NcLGygFSdIch-p1jnSWSqzd6u-hNzalsf8Qo/edit](https://docs.google.com/document/d/1LFVZIw7NcLGygFSdIch-p1jnSWSqzd6u-hNzalsf8Qo/edit)
 
+A human who lived too long and was slain
+
 ## First Level Spells
 
 - ANIMATE DEAD ANIMALS
@@ -13,7 +15,7 @@ title: master boggs spellbook
 - MARCH
 - METAMORPHOSE LIQUIDS 
 - PUSH
-- RAY OF FATIGUE : 
+- RAY OF FATIGUE
 
 ## Second Level Spells
 
@@ -32,9 +34,9 @@ title: master boggs spellbook
  - [Hold Undead](https://scottjbennett.com/toee/spells/#hold-undead) 
  - [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
 
-**1st Level :** 
+## 1st Level
 
-
+### ANIMATE DEAD ANIMALS
 
 Casting time : 2rds
 
@@ -44,7 +46,7 @@ Components : V, S, M
 
 Animates the skeletons of dead vertebrates. Full skeleton must be present. Skeleton will obey simple commands. Remains until destroyed or turned. Skeletons have the stats of the animal if 1HD or less. If over 1HD, worsen AC by 2, damage by 2, and ½ movement. See chart volume 1 page 47 of wizard’s spell compendium if animating more than one skeleton for number that can be animated. Often the first experiments of a necromancer! 
 
-**CHILL TOUCH** : 
+### CHILL TOUCH
 
 Casting time : 1
 
@@ -56,7 +58,7 @@ Components : V, S
 
 Spell allows caster to drain life of enemy. Must touch creature. Must make a successful melee attack as if proficient (ie no non-proficiency penalty). If successful, creature gets a save. If the creature saves, spell does nothing. If save is failed, drain 1d4 HP + 1 pt str. The str returns at 1 pt per hour. Damage cannot be magically healed, HP must return naturally. If used against undead, they flee as opposed to being damaged. 
 
-**DANCE MACABRE** : 
+### DANCE MACABRE 
 
 Casting time : 1 
 
@@ -68,9 +70,7 @@ Components : V, S, M
 
 Can animate a single corpse and control it as if a marionette. Corpse cannot attack or perform delicate or intricate tasks. Corpse must be no more than twice the caster’s mass. The corpse has 1d8 HP and 1HD, and AC of whatever it is wearing. Turn as a zombie. If animating the fallen comrade of an enemy in a group, the group must all make a morale check in order to continue. Often a necromancer’s first spell! 
 
-
-
-**FRIENDS** : 
+### FRIENDS
 
 Casting time : 1 
 
@@ -84,7 +84,7 @@ Components : V, S, M
 
 Gives caster temp 2d4 Cha boost. Those within the area of effect when cast make a reaction check with the new Cha. When the spell wears off, those effected realize the ruse 100% of the time, and DM’s decide how they react to this. Casters use this spell for things such as talking their way through a gate, getting a better price on a big purchase, talking a enemy out of attacking. Casters must paint their face with chalk + vermillion prior to casting, so most go away and come back to an encounter when possible when using this spell. 
 
-**MARCH** :
+### MARCH
 
 Casting time : 1 
 
@@ -98,7 +98,7 @@ Allows the target(s) to carry their max press weight as if unencumbered. Will no
 
 Often used on beasts of burden! 
 
-**METAMORPHOSE LIQUIDS** : 
+### METAMORPHOSE LIQUIDS
 
 Casting time : 1
 Area of effect : 1 cubic foot/lvl 
@@ -109,7 +109,7 @@ Transforms a liquid into any other non-magical liquid. Caster must directly touc
 
 Often used to turn water into wine! 
 
-**PUSH** : 
+### PUSH
 
 Casting time : 1 
 
@@ -125,7 +125,7 @@ If used on an object held by an attacker, the attacker’s attack roll is reduce
 
 Often used to disrupt spell casting! 
 
-**RAY OF FATIGUE** : 
+### RAY OF FATIGUE
 
 Casting time : 1 
 Range : 10yrd + 5yrds/lvl
