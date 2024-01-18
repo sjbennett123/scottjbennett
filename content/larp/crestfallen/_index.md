@@ -4,43 +4,39 @@ layout: single
 image: /images/crestfallen.png
 ---
 
+https://crestfallenlarp.com/todo/
+
 ## props
 
-shadowbrand Medalions
+- shadowbrand Medalions
 
-Boulderton sign
+- Boulderton sign
 
 ## website
 
-logos for conventions
+- logos for conventions
 
-add links to items to items and effects. 
+- add links to items to items and effects. 
 
-https://crestfallenlarp.com/new_player/ should pull the next hangout from the schedule page
+- danger den should have countdown and link to the schedule page.
 
-https://crestfallenlarp.com should pull the next weekend event from the schedule page.
-
-danger den should have countdown and link to the schedule page.
-
-add larube hall details 
+- add larube hall details 
 
 ## merch
 
-re-order stickers
+- re-order stickers
 
-re-order module book
+- re-order module book
 
 ## unsorted
 
-Positive only response 
+- Positive only response 
 
-What are the 3 main crafting skill put this in gathering description 
+- What are the 3 main crafting skill put this in gathering description 
 
-add photos for staff
+- add photos for staff
 
-update surgery charts
-
-get bearnpc logo
+- update surgery charts
 
 ---
 
