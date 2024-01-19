@@ -18,13 +18,15 @@ title: Equipment
 
 ## Money
 
-800 GP
+854 GP
 
 ## Equipment
 
 5 Sheets of paper
 
 Spell components for all first level spells
+
+Spell components for 4 Months starting -- Date  -- 
 
 Common spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell component is more than a few gold pieces and consumed you will need to replenish it. 
 
