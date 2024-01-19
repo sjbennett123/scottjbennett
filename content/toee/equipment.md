@@ -64,7 +64,7 @@ Sewing needle + flax thread
 
 ## [Books](./books)
 
-[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls), [Correspondence with Lareth](/toee/books/correspondence), Mushroom Cult Book, Master Boggs Spellbook
+[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls), [Correspondence of Lareth](/toee/books/correspondence_of_lareth), [Mushroom Cult Book](https://scottjbennett.com/toee/mushroom_cult_book)
 
 ## Magic Items
 
