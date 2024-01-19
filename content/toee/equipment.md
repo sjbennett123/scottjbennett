@@ -18,7 +18,7 @@ title: Equipment
 
 ## Money
 
-90 GP 
+800 GP
 
 ## Equipment
 
@@ -35,6 +35,30 @@ Maps of the whole world roll(roll % to see if you have it )
 Trunk filled with disguises
 
 Gem cutting equipment
+
+Backpack
+
+50' silk rope
+
+Utility knife
+
+Tinderboxes
+
+Cup/bowl/spoon
+
+Fresh change of clothing
+
+Soap
+
+Salt
+
+A vial of lamp oil
+
+Small hooded lantern
+
+New bedroll, wineskin, belt pouch, bootlaces
+
+Sewing needle + flax thread
 
 ## [Books](./books)
 

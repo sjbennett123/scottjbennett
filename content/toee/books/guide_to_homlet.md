@@ -1,4 +1,5 @@
 ---
 title: Guide to Homlet
 ---
-asdf
+Sponsored by the welcome wench
+

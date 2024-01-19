@@ -755,7 +755,7 @@ This spell creates a small chaotic, disjointed, shimmering area of magical energ
 
 ### BLOODBRIDGE
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 2rds 
 
@@ -769,7 +769,7 @@ This spell allows the caster to serve as a bridge between a donor and a recipien
 
 ### CHOKE
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 1 
 
@@ -787,7 +787,7 @@ Conjures a pair of ghostly spectral hands that appear around the throat of a tar
 
 ### DETECT POISON
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 1 
 
@@ -801,7 +801,7 @@ Spell enables caster to unerringly detect poison within area of effect (1 object
 
 ### DISPLACE SELF
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 2 
 
@@ -815,7 +815,7 @@ This spell emulates the natural ability of the displacer beast, making the caste
 
 ### EMPATHETIC CONTROL
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 2 
 
@@ -831,7 +831,7 @@ Allows the wizard to empathetically seize the mind and control the body of a sin
 
 ### FORGET
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 2 
 Range : 30yrds 
@@ -844,7 +844,7 @@ Caster causes targets within area of effect to forget the previous round/one min
 
 ### TASHA'S UNCONTROLLABLE HIDEOUS LAUGHTER
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 2 
 Range : 60 yrds 
@@ -1054,7 +1054,7 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 
 ### COMFORT
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 **Casting time** : 3 
 
@@ -1070,7 +1070,7 @@ Recipients of this spell feel no pain, heat, cold, fatigue, hunger, thirst, exha
 
 ### HASTE
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 3 
 
@@ -1086,7 +1086,7 @@ Each creature within the area of effect is magically sped up. They function at d
 
 ### ITEM
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 3 
 
@@ -1104,7 +1104,7 @@ Shrinks object to 1/12th its size + turns its substance into something exactly i
 
 ### SQUARING THE CIRCLE
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 3 
 
@@ -1118,7 +1118,7 @@ Allows the caster to change the shape of another spell 1st - 5th level. A 3d are
 
 ### STAFFSPELL
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 1 full rd 
 
@@ -1130,7 +1130,7 @@ Upon completion of casting a magical quarterstaff made of electrical energy appe
 
 ### UNDEAD SUMMONING I
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 3 
 
@@ -1194,7 +1194,7 @@ The party has no control over where they will be teleported, and there is always
 
 ### DUPLICATE
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 1 full rd 
 
@@ -1206,7 +1206,7 @@ This spell makes an exact copy of any non-magical non-living inanimate object th
 
 ### ENCRYPT
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 4 
 
@@ -1222,7 +1222,7 @@ The caster causes a written message up to 66 characters to become magically unre
 
 ### FUMBLE
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 4 
 
@@ -1240,7 +1240,7 @@ Can be cast in an area or at an individual target. When cast in an area, all wit
 
 ### SINUOUS HORRORS
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 1 
 
@@ -1254,7 +1254,7 @@ This spell transforms each of the caster’s arms into writing, hissing serpents
 
 ### STONESKIN
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 1 
 
@@ -1268,7 +1268,7 @@ The effected creature is nearly impervious to physical damage. Their skin become
 
 ### PHASE SHIFT
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 1 
 
@@ -1280,7 +1280,7 @@ Per this spell, the caster can instantaneously go into and return from the ether
 
 ### RAY OF OBLIVION
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 4 
 
@@ -1298,7 +1298,7 @@ A shimmering ray of colorless magical energies shoots from the caster’s hand a
 
 ### UNDEAD SUMMONING II
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 4 
 
@@ -1336,7 +1336,7 @@ Stronger version of the 3rd lvl spell. This one summons 2d4 zombies (75% chance)
 
 ### CHAOS
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 5 
 
@@ -1354,7 +1354,7 @@ Those effected are overcome with visual disorientation, confusion, indecision, a
 
 ### SILENT ALARM
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 5 
 
@@ -1368,7 +1368,7 @@ Creates a magical alarm around a single object. When a specified event occurs, t
 
 ### THROBBING BONES
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 3 
 
@@ -1384,7 +1384,7 @@ Causes victim’s bones to throb and pulse inside their body, quite painfully. C
 
 ### UNDEAD SUMMONING III
 
-📗 
+[📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
 Casting time : 5 
 
