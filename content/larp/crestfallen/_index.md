@@ -22,11 +22,17 @@ https://crestfallenlarp.com/todo/
 
 - add larube hall details 
 
+- upload faction guide/fix gnoll glutton
+
+- all of branch  - get files from beren. order mixam copies. 
+
+- paragon guide - get files from beren. update constellations. Order mixam copy.
+
 ## merch
 
-- re-order stickers
+- 
 
-- re-order module book
+- 
 
 ## unsorted
 
