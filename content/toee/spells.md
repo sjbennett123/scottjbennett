@@ -456,7 +456,7 @@ When the caster completes this spell, a blue glow encompasses his hand. This ene
 
 This spell has a special effect on undead creatures. Undead touched by the caster suffer no damage or Strength loss, but they must successfully save vs. spell or flee for 1d4 rounds + 1 round per level of the caster.
 
-**DANCE MACABRE** : 
+## Danse Macabre
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -952,30 +952,29 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 **Saving Throw**: None
 
-> When a wizard casts this spell, it has a chance to neutralize or negate magic it comes in contact with, as follows:
-> First, it removes spells and spell-like effects (including device effects and innate abilities) from creatures or objects. Second, it disrupts the casting or use of these in the area of effect at the instant the dispel is cast. Third, it destroys magical potions (which are treated as 12th level for purposes of this spell).
->
-> Each effect or potion in the spell's area is checked to determine if it is dispelled. The caster can always dispel his own magic; otherwise, the chance to dispel depends on the difference in level between the magical effect and the caster. The base chance is 50% (11 or higher on 1d20 to dispel). If the caster is of higher level than the creator of the effect to be dispelled, the difference is subtracted from the number needed on 1d20 to dispel (making it more likely that the dispel succeeds); if the caster is of lower level, the difference is added to the number needed on 1d20 to dispel (making it less likely that the dispel succeeds). A roll of 20 always succeeds and a roll of 1 always fails. Thus, if a caster is 10 levels higher, only a roll of 1 prevents the effect from being dispelled.
->
-> A dispel magic spell does not affect a specially enchanted item, such as a magical scroll, ring, wand, rod, staff, miscellaneous item, weapon, shield, or armor, unless it is cast directly upon the item. This renders the item nonoperational for 1d4 rounds. An item possessed and carried by a creature gains the creature's saving throw against this effect; otherwise, it is automatically rendered nonoperational. An interdimensional interface (such as a bag of holding) rendered nonoperational would be temporarily closed. Note that an item's physical properties are unchanged: A nonoperational magical sword is still a sword.
->
-> Artifacts and relics are not subject to this spell; however, some of their spell-like effects may be, at the DM's option.
-> Note that this spell can be very effective when used upon charmed and similarly beguiled creatures. Certain spells or effects cannot be dispelled; these are listed in the spell descriptions.
->
-> **Summary of Dispel Magic Effects**
->
-> | Source of Effect            | Resists As               | Result of Dispel |
-> | --------------------------- | ------------------------ | ---------------- |
-> | Caster                      | None                     | Dispel automatic |
-> | Other caster/innate ability | Level/HD of other caster | Effect negated   |
-> | Wand                        | 6th level                |                  |
-> | Staff                       | 8th level                |                  |
-> | Other magic                 | 12th, unless special     |                  |
-> | Potion                      | 12th level               | Potion destroyed |
-> | Artifact                    | DM discretion            | DM discretion    |
->
-> Effect negated; if cast directly on item, item becomes nonoperational for 1d4 rounds.
->
+When a wizard casts this spell, it has a chance to neutralize or negate magic it comes in contact with, as follows:
+First, it removes spells and spell-like effects (including device effects and innate abilities) from creatures or objects. Second, it disrupts the casting or use of these in the area of effect at the instant the dispel is cast. Third, it destroys magical potions (which are treated as 12th level for purposes of this spell).
+
+Each effect or potion in the spell's area is checked to determine if it is dispelled. The caster can always dispel his own magic; otherwise, the chance to dispel depends on the difference in level between the magical effect and the caster. The base chance is 50% (11 or higher on 1d20 to dispel). If the caster is of higher level than the creator of the effect to be dispelled, the difference is subtracted from the number needed on 1d20 to dispel (making it more likely that the dispel succeeds); if the caster is of lower level, the difference is added to the number needed on 1d20 to dispel (making it less likely that the dispel succeeds). A roll of 20 always succeeds and a roll of 1 always fails. Thus, if a caster is 10 levels higher, only a roll of 1 prevents the effect from being dispelled.
+
+A dispel magic spell does not affect a specially enchanted item, such as a magical scroll, ring, wand, rod, staff, miscellaneous item, weapon, shield, or armor, unless it is cast directly upon the item. This renders the item nonoperational for 1d4 rounds. An item possessed and carried by a creature gains the creature's saving throw against this effect; otherwise, it is automatically rendered nonoperational. An interdimensional interface (such as a bag of holding) rendered nonoperational would be temporarily closed. Note that an item's physical properties are unchanged: A nonoperational magical sword is still a sword.
+
+Artifacts and relics are not subject to this spell; however, some of their spell-like effects may be, at the DM's option.
+Note that this spell can be very effective when used upon charmed and similarly beguiled creatures. Certain spells or effects cannot be dispelled; these are listed in the spell descriptions.
+
+**Summary of Dispel Magic Effects**
+
+| Source of Effect            | Resists As               | Result of Dispel |
+| --------------------------- | ------------------------ | ---------------- |
+| Caster                      | None                     | Dispel automatic |
+| Other caster/innate ability | Level/HD of other caster | Effect negated   |
+| Wand                        | 6th level                |                  |
+| Staff                       | 8th level                |                  |
+| Other magic                 | 12th, unless special     |                  |
+| Potion                      | 12th level               | Potion destroyed |
+| Artifact                    | DM discretion            | DM discretion    |
+
+Effect negated; if cast directly on item, item becomes nonoperational for 1d4 rounds.
 
 ### Hold Undead
 
@@ -995,7 +994,7 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 **Saving Throw**: Neg.
 
-> When cast, this spell renders immobile 1d3 undead creatures whose total Hit Dice are equal to or less than the caster's level. No more than three undead can be affected by a single spell. To cast, the wizard aims the spell at a point within range and the three undead closest to this are considered to be in the area of effect, provided all are within the field of vision and spell range of the caster. Undead of a mindless nature (skeletons, zombies, or ghouls) are automatically affected. Other forms of undead are allowed a saving throw to negate the effect. If the spell is successful, it renders the undead immobile for the duration of the spell.
+When cast, this spell renders immobile 1d3 undead creatures whose total Hit Dice are equal to or less than the caster's level. No more than three undead can be affected by a single spell. To cast, the wizard aims the spell at a point within range and the three undead closest to this are considered to be in the area of effect, provided all are within the field of vision and spell range of the caster. Undead of a mindless nature (skeletons, zombies, or ghouls) are automatically affected. Other forms of undead are allowed a saving throw to negate the effect. If the spell is successful, it renders the undead immobile for the duration of the spell.
 
 ### Suggestion
 
@@ -1042,7 +1041,7 @@ The recipient of a *water breathing* spell is able to breathe water freely for t
 
 **Saving Throw**: None 
 
-> The recipient of a *water breathing* spell is able to breathe water freely for the duration of the spell. The caster can touch more than one creature with a single casting; in this case the duration is divided by the number of creatures touched. The reverse, *air breathing* enables water-breathing creatures to comfortably survive in the atmosphere for an equal duration.
+The recipient of a *water breathing* spell is able to breathe water freely for the duration of the spell. The caster can touch more than one creature with a single casting; in this case the duration is divided by the number of creatures touched. The reverse, *air breathing* enables water-breathing creatures to comfortably survive in the atmosphere for an equal duration.
 
 ### Paralyzation
 
@@ -1096,7 +1095,7 @@ Components : V, S, M
 
 Each creature within the area of effect is magically sped up. They function at double their movement rate and double their attacks per round, and get a -2 initiative bonus. No other actions are effected, including casting, item use, etc. Negates effects of slow spell. There is no save. Additionally any recipient of this spell must make a SS roll, and will be aged by one year due to the metabolic impact of the spell. Spell effects are not cumulative with any other similar magic be it item or spell. Clever casters have used this spell to kill short-lived opponents. Note : This spell is very different from the item ‘ring of haste’ in many ways, the item doubles all actions including casting, and allows user to always go first in an initiative round, and does not age the user. 
 
-### ITEM
+### Item
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -1114,7 +1113,7 @@ Components : V, S, M
 
 Shrinks object to 1/12th its size + turns its substance into something exactly identical to what it is but cloth-like at caster discretion (caster can choose this or to leave materials as is). Any object within the possession of anyone else is allowed a save v spell as per the item save table, unless held by someone. If held, the older saves v spell at their save value. Any non-magical item can be shrunk in this way, including things like a fire + its fuel, the air in a container, etc. Objects changed can be restored to normal by tossing them on any solid surface by anyone, or by a command word from the caster. 
 
-### SQUARING THE CIRCLE
+### Squaring the Circle
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -1198,11 +1197,9 @@ The party has no control over where they will be teleported, and there is always
 
 **Saving Throw**: Special
 
-> By means of this spell, the wizard immediately becomes aware of any attempt to observe him by means of clairvoyance, clairaudience, or magic mirror. This also reveals the use of crystal balls or other magical scrying devices, provided the attempt is within the area of effect of the spell. Since the spell is centered on the spellcaster, it moves with him, enabling him to “sweep” areas for the duration of the spell.
->
-> When a scrying attempt is detected, the scryer must immediately roll a saving throw. If this is failed, the identity and general location of the scryer immediately become known to the wizard who cast this spell. The general location is a direction and significant landmark close to the scryer. Thus, the caster might learn, “The wizard Sniggel spies on us from east, under the stairs,” or, “You are watched by Asquil in the city of Samarquol.”
+By means of this spell, the wizard immediately becomes aware of any attempt to observe him by means of clairvoyance, clairaudience, or magic mirror. This also reveals the use of crystal balls or other magical scrying devices, provided the attempt is within the area of effect of the spell. Since the spell is centered on the spellcaster, it moves with him, enabling him to “sweep” areas for the duration of the spell.
 
-
+When a scrying attempt is detected, the scryer must immediately roll a saving throw. If this is failed, the identity and general location of the scryer immediately become known to the wizard who cast this spell. The general location is a direction and significant landmark close to the scryer. Thus, the caster might learn, “The wizard Sniggel spies on us from east, under the stairs,” or, “You are watched by Asquil in the city of Samarquol.”
 
 ### DUPLICATE
 
@@ -1212,41 +1209,39 @@ Casting time : 1 full rd
 
 Duration : 1hr/lvl 
 
-Components : S, M 
+Components : S, M ( a pinch of coal dust. )
 
 This spell makes an exact copy of any non-magical non-living inanimate object the caster touches. The object must fit inside a 20 foot cube. The item created is an exact duplicate in every way, but can be dispelled with a dispel magic spell. Caster must cast for a full round, uninterrupted. Permanency cannot effect the item conjured. The material component is a pinch of coal dust. 
 
-### ENCRYPT
+### Encrypt
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
-Casting time : 4 
+**Casting time** : 4 
 
-Range : 10ft + 10ft/lvl 
+**Range** : 10ft + 10ft/lvl 
 
-Duration : Permanent 
+**Duration** : Permanent 
 
-Components : V, S, M 
+**Components** : V, S, M 
 
 The caster causes a written message up to 66 characters to become magically unreadable by anyone other than the caster, anyone mentioned by name and identifier in the message, and/or one other specifically named individual. The writing appears as a nondescript illegible scrawl to anyone else. The message does not call attention to itself in any way, but can be detected by a detect magic spell. Those mentioned in the message/casting must be able to read the language it is written in. Only True Seeing, and nothing else, will reveal the message, though a dispel magic can destroy it. If whatever the message is written on is destroyed, it is likewise destroyed, but it can be written anywhere that anything can be written by any means (a finger, foot, quill, stick, etc). The caster can encrypt any writing. Multiple uses of the spell can be cast in succession to encrypt longer messages. Material component is a pinch of dust. 
-
-
 
 ### FUMBLE
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
-Casting time : 4 
+**Casting time** : 4 
 
-Range : 10yrds/lvl 
+**Range** : 10yrds/lvl 
 
-Duration : 1rd + 1rd/lvl 
+**Duration** : 1rd + 1rd/lvl 
 
-Area of Effect : 30 ft cube 
+**Area of Effect** : 30 ft cube 
 
-Save : Special 
+**Save** : Special 
 
-Components : V, S, M 
+**Components** : V, S, M 
 
 Can be cast in an area or at an individual target. When cast in an area, all within the area must save v spell. Those failing trip, slip, drop their weapon, drop items, etc. It takes a full round to recover after the failed save. Those making their save use the round it takes effect to recover, but need to save again if they exit and reenter the area. If targeting an individual, failure means the target is effected for the entire duration of the spell and is unable to act but to keep themselves upright and safe, saving means they are effected as per the 3rd level spell ‘slow’. The spell does not take effect until the round after it is cast. Material component is a bit of solidified milk fat that the caster must eat. 
 
@@ -1264,7 +1259,7 @@ Components : S
 
 This spell transforms each of the caster’s arms into writing, hissing serpents. They can strike at opponents within reach, have one att per round, and attack as monsters of a HD level = the caster’s level (ie fighter base thaco). The snakelike tentacles inflict 1d3 pts of damage and have a 3% chance per lvl of the caster of being poisonous to all humanoids. If venomous, anyone bitten saves v poison at a -3, if failed they go into a convulsing fit for as many rounds as per caster lvl. They take 2 pts damage per round of convulsions and is incapable of any action at all, including speech. The caster must have bare arms at casting, and anything worn about their hands or wrists drops to the ground. The appendages cannot be used as arms at all. The caster cannot cast any spells with a somatic component while their arms are snakes. The snake-arms cannot be compelled to attack the person they belong to, but a ‘charm serpent’ spell (no other) can pacify them. The tentacles remain for the duration of the spell, regardless of the caster’s desire, and cannot be dispelled. The snakes cannot talk in snake-tongue, and do not have thoughts or feelings. 
 
-### STONESKIN
+### Stoneskin
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -1276,7 +1271,7 @@ Duration : Special (24hr max)
 
 Components : V, S,M 
 
-The effected creature is nearly impervious to physical damage. Their skin becomes a protective layer, stonelike in nature. Magical damage still damages them. The spell lasts for 1d4 + 1 att per every 2 levels of the caster. The limit counts whether the attack was magical or physical, though the attack would have to land to count (example : four blots from a magic missile count as four attacks in addition to causing their normal damage). If not ended by attacks, the spell lasts 24 hours. The components are granite and diamond dust sprinkled onto the recipient’s skin. Note : the skin visibly looks stone-like and is easily spotted by any who know of the spell. 
+The effected creature is nearly impervious to physical damage. Their skin becomes a protective layer, stonelike in nature. Magical damage still damages them. The spell lasts for 1d4 + 1 att per every 2 levels of the caster. The limit counts whether the attack was magical or physical, though the attack would have to land to count (example : four blots from a magic missile count as four attacks in addition to causing their normal damage). If not ended by attacks, the spell lasts 24 hours. The components are granite and diamond dust sprinkled onto the recipient’s skin. Note: the skin visibly looks stone-like and is easily spotted by any who know of the spell. 
 
 ### PHASE SHIFT
 
@@ -1286,7 +1281,7 @@ Casting time : 1
 
 Duration : 1rd/lvl 
 
-Components : V, S, M 
+Components : V, S, M(a bit of webbing from the phase spider)
 
 Per this spell, the caster can instantaneously go into and return from the ethereal plane when attacking. The magic only works when/if the caster is attacking. It cannot be cast upon another. This ability closely mimics the natural ability of the phase spider. The material component is a bit of webbing from the phase spider. From the MM : They phase in, attack, and phase out, all in a single round. This gives them a -3 modifier on initiative rolls; if a phase spider wins initiative by more than 4, it attacks and phases out before its opponent has a chance to strike back. Then too, a phase spider usually phases into existence behind its chosen victim, so they get a +4 modifier for attacking from behind. Phase spiders flee to the Ethereal plane when outmatched; there, they gain only a -1 modifier to initiative and can be attacked every round, regardless of the initiative result.
 
@@ -1304,7 +1299,7 @@ Area of effect : One creature within sight
 
 Save : Negates 
 
-Components : V, S, M 
+Components : V, S, M(a pinch of vanishing dust. )
 
 A shimmering ray of colorless magical energies shoots from the caster’s hand and unerringly hits the target, dodging around obstacles if necessary. When struck, the target saves v spell at -1. Failure means they forget one piece of arcane knowledge at random. If they have spells memorized, they forget a spell. If they have no spells memorized they forget a command word for an item, the name of a caster, bit of lore, rune, symbol, etc. at random, going from most important to them to least. The forgetting is permanent. Only a heal, restoration, or wish can restore the memory. The ray will seek out its target if they are within range and the caster saw them the round it is cast, even if they are invisible or otherwise obscured when the spell lands. The material component is a pinch of vanishing dust. 
 
@@ -1342,9 +1337,9 @@ Stronger version of the 3rd lvl spell. This one summons 2d4 zombies (75% chance)
 
 **Saving Throw**: None
 
-> A wall of force spell creates an invisible barrier in the locale desired by the caster, up to the spell's range. The wall of force cannot move and is totally unaffected by most spells, including dispel magic. However, a disintegrate spell will immediately destroy it, as will a rod of cancellation or a sphere of annihilation. Likewise, the wall of force is not affected by blows, missiles, cold, heat, electricity, etc. Spells and breath weapons cannot pass through it in either direction, although dimension door, teleport, and similar effects can bypass the barrier.
->
-> The wizard can, if desired, form the wall into a spherical shape with a radius of up to 1 foot per level or an open hemispherical shape with a radius of 1.5 feet per caster level. The wall of force must be continuous and unbroken when formed; if its surface is broken by any object or creature, the spell fails. The caster can end the spell on command.
+A wall of force spell creates an invisible barrier in the locale desired by the caster, up to the spell's range. The wall of force cannot move and is totally unaffected by most spells, including dispel magic. However, a disintegrate spell will immediately destroy it, as will a rod of cancellation or a sphere of annihilation. Likewise, the wall of force is not affected by blows, missiles, cold, heat, electricity, etc. Spells and breath weapons cannot pass through it in either direction, although dimension door, teleport, and similar effects can bypass the barrier.
+
+The wizard can, if desired, form the wall into a spherical shape with a radius of up to 1 foot per level or an open hemispherical shape with a radius of 1.5 feet per caster level. The wall of force must be continuous and unbroken when formed; if its surface is broken by any object or creature, the spell fails. The caster can end the spell on command.
 
 ### CHAOS
 
@@ -1360,9 +1355,9 @@ Area of effect : Up to 40ft cube
 
 Save : Special 
 
-Components : V, S, M 
+Components : V, S, M (a small disc of bronze and a small rod of iron that the caster strikes together. )
 
-Those effected are overcome with visual disorientation, confusion, indecision, and cannot take effective actions. Spell can effect 1d4 +1/lvl creatures. Only the following get saves : fighters, speciality wizards (enchanters), monsters w/int 4 or lower who use no magic (innate abilities do not count as magic), anyone with int 21+, anyone with more HD/lvl than the caster. Saves are made at a -3 penalty. Save negates. Those effected have one of the following happen : 1 wander away, 2 - 6 stand confused, 7 - 9 attack nearest creature, 10 stumble about. Each thing happens for one round, then reroll for each round for the duration of the spell. Any who wander away however continue to wander for the duration instead, doing so as quickly as possible in whatever means they normally locomote. Checks are made at the beginning of the round, not on the victim’s initiative. Component is a small disc of bronze and a small rod of iron that the caster strikes together. 
+Those effected are overcome with visual disorientation, confusion, indecision, and cannot take effective actions. Spell can effect 1d4 +1/lvl creatures. Only the following get saves : fighters, speciality wizards (enchanters), monsters w/int 4 or lower who use no magic (innate abilities do not count as magic), anyone with int 21+, anyone with more HD/lvl than the caster. Saves are made at a -3 penalty. Save negates. Those effected have one of the following happen : 1 wander away, 2 - 6 stand confused, 7 - 9 attack nearest creature, 10 stumble about. Each thing happens for one round, then reroll for each round for the duration of the spell. Any who wander away however continue to wander for the duration instead, doing so as quickly as possible in whatever means they normally locomote. Checks are made at the beginning of the round, not on the victim's initiative. Component is a small disc of bronze and a small rod of iron that the caster strikes together. 
 
 ### SILENT ALARM
 
@@ -1374,7 +1369,7 @@ Range : 5yrds/lvl
 
 Duration : Special 
 
-Components : V, S, M 
+Components : V, S, M ( some personal item from the person specified in the spell - must have had contact with them within the last 30 days or be hair/nails/fluids. )
 
 Creates a magical alarm around a single object. When a specified event occurs, the spell triggers. The parameters can be anything reasonable (casting a spell within 20 feet of the object, attempt to open chest without key, being picked up, etc). When triggered, the spell sends a predetermined message of 25 words or fewer to a specified person (can be caster or any other caster knows personally). The message is strong enough to wake a person from sleep, and is repeated three times in total. It can travel any distance but cannot cross planar bounds. Component is some personal item from the person specified in the spell - must have had contact with them within the last 30 days or be hair/nails/fluids. 
 
@@ -1404,7 +1399,7 @@ Range : 50yrds
 
 Duration : 4rds + 1rd/lvl 
 
-Components : V, S, M 
+Components : V, S, M ( bone from a mummy, ghast, weight, or vampire. )
 
 Identical to previous in series. This one brings 2d4 ghouls (50% chance), or 2d4 monster zombies (50% chance). Component is bone from a mummy, ghast, weight, or vampire. 
 
