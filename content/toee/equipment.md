@@ -24,11 +24,19 @@ title: Equipment
 
 5 Sheets of paper
 
-Spell components for all first level spells
+Apology Notes
 
-Spell components for 4 Months starting -- Date  -- 
+[Mystra Prayer](./papers/mystra_prayer)
 
-Common spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell component is more than a few gold pieces and consumed you will need to replenish it. 
+[Apology Notes](./papers/apology_notes)
+
+Spell components
+
+- all first level spells.
+
+- Spell components for 3 Months starting -- August 6'th-- 
+
+- Common spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell component is more than a few gold pieces and consumed you will need to replenish it. 
 
 **Camping Supplies**: tent, bedroll,utility knife, 50 feet of rope, tinderbox
 
@@ -66,9 +74,15 @@ Sewing needle + flax thread
 
 [A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls), [Correspondence of Lareth](/toee/books/correspondence_of_lareth), [Mushroom Cult Book](https://scottjbennett.com/toee/mushroom_cult_book)
 
-## Magic Items
+[📕 Red Spellbook](https://scottjbennett.com/toee/red_spellbook/)
 
-### [📕 Red Spellbook](https://scottjbennett.com/toee/red_spellbook/)
+
+[📘 Blue Spellbook](https://scottjbennett.com/toee/blue_spellbook/)
+
+
+[📗 Master Boggs Spellbook](https://scottjbennett.com/toee/master_boggs_spellbook/)
+
+## Magic Items
 
 ### Robes +2
 

@@ -8,14 +8,14 @@ A human who lived too long and was slain
 
 ## First Level Spells
 
-- ANIMATE DEAD ANIMALS
-- CHILL TOUCH
-- DANCE MACABRE
-- FRIENDS
-- MARCH
-- METAMORPHOSE LIQUIDS 
-- PUSH
-- RAY OF FATIGUE
+- Animate Dead Animals
+- Chill Touch
+- Danse Macabre
+- Friends
+- March
+- Metamorphose Liquids
+- Push
+- Ray Of Fatigue
 
 ## Second Level Spells
 
