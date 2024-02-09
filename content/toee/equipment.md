@@ -18,11 +18,13 @@ title: Equipment
 
 - Spell components for 3 Months -- Expires August 6'th-- 
 
-- Common spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell component is more than a few gold pieces and consumed you will need to replenish it. 
+- Common spell ingredients you are assumed to have. 
+	- You are assumed to be taking the time to gather them as well. 
+	- If the spell component is more than a few gold pieces and consumed you will need to replenish it. 
 
 **Camping Supplies**
 
-- tent
+- ⛺tent
 - bedroll
 - utility knife
 - 🪢  50 feet of rope
@@ -54,9 +56,9 @@ Sewing needle + flax thread
 
 ## Books and Papers
 
-[Mystra Prayer](./papers/mystra_prayer)
+![/toee/mystra_symbol.png](/toee/mystra_symbol.png) [Mystra Prayer](/toee/papers/mystra_prayer)
 
-[Apology Notes](./papers/apology_notes)
+[Apology Notes](/toee/papers/apology_notes)
 
 [A Guide to Homlet](/toee/books/guide_to_homlet)
 

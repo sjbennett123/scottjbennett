@@ -2,6 +2,8 @@
 title: Mystra Prayer
 ---
 
+![/toee/mystra_symbol.png](/toee/mystra_symbol_big.png)
+
 Hallowed Lady, Mother Mystra, guide my thoughts now Light my way Inform my deeds Enlighten me, as you enlighten all.
 
 Show me what is best to do 

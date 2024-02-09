@@ -13,6 +13,8 @@ layout: single
 
 ---
 
+[🗲 Spell Descriptions 🗲](/toee/spells)
+
 # 1
 
 :black_square_button: [Change Self](https://scottjbennett.com/toee/spells/#change-self) 

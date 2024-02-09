@@ -11,7 +11,7 @@ layout: single
 
 [todo](./todo)
 
-[notes](./notesd)
+[notes](./notes)
 
 ---
 
