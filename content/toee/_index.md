@@ -11,6 +11,8 @@ layout: single
 
 [todo](./todo)
 
+[notes](./notesd)
+
 ---
 
 ✏️[Character Sheet](./character_sheet)

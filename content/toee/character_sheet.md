@@ -78,7 +78,7 @@ Roll **Over** these. These do not change till level 11
 - Tinkering()
 - Herbalism()
 
-## Spells
+## [Spells](./current_spells)
 
 - **1st**: 7
 - **2nd**: 5

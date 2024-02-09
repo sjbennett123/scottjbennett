@@ -1,58 +1,42 @@
 ---
 title: Equipment
-#### closed-book
-#### https://emojipedia.org/closed-book
-# 📕
-#### Empty checkbox   
-# :black_square_button: 
-##### Completed checkbox 1   
-# :ballot_box_with_check: 
-#####: Completed checkbox 2    
-# :white_check_mark
-##### Completed checkbox 3  
-# :heavy_check_mark: 
-
 ---
 
 [Group Equipment](https://docs.google.com/spreadsheets/d/19n1yl4AQ1JiV64LYY_idK_FN5MMfU6MtAT0bgjfwm5c/edit#gid=2084483276)
 
 ## Money
 
-854 GP
+🪙 854 GP
 
 ## Equipment
 
 5 Sheets of paper
 
-Apology Notes
-
-[Mystra Prayer](./papers/mystra_prayer)
-
-[Apology Notes](./papers/apology_notes)
-
-Spell components
+**Spell Components**
 
 - all first level spells.
 
-- Spell components for 3 Months starting -- August 6'th-- 
+- Spell components for 3 Months -- Expires August 6'th-- 
 
 - Common spell ingredients you are assumed to have. You are assumed to be taking the time to gather them as well. If the spell component is more than a few gold pieces and consumed you will need to replenish it. 
 
-**Camping Supplies**: tent, bedroll,utility knife, 50 feet of rope, tinderbox
+**Camping Supplies**
 
-Maps of the whole world roll(roll % to see if you have it )
+- tent
+- bedroll
+- utility knife
+- 🪢  50 feet of rope
+- tinderbox
+
+🗺️ Maps of the whole world roll(roll % to see if you have it )
 
 Trunk filled with disguises
 
-Gem cutting equipment
+💎 Gem cutting equipment
 
 Backpack
 
-50' silk rope
-
-Utility knife
-
-Tinderboxes
+🪢 50' silk rope
 
 Cup/bowl/spoon
 
@@ -62,20 +46,29 @@ Soap
 
 Salt
 
-A vial of lamp oil
-
-Small hooded lantern
+🪔 Small hooded lantern with a vial of lamp oil
 
 New bedroll, wineskin, belt pouch, bootlaces
 
 Sewing needle + flax thread
 
-## [Books](./books)
+## Books and Papers
 
-[A Guide to Homlet](/toee/books/guide_to_homlet), [A Day to Remember](/toee/books/a_day_to_remember), [Diets of Gnolls](/toee/books/diets_of_gnolls), [Correspondence of Lareth](/toee/books/correspondence_of_lareth), [Mushroom Cult Book](https://scottjbennett.com/toee/mushroom_cult_book)
+[Mystra Prayer](./papers/mystra_prayer)
+
+[Apology Notes](./papers/apology_notes)
+
+[A Guide to Homlet](/toee/books/guide_to_homlet)
+
+[⚔️A Day to Remember](/toee/books/a_day_to_remember)
+
+[🐾Diets of Gnolls](/toee/books/diets_of_gnolls)
+
+[🍄Correspondence of Lareth](/toee/books/correspondence_of_lareth)
+
+[🍄Mushroom Cult Book](https://scottjbennett.com/toee/mushroom_cult_book)
 
 [📕 Red Spellbook](https://scottjbennett.com/toee/red_spellbook/)
-
 
 [📘 Blue Spellbook](https://scottjbennett.com/toee/blue_spellbook/)
 
