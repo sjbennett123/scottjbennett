@@ -10,7 +10,7 @@ title: Equipment
 
 ## Equipment
 
-5 Sheets of paper
+20 Sheets of paper
 
 **Spell Components**
 
