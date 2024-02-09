@@ -13,6 +13,7 @@ https://scottjbennett.com/toee/spells/
 ## First Level Spells
 
 - [Chromatic Orb](https://scottjbennett.com/toee/spells/#chromatic-orb)
+- [Copy Spell](https://scottjbennett.com/toee/spells/#copy-spell-improved)
 - [Cantrip](https://scottjbennett.com/toee/spells/#cantrip)
 - [Armor](https://scottjbennett.com/toee/spells/#armor)
 - [Burning Hands](https://scottjbennett.com/toee/spells/#burning-hands)

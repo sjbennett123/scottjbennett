@@ -9,6 +9,8 @@ layout: single
 
 [Story Hooks](https://docs.google.com/document/d/1T78J7d9ccUg03X8Kic9SyQ37JRQFf0Jm6n0Dm5fyi0s/edit)
 
+[todo](./todo)
+
 ---
 
 ✏️[Character Sheet](./character_sheet)

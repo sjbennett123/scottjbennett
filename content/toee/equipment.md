@@ -112,8 +112,6 @@ With an activation word, will cause paralysis [per spell](https://scottjbennett.
 
 This scroll is blank. When held and commanded to write, it will draw, with perfect accuracy, any creature within line of sight of the caster. Up to four different creatures can be drawn per use. It can be used once every 24 hours. (cannot be copied into spellbook)
 
-### Ring of Protection +3 
-
 ### Scroll of Fly 
 
 Can be copied into spellbook. [Per Spell](https://scottjbennett.com/toee/spells/#fly)

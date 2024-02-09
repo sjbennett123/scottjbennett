@@ -7,6 +7,18 @@ spells: adsf
 
 ## 1
 
+## Copy Spell Improved
+
+📕
+
+**Level**: 1
+
+**Casting time**: 1 minute
+
+The spell takes 1d4 hours per spell level to complete. Components are material and verbal. Material components are paper and ink of spell quality (the paper may be an existing spell book, the ink is used), and a handful of ash. 
+
+Copy Spell will perfectly copy any spell the caster can visually see during casting. The caster does not need to continue to see the spell being copied for the duration of the spell. The paper the spell is being copied onto must be laid flat and open (as per an open spell book or similar) for the duration, and unmoved for the duration. Copy Spell copies the spell perfectly, without chance of spell failure or error. Copy Spell imparts the verbal components into the caster's brain, allowing them to perfectly intone without chance of spell failure, and eliminating the need to 'learn spell' for any spells with verbal only components.
+
 ### Chromatic Orb
 
 [📕](https://scottjbennett.com/toee/red_spellbook/)

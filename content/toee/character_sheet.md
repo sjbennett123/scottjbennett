@@ -22,7 +22,7 @@ Cha: 12
 
 ## Armor Class 
 
- **1**    Magical Robes +2 , Ring of Protection +3 
+ **4**  Magical Robes +2
 
 ## Saving Throws
 
