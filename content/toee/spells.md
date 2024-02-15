@@ -594,6 +594,26 @@ This spell creates a small chaotic, disjointed, shimmering area of magical energ
 
 ## 2
 
+### Stinking Cloud
+
+**School**: Evocation)
+
+Range: 30 yds. 
+
+Duration: 1 rd./level 
+
+Area of Effect: 20-ft. cube 
+
+Components: V, S, M (a rotten egg or several skunk cabbage leaves.)
+
+Casting Time: 2 
+
+Saving Throw: Special 
+
+When a *stinking cloud* is cast, the wizard creates a billowing mass of nauseous vapors up to 30 yards away from his position. Any creature caught within the cloud must roll a successful saving throw vs. poison or be reeling and unable to attack because of nausea for 1d4+1 rounds after leaving the cloud. Those who make successful saving throws can leave the cloud without suffering any ill effects, although those remaining in the cloud must continue to save each round. These poisonous effects can be slowed or neutralized by appropriate magic. The cloud duration is halved in a moderate breeze (8-18 m.p.h.) and is dispersed in one round by a stronger breeze.
+
+The material component of the spell is a rotten egg or several skunk cabbage leaves.
+
 ### Read Magic
 
 [📕](https://scottjbennett.com/toee/red_spellbook/)
@@ -765,7 +785,7 @@ This spell creates a small chaotic, disjointed, shimmering area of magical energ
 > Furthermore, the strands of a web spell are flammable. A magical flaming sword can slash them away as easily as a hand brushes away cobwebs. Any fire--torch, flaming oil, flaming sword, etc.--can set them alight and burn them away in a single round. All creatures within flaming webs suffer 2d4 points of damage from the flames, but those free of the strands are not harmed.
 >
 
-### BLOODBRIDGE
+### Bloodbridge
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -779,7 +799,7 @@ Components : V, S, M
 
 This spell allows the caster to serve as a bridge between a donor and a recipient of blood. The caster magically passes blood from one, through themselves, to the other. The blood heals the recipient and damages the donor. The damage that can be healed is limited to 2HP + 1HP per lvl of the caster per day. Multiple donors can be used but the total healing cannot exceed that maximum. For each pt healed, the donor loses 1 pt. The donor must share a race with the recipient. The caster may serve as a donor. The healing only works for any damage sustained in conjunction with blood loss (so things like electrical shock, suffocation, or force bolts cannot be healed in this manner). The spell is extremely taxing for the caster. The caster loses 1 pt STR per 5 pts healed, and 1 pt CON per casting. These return at the rate of 1 pt per day. Blood can be extracted from an unwilling donor, but donor and recipient must both be immobile for the duration of the spell (2rds prior to effect) and thus cannot be used in combat. Component is two small gold needles which are consumed at casting. 
 
-### CHOKE
+### Choke
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -797,7 +817,7 @@ Components : V, S, M
 
 Conjures a pair of ghostly spectral hands that appear around the throat of a target. Target must be humanoid, non-animal, and of Ogre side or smaller. Target cannot wrench free of hands. They continue to choke for the entire duration of the spell unless the caster is slain or falls unconscious. Choking causes 1d4 pts damage per round. Target saves each rd for ½ damage. Target makes all combat rolls with a penalty of 2 for duration of choking. Dispel magic can dispel, otherwise spell continues for spell duration. Component is a handkerchief tied in a knot. 
 
-### DETECT POISON
+### Detect Poison
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -811,7 +831,7 @@ Components : V, S, M
 
 Spell enables caster to unerringly detect poison within area of effect (1 object or container, or a 5 foot cube, whichever is smaller). Caster has a 5% change per level to determine the exact nature of any poison detected. Component is powdered unicorn horn. Spell is a speciality of the Red Wizards of Thay! 
 
-### DISPLACE SELF
+### Displace Self
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -825,7 +845,7 @@ This spell emulates the natural ability of the displacer beast, making the caste
 
 
 
-### EMPATHETIC CONTROL
+### Empathetic Control
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -841,7 +861,7 @@ Components : V, S
 
 Allows the wizard to empathetically seize the mind and control the body of a single target creature. Creature of 7+ HD, undead, unintelligent, or under ‘protection from evil’ are unaffected. Target can save to negate. Target remains aware and conscious the whole time and cannot be compelled to do anything specifically against its nature or clearly self destructive (ie can be willed to flee but not fall on its own sword). Caster suffers 25% of any damage suffered by target due to empathetic link. Spell lasts for as long as target is in caster’s sight and caster concentrates (caster can move, talk, take basic actions, and cast basic cantrips, but cannot cast spells, attack, dodge etc). Note that target must be within rage for initial casting but can leave that area so long as it remains in sight of caster. Use of this spell against unwilling targets for anything less than defense of immediate threat is considered an evil act! 
 
-### FORGET
+### Forget
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -854,7 +874,7 @@ Components : V, S
 
 Caster causes targets within area of effect to forget the previous round/one minute of time prior to casting. Caster can increase that time by one round/minute per every 3 lvls. Target forgets this time period entirely and permanently. Saves work as follows : one creature effected = -2 to save, two = -1 to save, three or four no modifier. A wish, limited wish, or heal spell can restore the memories. Cannot reverse the effects of spells such as friends or gias, but may make the victim forget key parts as per DM choice. Use of the spell on unwilling victims is considered an evil act in any but clear, un-complicated, life or death circumstance. 
 
-### TASHA'S UNCONTROLLABLE HIDEOUS LAUGHTER
+### Tasha's Uncontrollable Hideous Laughter
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -871,7 +891,7 @@ This insidious spell causes victims to perceive everything around them or in the
 
 ### Water Breathing
 
-**In Scroll**
+**📜 In Scroll**
 
 **Reversible**
 
@@ -1079,7 +1099,7 @@ The caster holds enemies rigid with a powerful illusion. The caster can affect a
 
 Recipients of this spell feel no pain, heat, cold, fatigue, hunger, thirst, exhaustion, fear, hopelessness, and need not eat, drink, rest, or sleep for the duration. Spell does not negate damage of fatigue, heal wounds, etc but does negate effects of things such as wand of fear, drums of panic, or sleep spell, or similar as per DM discretion. Does not ‘refill’ priest spell slots. Recipients all get +1 to all saves for duration as well. Often used on troops in long battles, or in dungeons. Caster can use on their choice of any living creatures, up to 10 total. 
 
-### HASTE
+### Haste
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -1127,7 +1147,7 @@ Components : V, S, M
 
 Allows the caster to change the shape of another spell 1st - 5th level. A 3d area can only be changed into another 3d area ie a cube into a sphere. A 2d has to be changed to a 2d. Only basic shapes can be created (sphere, cube, pyramid, rectangular prism, square, circle, triangle, rectangle). The change has to exactly match the same area/volume/square footage of the original spell parameters, no more and no less. The caster must first cast Squaring The Circle, and then complete any other casting within the duration of this spell. Cannot be used to effect any casting other than the caster’s own. Component is a pendant with any fine quality gem set in the center in the shape of a perfect sphere. 
 
-### STAFFSPELL
+### Staff Spell
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 
@@ -1183,11 +1203,13 @@ The party has no control over where they will be teleported, and there is always
 
 [📜**From Scroll**](https://scottjbennett.com/toee/equipment/#scroll-of-detect-scrying)
 
+**Level**: 4
+
 **School**: Divination
 
 **Range**: 0
 
-**Components**: V, S, M  The material components for this spell are a small piece of mirror and a miniature brass hearing trumpet.
+**Components**: V, S, M  (The material components for this spell are a small piece of mirror and a miniature brass hearing trumpet.)
 
 **Duration**: 1d6 turns + 1 turn/level
 

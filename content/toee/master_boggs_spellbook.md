@@ -4,7 +4,9 @@ title: master boggs spellbook
 
 [https://docs.google.com/document/d/1LFVZIw7NcLGygFSdIch-p1jnSWSqzd6u-hNzalsf8Qo/edit](https://docs.google.com/document/d/1LFVZIw7NcLGygFSdIch-p1jnSWSqzd6u-hNzalsf8Qo/edit)
 
-A human who lived too long and was slain
+Master Boggs was a human who lived too long and was slain.
+
+
 
 ## First Level Spells
 
