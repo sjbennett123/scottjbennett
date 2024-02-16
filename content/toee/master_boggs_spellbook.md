@@ -6,8 +6,6 @@ title: master boggs spellbook
 
 Master Boggs was a human who lived too long and was slain.
 
-
-
 ## First Level Spells
 
 - Animate Dead Animals

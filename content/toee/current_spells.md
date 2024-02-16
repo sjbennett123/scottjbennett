@@ -21,9 +21,11 @@ layout: single
 
 :black_square_button: [Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
 
-:black_square_button: :black_square_button: :black_square_button: :black_square_button: :black_square_button: [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
+:black_square_button: :black_square_button: :black_square_button: :black_square_button: Copy Spell
 
-:heavy_check_mark: detect magic
+:black_square_button: [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
+
+:black_square_button:  detect magic
 
 
 # 2

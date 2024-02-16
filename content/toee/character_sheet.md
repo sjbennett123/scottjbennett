@@ -71,7 +71,7 @@ Roll **Over** these. These do not change till level 11
 - Magical Lore/history (INT)
 - Spellcraft (INT/-2)
 - Disguise(/)
-- Navigation()
+- Navigation(INT)
 - Gemcuttting()
 - Mining()
 - Engineering()

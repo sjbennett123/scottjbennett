@@ -60,6 +60,8 @@ Sewing needle + flax thread
 
 [Apology Notes](/toee/papers/apology_notes)
 
+[letter_from_duke_spungior](/toee/papers/letter_from_duke_spungior) 
+
 [A Guide to Homlet](/toee/books/guide_to_homlet)
 
 [⚔️A Day to Remember](/toee/books/a_day_to_remember)
