@@ -21,11 +21,11 @@ layout: single
 
 :black_square_button: [Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
 
-:black_square_button: :black_square_button: :black_square_button: :black_square_button: Copy Spell
+:black_square_button: :black_square_button: :black_square_button: :black_square_button: [Copy Spell Improved](https://scottjbennett.com/toee/spells/#copy-spell-improved)
 
 :black_square_button: [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
 
-:black_square_button:  detect magic
+:black_square_button:  [Detect Magic](https://scottjbennett.com/toee/spells/#detect-magic)
 
 
 # 2
@@ -45,6 +45,11 @@ layout: single
 :black_square_button: :black_square_button:  [Dispel Magic](https://scottjbennett.com/toee/spells/#dispel-magic)
 
 :black_square_button:  :black_square_button:  [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
+
+# 4
+:black_square_button: :black_square_button:  :black_square_button: 
+
+
 
 ---
 

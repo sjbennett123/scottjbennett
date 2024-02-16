@@ -456,7 +456,7 @@ When the caster completes this spell, a blue glow encompasses his hand. This ene
 
 This spell has a special effect on undead creatures. Undead touched by the caster suffer no damage or Strength loss, but they must successfully save vs. spell or flee for 1d4 rounds + 1 round per level of the caster.
 
-## Danse Macabre
+### Danse Macabre
 
 [📗 ](https://scottjbennett.com/toee/master_boggs_spellbook/)
 

@@ -2,6 +2,16 @@
 title: notes
 ---
 
+
+
+## February 15, 2024
+
+I spoke to the gang about 
+
+Marta came and talked to us about their strange family customs. Marta gave us the third of the teeth and asked me not to touch the tooth. I really hate how this woman talks to me but I guess that's the price that I pay for my weakness with Frank my nemesis. 
+
+I spoke to Galahad about my weaknesses in not protecting the party from Scrying and other magical spells. 
+
 ## February 8, 2024
 
 I was about to go to sleep with Galahad and leave Autumn to sleep along in the basement of the welcome wench. Autumn speaks to Galahad and I about staying in the basement so that she is not alone. We agree to stay there. I speak to Autumn about the nature of magic and how we are all built on the sholders of those that came before.

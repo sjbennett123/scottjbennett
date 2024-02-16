@@ -4,8 +4,6 @@ title: Blue Spellbook
 
 250 Pages total 130 used 
 
-
-
 ## 1
 
 ## 2
