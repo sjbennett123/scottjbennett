@@ -10,7 +10,11 @@ I spoke to the gang about
 
 Marta came and talked to us about their strange family customs. Marta gave us the third of the teeth and asked me not to touch the tooth. I really hate how this woman talks to me but I guess that's the price that I pay for my weakness with Frank my nemesis. 
 
-I spoke to Galahad about my weaknesses in not protecting the party from Scrying and other magical spells. 
+I spoke to Galahad about my weaknesses in not protecting the party from Scrying and other magical spells. Galahad was pretty upset. Elmo was spoken to by 
+
+Fezin came and talked to us about a ghost tree. When our need is greatest we will need to plant the ghost tree. 
+
+
 
 ## February 8, 2024
 

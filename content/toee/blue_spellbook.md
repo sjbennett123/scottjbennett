@@ -19,8 +19,3 @@ Fly
 Detect Scrying
 
 Dramij's Instant Exit
-
-
-
-
-
