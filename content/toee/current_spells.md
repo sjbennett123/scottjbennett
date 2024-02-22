@@ -51,7 +51,7 @@ layout: single
 
 :black_square_button: Throbbig Bones
 
-:black_square_button: Stoneskin
+:black_square_button: Instant Exit
 
 ---
 
