@@ -47,9 +47,11 @@ layout: single
 :black_square_button:  :black_square_button:  [Suggestion](https://scottjbennett.com/toee/spells/#suggestion) 
 
 # 4
-:black_square_button: :black_square_button:  :black_square_button: 
+:black_square_button: Chaos
 
+:black_square_button: Throbbig Bones
 
+:black_square_button: Stoneskin
 
 ---
 
