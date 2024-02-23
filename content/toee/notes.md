@@ -2,6 +2,10 @@
 title: notes
 ---
 
+## February 22 2024
+
+I did the ritual and it did not take us to the waystation. It took us to Verbononk. It didn't kill us! SO that's a win. Jerry was very upset and yelled at me!  The guards immediately accosted us. I quickly got on the ground and showed deference. This is what I think will get me the time that I need to think.  These people are innocent. They started to take all our stuff they took my components and my bag of holding. Autumn declares Sanctuary and the guards take us to the Temple of Lathandar. The whole way things are SO Loud the weak magics that they are using are very untargeted. While we are underway I spoke to Glaahad and Machior about how we are keeping discrete about our We arrived at the temple of Lathandar. Now this is a temple. Far better than the Temple of St Cuthbert. When we arrive Autumn greets the guy that's there and he is very nice. He then goes and gets the Canon. 
+
 
 
 ## February 15, 2024
