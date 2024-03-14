@@ -4,7 +4,7 @@ title: notes
 
 ## March 14 2024
 
-
+I get done with the imitation and man it was miserable. I was not cut out for this. I still feel wrung out and tired. 
 
 ## March 7 2024
 

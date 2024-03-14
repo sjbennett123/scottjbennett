@@ -1,7 +1,5 @@
 ## todo
 
-busines cards
-
 card display
 
 fb page review
