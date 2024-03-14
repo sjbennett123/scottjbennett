@@ -60,12 +60,12 @@ Menus:
     #   title: example dropdown 2
     #   name: example 2
     #   url: /#
-    #   parent: dropdown
+    #   parent: dropdow
     #   weight: 2
 
 params:
   title: "Scott Bennett"
-  description: Text about my cool site
+  description: Hi, my name is Scott Bennett. I will patiently help you get your project done. 
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 

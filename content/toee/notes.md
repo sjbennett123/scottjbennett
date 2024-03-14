@@ -2,9 +2,29 @@
 title: notes
 ---
 
+## March 14 2024
+
+
+
+## March 7 2024
+
+We get breakfast and start to talk about what our plans are. Autumn describes that the sanctuary that we have will last until we leave the temple.  We dscuss that there is great danger for Jerry in this city. We need to get our stuff back particularly my fell tomes and that we need to find a wizard with a more capable teleport spell that will take us to where we need to go. While we bicker about what we must do and if this should be Autumns mentor arrives. 
+
+It turns out there is going to a formal investigation into my failed spell. This doesn't feel great. We will have an advocate that will help us out. It turns out that we are on the hook for six years of hard time. We are going to need to wiggle our way out of this one. 
+
+I got some new clothes from the Lathandar folks and they are really nice. I use my magics to clean up Galahad and myself and take off my Wizard's Robes. Feels strange but here we are. 
+
+We are then told that there is a visitor. It's Jerry's EX. She is really mad. 
+
+Our advocate arrives. Elenore le'blume. She is very prim and proper. she explains to us that we are fucked. 
+
 ## February 22 2024
 
-I did the ritual and it did not take us to the waystation. It took us to Verbononk. It didn't kill us! SO that's a win. Jerry was very upset and yelled at me!  The guards immediately accosted us. I quickly got on the ground and showed deference. This is what I think will get me the time that I need to think.  These people are innocent. They started to take all our stuff they took my components and my bag of holding. Autumn declares Sanctuary and the guards take us to the Temple of Lathandar. The whole way things are SO Loud the weak magics that they are using are very untargeted. While we are underway I spoke to Glaahad and Machior about how we are keeping discrete about our We arrived at the temple of Lathandar. Now this is a temple. Far better than the Temple of St Cuthbert. When we arrive Autumn greets the guy that's there and he is very nice. He then goes and gets the Canon. 
+I did the ritual and it did not take us to the waystation. It took us to Verbononk. It didn't kill us! SO that's a win. Jerry was very upset and yelled at me!  The guards immediately accosted us. I quickly got on the ground and showed deference. This is what I think will get me the time that I need to think.  These people are innocent. They started to take all our stuff they took my components and my bag of holding. Autumn declares Sanctuary and the guards take us to the Temple of Lathandar. The whole way things are SO Loud the weak magics that they are using are very untargeted. While we are underway I spoke to Glaahad and Machior about how we are keeping discrete about our We arrived at the temple of Lathandar. Now this is a temple. Far better than the Temple of St Cuthbert. When we arrive Autumn greets the guy that's there and he is very nice. He then goes and gets the Canon. The cannon is really nice and gives us sanctuary in the temple. When we get in we get to a nice room and we the cannon tells us to go to bed. I immediatly prepare for my beaty sleep. I attempted to apologize to Galahad but galahad and autumn told me that this kind of thing happens. We tried our best. This felt kind of true but also I feel terrible. I went to bed with Autumn in the room as well and slept like the dead. 
+
+I woke up to talk to Galahad about the nasty spells that are in Master Bogg's spellbook but Galahad was taken away to look at his sword. When he gets back I talk to him about the terrile magics that are contained within the Book of Master Boggs galahad offers me some advice to just talk about it with Autmn and not to be worried. 
+
+We then talk to Malchior about taking his dumb vow. It seems that we are on the hook. Honey goes first and it seems like reasonable stuff. So I go for it after the rest of the Alliance(What a dumb name)
 
 
 
