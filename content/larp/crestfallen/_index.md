@@ -33,6 +33,17 @@ https://crestfallenlarp.com/todo/
 - 
 
 - 
+print and play games order
+    NPC BOx
+    PC box x15
+    surgery and gathering cards
+    
+deliver 
+    Ren allofbranch zine, Character sheets bookmark
+    Sherri 2x boxed set contents
+    beren boxed set
+    matt boxed set
+    date boxed set
 
 ## unsorted
 
@@ -44,6 +55,9 @@ https://crestfallenlarp.com/todo/
 
 - update surgery charts
 
+- crestfallen rulebook needs rulebook on the cover
+
+- specify that game is in southwestern pa
 ---
 
 ## Character Usability Test 
