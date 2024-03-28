@@ -101,13 +101,17 @@ When the wearer falls greater than 30 feet, the boots activate as per the [feath
 
 (Can be read from scroll, or copied into spellbook.) [Per Spell](https://scottjbennett.com/toee/spells/#detect-scrying) 
 
-### Scroll of Drawmij’s Instant Exit
+### Scroll of Drawmij's Instant Exit
 
 (Can be read from scroll or copied into spellbook.) [Per Spell](https://scottjbennett.com/toee/spells/#drawmijs-instant-exit-alteration-conjuration) 
 
-### Scroll of Protection from Tanar’ai
+### Scroll of Protection from Tanar'ai
 
-(Can only be read from scroll.) Per Spell 
+(Can only be read from scroll.) Per Spell.
+
+### Scroll of Flame Magic
+
+When read, this scroll casts a fire-based spell at random of the highest spell level of the caster reading it. DM should choose the specific spell at random. (cannot be copied into spellbook)
 
 ### Stone of Force
 
