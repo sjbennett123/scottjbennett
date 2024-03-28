@@ -2,6 +2,12 @@
 title: notes
 ---
 
+## March 22 2024
+
+We spoke to Autumn about the "confession" that she gave and how that was a bit of a mistake. I really wish that she had been much more circumspect. 
+
+The lady lebume gave us a big book of law notes. 
+
 ## March 14 2024
 
 I get done with the imitation and man it was miserable. I was not cut out for this. I still feel wrung out and tired. 
