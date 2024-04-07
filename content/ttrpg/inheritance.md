@@ -9,15 +9,15 @@ title: inheritance
 ## Character Pitches
 
 Brief descriptions of the characters
-• **Thorvald**, a wealthy retired viking. Husband of Fulla, father of Baldr, Daxo and Ring.
-• **Fulla**, a powerful matriarch. Wife of Thorvald, mother of Baldr, Daxo and Ring.
-• **Daxo**, the exiled son, a viking, now returned.
-• **Ring**, the youngest son, who has big dreams, but has been kept close at hand by his father and mother.
-• **Tyr**, a former berserk, who lost his arm in battle. Husband of Gefjon, father of Rán.
-• **Gefon**, a wild priestess of Odin or seiđkona. Mother of Rán and wife of Tyr.
-• **Rán**, bereaved daughter of Tyr and Gefjon. She wishes to make her own way this world and choose her own destiny.
-• **Ansgar**, a Christian priest, who was Grandfather's advisor and is Thorvald’s accountant.
-• **Aurvandil**, a viking who has traveled from Upsala to Kiev to Constantinople. He comes now as Daxo's boon companion.  
+- **Thorvald**, a wealthy retired viking. Husband of Fulla, father of Baldr, Daxo and Ring.
+- **Fulla**, a powerful matriarch. Wife of Thorvald, mother of Baldr, Daxo and Ring.
+- **Daxo**, the exiled son, a viking, now returned.
+- **Ring**, the youngest son, who has big dreams, but has been kept close at hand by his father and mother.
+- **Tyr**, a former berserk, who lost his arm in battle. Husband of Gefjon, father of Rán.
+- **Gefon**, a wild priestess of Odin or seiđkona. Mother of Rán and wife of Tyr.
+- **Rán**, bereaved daughter of Tyr and Gefjon. She wishes to make her own way this world and choose her own destiny.
+- **Ansgar**, a Christian priest, who was Grandfather's advisor and is Thorvald’s accountant.
+- **Aurvandil**, a viking who has traveled from Upsala to Kiev to Constantinople. He comes now as Daxo's boon companion.  
 
 ## Preamble
 
