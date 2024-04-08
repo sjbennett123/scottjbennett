@@ -5,6 +5,7 @@ title: inheritance
 ---
 - [https://www.kickstarter.com/projects/burningwheel/inheritance-0](https://www.kickstarter.com/projects/burningwheel/inheritance-0)
 - [https://www.youtube.com/watch?v=gLQn4Vr4Kn8](https://www.youtube.com/watch?v=gLQn4Vr4Kn8)
+-  https://youtu.be/s2glN7H0N8w?si=4QSmtgHxSLSP4VLx
 
 ## Character Pitches
 
@@ -33,3 +34,10 @@ Fair wind to captains and song to poets;
 He giveth luck in love to many a hero.”
 
 —a prayer to Odin, from the Saxo Grammaticus
+
+## description
+Ten years ago, Daxo murdered his beloved older brother, Baldr. Exiled by his father for his crime, he's spent a long decade wandering. But now he's heard that his dear grandfather has died, and he's returned home to claim his inheritance.
+
+Inheritance tells the tale of two families coming to terms with forgiveness, debt, religion, law and death. In three acts, the game presents a powerful drama that is always unique to the players and their decisions.
+
+It is a roleplaying game for nine players (no more, no less) and one facilitator. It takes place in two rooms (or a similar location outside) over two to three hours.
