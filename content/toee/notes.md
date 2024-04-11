@@ -2,6 +2,33 @@
 title: notes
 ---
 
+## ceremony
+
+You have to show that you have undergone a woodsland survival journey, solo.
+
+- Arrick nearly died. He had in the past relied on magic and money to survive. When that is taken away from him he has very little of the ability to actually survive. This 
+
+You have to do something that proves you are an adult.
+
+- 
+
+You have a vision journey, which is induced by hallucinogens. They make you physically super ill for a few hours too.
+    His companions that 
+
+In the end, if you are accepted into the clan, you get a new name. That name is to be kept secret.
+
+    The process is profound, extremely impactful, and transformative.
+
+## April 4 2024
+
+Autumn is at the head of the hill. This might be a trick but we need to. He appears differently than he did before. He asks to be called Ama-Rillus. 
+
+## march 28 2024
+
+I began to speak to Honey about the interrogation but I agree to trying to move forward. 
+
+Jerry meets with their ex. 
+
 ## March 22 2024
 
 We spoke to Autumn about the "confession" that she gave and how that was a bit of a mistake. I really wish that she had been much more circumspect. 

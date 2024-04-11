@@ -16,7 +16,7 @@ layout: single
 
  ⃞    ⃞   [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
 
-⃞ ⃞   [Detect Magic](https://scottjbennett.com/toee/spells/#detect-magic)
+ ⃞     ⃞      [Detect Magic](https://scottjbennett.com/toee/spells/#detect-magic)
 
 
 # 2
@@ -41,7 +41,7 @@ layout: single
 
 ⃞⃞⃞⃞⃞ ⃞   Chaos
 
-⃞⃞⃞⃞⃞ ⃞   Throbbig Bones
+✓             ⃞                 Throbbig Bones  
 
-✓  Instant Exit
+      ⃞ Instant Exit
 

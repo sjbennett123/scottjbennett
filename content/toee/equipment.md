@@ -32,11 +32,13 @@ title: Equipment
 
 🗺️ Maps of the whole world roll(roll % to see if you have it )
 
-Trunk filled with disguises
+🥸Trunk filled with disguises
 
 💎 Gem cutting equipment
 
 Backpack
+
+Watertight scrollcase (made of bone can hold 5 normal sized scrolls)
 
 🪢 50' silk rope
 
@@ -91,27 +93,11 @@ Can carry up to 500 pounds of equipment. Nothing living can go inside it includi
 
 ### Small Wooden Bowl
 
-2x per day when the appropriate phrase is spoke will produce and nutritious and adequate meal.
+2x per day when the appropriate phrase  "Lets Eat"  is spoken will produce and nutritious and adequate meal.
 
 ### Boots of Featherfall
 
 When the wearer falls greater than 30 feet, the boots activate as per the [feather fall spell](https://scottjbennett.com/toee/spells/#feather-fall). They do not activate for distances shorter than 30 feet, and do not activate if a character jumps or otherwise deliberately 'falls'.
-
-### Scroll of Detect Scrying 
-
-(Can be read from scroll, or copied into spellbook.) [Per Spell](https://scottjbennett.com/toee/spells/#detect-scrying) 
-
-### Scroll of Drawmij's Instant Exit
-
-(Can be read from scroll or copied into spellbook.) [Per Spell](https://scottjbennett.com/toee/spells/#drawmijs-instant-exit-alteration-conjuration) 
-
-### Scroll of Protection from Tanar'ai
-
-(Can only be read from scroll.) Per Spell.
-
-### Scroll of Flame Magic
-
-When read, this scroll casts a fire-based spell at random of the highest spell level of the caster reading it. DM should choose the specific spell at random. (cannot be copied into spellbook)
 
 ### Stone of Force
 
@@ -123,13 +109,35 @@ When activated, casts [Wall of Force](https://scottjbennett.com/toee/spells/#wal
 
 With an activation word, will cause paralysis [per spell](https://scottjbennett.com/toee/spells/#paralyzation) in one target. Target save vs spell to negate. Creatures normally immune to this spell are not. 
 
+### Scroll of Detect Scrying 
+
+(Can be read from scroll, or copied into spellbook.) [Per Spell](https://scottjbennett.com/toee/spells/#detect-scrying) 
+
+### Scroll of Drawmij's Instant Exit
+
+(Can be read from scroll or copied into spellbook.) [Per Spell](https://scottjbennett.com/toee/spells/#drawmijs-instant-exit-alteration-conjuration) 
+
+### Scroll of Protection from Tanar'ai
+
+(Can only be read from scroll.) Per Spell. 
+
+scroll of protection from traps.
+
+### Scroll of Flame Magic
+
+(cannot be copied into spellbook) When read, this scroll casts a fire-based spell at random of the highest spell level of the caster reading it. DM should choose the specific spell at random. 
+
+**Scroll of Illumination**
+
+Useable by both wizards and priests (and thieves/bards once they gain the ability). When this scroll is set aflame, it burns with a clear bright light for up to 8 hours per every 24. It does not emit heat, but can be used to light small things such as candles, small torches, kindling, and similar. It cannot be used to inflict damage. Nothing other than a command word will extinguish the flame until it reaches the 8 hour limit. The scroll is unharmed by the flame it produces. The light from the magical fire can illuminate a 90 foot radius as if in torchlight.
+
 ###  Scroll of Seeing 
 
-This scroll is blank. When held and commanded to write, it will draw, with perfect accuracy, any creature within line of sight of the caster. Up to four different creatures can be drawn per use. It can be used once every 24 hours. (cannot be copied into spellbook)
+(cannot be copied into spellbook) This scroll is blank. When held and commanded to write, it will draw, with perfect accuracy, any creature within line of sight of the caster. Up to four different creatures can be drawn per use. It can be used once every 24 hours.
 
 ### Scroll of Fly 
 
-Can be copied into spellbook. [Per Spell](https://scottjbennett.com/toee/spells/#fly)
+(Can be copied into spellbook). [Per Spell](https://scottjbennett.com/toee/spells/#fly) - confirm copied to spellbook.
 
 ### Scroll of Confer Water Breathing
 
