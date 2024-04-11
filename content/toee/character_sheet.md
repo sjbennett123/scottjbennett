@@ -80,10 +80,10 @@ Roll **Over** these. These do not change till level 11
 
 ## [Spells](https://scottjbennett.com/toee/current_spells/)
 
-- **1st**: 7
+- **1st**: 8
 - **2nd**: 5
-- **3rd**:  6
-- **4th**: 3
+- **3rd**: 6
+- **4th**: 4
 
 [🎒](https://scottjbennett.com/toee/equipment/)
 
