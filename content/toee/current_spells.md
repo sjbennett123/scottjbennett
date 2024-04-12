@@ -1,6 +1,14 @@
 ---
 title: Current Spells
 layout: single
+#  ⃞   [Change Self](https://scottjbennett.com/toee/spells/#change-self) 
+#  ⃞   [Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
+
+#  ⃞   [Copy Spell Improved](https://scottjbennett.com/toee/spells/#copy-spell-improved)
+
+#  ⃞    ⃞   [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
+
+#  ⃞     ⃞      [Detect Magic](https://scottjbennett.com/toee/spells/#detect-magic)
 
 ---
 
@@ -8,15 +16,7 @@ layout: single
 
 # 1
 
- ⃞   [Change Self](https://scottjbennett.com/toee/spells/#change-self) 
 
- ⃞   [Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
-
- ⃞   [Copy Spell Improved](https://scottjbennett.com/toee/spells/#copy-spell-improved)
-
- ⃞    ⃞   [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
-
- ⃞     ⃞      [Detect Magic](https://scottjbennett.com/toee/spells/#detect-magic)
 
 
 # 2
@@ -41,7 +41,7 @@ layout: single
 
 ⃞⃞⃞⃞⃞ ⃞   Chaos
 
-✓             ⃞                 Throbbig Bones  
+​     ⃞              ⃞                 Throbbig Bones  
 
       ⃞ Instant Exit
 
