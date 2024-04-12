@@ -16,7 +16,7 @@ layout: single
 
 # 1
 
-
+   ⃞       ⃞       ⃞       ⃞       ⃞       ⃞       ⃞       ⃞     [Detect Magic](https://scottjbennett.com/toee/spells/#detect-magic)
 
 
 # 2
