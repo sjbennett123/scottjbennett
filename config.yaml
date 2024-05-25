@@ -173,8 +173,8 @@ params:
     # title: "Custom Name"
     items:
       - job: "Site Reliabiliy Engineer"
-        company: "3M"
-        companyUrl: "https://www.3m.com"
+        company: "Solventum"
+        companyUrl: "https://www.solventum.com"
         date: "Nov 2019 - present"
         content: |
           ### System Administration and DevOps

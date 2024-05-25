@@ -1,0 +1,5 @@
+AWS Certified SysOps Administrator - AssociateAWS Certified SysOps Administrator - Associate
+AWS Certified Solutions Architect – AssociateAWS Certified Solutions Architect – Associate
+AWS Learning: ArchitectingAWS Learning: Architecting
+HashiCorp Certified: Terraform Associate (002)
+Red Hat Certified System Administrator (RHCSA)Red Hat Certified System Administrator (RHCSA)
