@@ -1,7 +1,6 @@
 ---
 title: "Website Howto"
 date: 2022-11-10T10:33:21-05:00
-draft: false
 ---
 
 - Facebook is terrible for discoverability. 
@@ -164,7 +163,6 @@ draft: false
   - redirects
 
 
----
 
 # Lets make this website!
 
@@ -180,7 +178,7 @@ draft: false
 ## Configure Local Hugo Instance
 
 - Hugo has steps at https://gohugo.io/getting-started/quick-start/ we are not following these steps. We are going to take a slightly different approach
-  
+
 - Clone Docsy Example site with github desktop. 
   - https://github.com/google/docsy-example
 - confirm it runs locally
@@ -189,10 +187,7 @@ draft: false
 
 - create new repository in github as a target 
 
-![image-20221225121301263](C:\Users\deadk\AppData\Roaming\Typora\typora-user-images\image-20221225121301263.png)
-
 - Point local docsy example to remote crestfallen repo
-- ![image-20221225204655204](C:\Users\deadk\AppData\Roaming\Typora\typora-user-images\image-20221225204655204.png)
 
 ## Configure Netlify Integration
 
@@ -219,9 +214,9 @@ draft: false
 
 
 ## Configure Favicon
+
 https://www.docsy.dev/docs/adding-content/iconsimages/
 
-https://cthedot.de/icongen/#output
 
 
 ## Configure Large Media Setup

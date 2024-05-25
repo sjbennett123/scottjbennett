@@ -1,10 +1,10 @@
 ---
 title: Current Spells
 layout: single
-#  ⃞   [Change Self](https://scottjbennett.com/toee/spells/#change-self) 
-#  ⃞   [Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
-#  ⃞   [Copy Spell Improved](https://scottjbennett.com/toee/spells/#copy-spell-improved)
-#  [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
+# [Change Self](https://scottjbennett.com/toee/spells/#change-self) 
+# [Enlarge](https://scottjbennett.com/toee/spells/#enlarge)
+# [Copy Spell Improved](https://scottjbennett.com/toee/spells/#copy-spell-improved)
+# [Magic Missle](https://scottjbennett.com/toee/spells/#magic-missile) 
 # [Detect Magic](https://scottjbennett.com/toee/spells/#detect-magic)
 
 ---

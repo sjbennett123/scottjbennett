@@ -2,6 +2,37 @@
 title: food
 ---
 
+
+
+Food
+Ramen Noodles 
+Salad
+Chicken Fingers
+baked Potato'
+
+eating out
+Wings
+Longhorn
+Smoothie King
+
+
+
+breakfast
+hot pocket
+pancake
+Pork Soup Dumplings (trader Joes)
+french toast sticks
+scrambled egg
+hard boiled eggs
+
+rice with eggs and fixings
+
+---
+
+
+
+
+
 ## March 25 2024
 
 

@@ -58,7 +58,6 @@ deliver
 - crestfallen rulebook needs rulebook on the cover
 
 - specify that game is in southwestern pa
----
 
 ## Character Usability Test 
 
@@ -69,7 +68,6 @@ Videos
 - https://youtu.be/VTW1yYUqBm8
 - https://youtu.be/1UCDUOB_aS8
 
----
 
 Printed Rulebooks in stores
 
