@@ -179,16 +179,18 @@ params:
         content: |
           ### System Administration and DevOps
           
-            - Deployed code with Ansible.
-            - Patched Systems.
-            - Responded to Opsgenie Alerts.
+            - Deployed configuration and applications with Ansible and Terraform.
+            - Patched Systems in compliance with StateRAMP and Soc2.
+            - Responded to Opsgenie Alerts and system outages.
+            - Partipated in annual failover testing.
             - Presented on Incident Response and Monitoring to the Developer team.
+
           ### System Integration
           
-            - Troubleshot Translation of HL7 SIU, ADT, and MDM Documents into FHIR Repository.
-            - Troubleshot Translation of EDI X12 835,837 Claim Data into FHIR Repository.
+            - Troubleshot Translation of HL7 (SIU, ADT, and MDM Documents) and EDI X12 (835,837 Claim Data) into FHIR Repository.
             - Troubleshot ETL jobs between MongoDB and Postgress systems.
             - Created and updated Grafana Dashbaords reporting off of Metrics stored in Cloudwatch, Graphite, and Prometheues.
+          
           ### Misc Duties
           
             - Chaired Closed Loop internal conference. 
