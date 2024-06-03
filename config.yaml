@@ -280,6 +280,12 @@ params:
           - Troubleshot printing issues with Quark Express, Adobe Photoshop, and Adobe InDesign.
           - Provided second-level support to other technicians as a specialist.
 
+      - job: "Fabrication Operations"
+        company: "Faerie Ring Games"
+        companyUrl: "https://www.faerieringgames.com"
+        date: "May 2024 – Present"
+        content: |
+          - Edited rules for clarity. Creating play diagrams and print layouts.
   # Education
   education:
     enable: true
