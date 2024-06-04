@@ -282,7 +282,7 @@ params:
 
       - job: "Fabrication Operations"
         company: "Faerie Ring Games"
-        companyUrl: "https://www.faerieringgames.com"
+        companyUrl: "https://faerieringgames.netlify.app"
         date: "May 2024 – Present"
         content: |
           - Edited rules for clarity. Creating play diagrams and print layouts.
