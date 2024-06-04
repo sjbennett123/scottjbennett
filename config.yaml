@@ -30,16 +30,11 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    - identifier: toee
-      name: ToEE
-      title: Temple of Elemental Evil
-      url: /toee
-      weight: 2
     - identifier: LARP
       name: LARP
       title: LARP
       url: /larp
-      weight: 3
+      weight: 2
     - identifier: TTRPG
       name: TTRPG
       title: TTRPG
@@ -285,7 +280,8 @@ params:
         companyUrl: "https://faerieringgames.netlify.app"
         date: "May 2024 – Present"
         content: |
-          - Edited rules for clarity. Creating play diagrams and print layouts.
+          - Edited rules for clarity.
+          - Created play diagrams and print layouts.
   # Education
   education:
     enable: true
