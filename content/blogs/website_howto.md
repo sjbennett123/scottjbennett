@@ -3,7 +3,7 @@ title: "Website Howto"
 date: 2022-11-10T10:33:21-05:00
 ---
 
-- Facebook is terrible for discoverability. 
+- Facebook is terrible for discoverability and fuck mark zuckerbrerg. 
   - Facebook makes it hard to find what you need.
   - Facebook makes it hard to know who is interested vs who just wants to browse
 - A real website feels professional.
