@@ -24,3 +24,4 @@ I have been playing larps since I was 15 years old playing in the local NERO cha
 
 [Fighter Practice](/larp/fighter_practice)
 
+[stretches.md](/larp/stretches)
