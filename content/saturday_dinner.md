@@ -21,17 +21,17 @@ intors
 
 ## the menu
 - nutritious
-- stnt ment
+- stunt meat
 - try early familiar list
 - chicken in freezer
 - cold drinks
-- cofffee
+- coffee
 
 ## the amenties
 - tablecloth
 - fat friendly chairs
 - music
-- lefovers
+- leftovers
 - 2drunk? stay over
 - ac
 
@@ -48,13 +48,13 @@ intors
 - keep setup if you can
 - budget for more than you think
 - if you can get a dishwasher
-- poepple wuit
-- slowcookers intant pots 
+- people wuit
+- slowcookers and intent pots 
 
 ## the point
 
-- share bounthyy
-- connect with frineds
+- share bounty
+- connect with friends
 - foster community 
 - use your house
 - meatspace contact
@@ -63,12 +63,16 @@ intors
 
 - vacuum
 - pack leftovers lunch style
-- people want to be in tkitcken
+- people want to be in the kitchen
 - it gets hot
 
 ## the good guest habits
 
-- sparks interesting conversastions 
+- sparks interesting conversations 
 - tells stories
 - moves people away from the kitchen
 - wants to do activities
+
+![/images/sat_dinner_2.JPG](/images/sat_dinner_2.JPG)
+
+![/images/sat_dinner_1.JPG](/images/sat_dinner_1.JPG)
