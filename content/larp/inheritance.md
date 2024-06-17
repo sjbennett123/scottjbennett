@@ -4,8 +4,8 @@ title: inheritance
 # https://www.dropbox.com/scl/fi/dh857t03k2tjek64egh8k/inheritance_print_and_play.pdf?rlkey=d2t46fi3ciubra682m4f5vitw&dl=0
 ---
 - [https://www.kickstarter.com/projects/burningwheel/inheritance-0](https://www.kickstarter.com/projects/burningwheel/inheritance-0)
-- [https://www.youtube.com/watch?v=gLQn4Vr4Kn8](https://www.youtube.com/watch?v=gLQn4Vr4Kn8)
--  https://youtu.be/s2glN7H0N8w?si=4QSmtgHxSLSP4VLx
+- [Luke Crane: Never Give Up](https://www.youtube.com/watch?v=gLQn4Vr4Kn8)
+# -  https://youtu.be/s2glN7H0N8w?si=4QSmtgHxSLSP4VLx
 
 ## Character Pitches
 
@@ -35,9 +35,14 @@ He giveth luck in love to many a hero.”
 
 —a prayer to Odin, from the Saxo Grammaticus
 
-## description
+## Description
+
 Ten years ago, Daxo murdered his beloved older brother, Baldr. Exiled by his father for his crime, he's spent a long decade wandering. But now he's heard that his dear grandfather has died, and he's returned home to claim his inheritance.
 
 Inheritance tells the tale of two families coming to terms with forgiveness, debt, religion, law and death. In three acts, the game presents a powerful drama that is always unique to the players and their decisions.
 
 It is a roleplaying game for nine players (no more, no less) and one facilitator. It takes place in two rooms (or a similar location outside) over two to three hours.
+
+## Player Tips
+
+Think about your relationships to the other characters and the relationship to the deceased. Think about how you feel about the passing and what you have  
