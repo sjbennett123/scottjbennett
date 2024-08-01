@@ -280,6 +280,8 @@ params:
         date: "May 2022 – Present"
         content: |
           - Developed websites using Hugo framework and deployed to production using Cloudflare Pages and Netlify.
+            - https://gendermeowster.netlify.app
+            - https://faerieringgames.netlify.app
       - job: "Fabrication Operations"
         company: "Faerie Ring Games"
         companyUrl: "https://faerieringgames.netlify.app"
