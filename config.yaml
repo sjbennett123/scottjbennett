@@ -127,8 +127,8 @@ params:
     title: "Scott Bennett."
     subtitle: "I will patiently help you get your project done."
     content: > 
-       I have years of project management and support experience. 
-       If you are a business moving computing infrastructure into the cloud or an artist getting a book made. 
+       I have years of project management, Fabrication and support experience. I
+       If you are a business moving computing infrastructure into the cloud, an artist getting a book made or a club looking to update your presentation I can help you with that and will ensure that your project succeeds. 
     image: /scott_hammock.jpg
     bottomImage:
       enable: true
@@ -177,7 +177,7 @@ params:
             - Deployed configuration and applications with Ansible and Terraform.
             - Patched Systems in compliance with StateRAMP and Soc2.
             - Responded to Opsgenie Alerts and system outages.
-            - Partipated in annual failover testing.
+            - Participated in annual fail over testing.
             - Presented on Incident Response and Monitoring to the Developer team.
 
           ### System Integration
@@ -188,7 +188,7 @@ params:
           
           ### Misc Duties
           
-            - Chaired Closed Loop internal conference. 
+            - Chaired Closed Loop internal conference.
       - job: "Senior Software Application Engineer"
         company: "Philips Respironics"
         companyUrl: "https://www.usa.philips.com/healthcare/e/respironics"
@@ -315,7 +315,7 @@ params:
           - Heartifacts 2018
           - Notacon 2010, 2011, 2012
           - Steel City Ruby 2013
-          - Closed Loop 2020,2021,2022
+          - Closed Loop 2020, 2021, 2022
 
   #Contact
   contact:
