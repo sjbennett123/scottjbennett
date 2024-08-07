@@ -4,13 +4,13 @@ title: fotp
 
 ## Faction Signs
 
-clank village 
+Clank Village 
 
-woodland tribe
+Woodland Tribe
 
-FALLEN REALM
+Fallen Realm
 
-clank village 
+Clank Village 
 
 Pinesburg
 
@@ -26,41 +26,39 @@ Tartarus Tribune
 
 ## Directional Signs
 
-Parking Shuttle
+Parking Shuttle x3
 
 Do Not Enter
 
 Claddagh Hall
 
-WOODLAND TRIBE
+Woodland Tribe
 
-FALLEN REALM
+Fallen Realm
 
-PINESBURGH
+Pinesburgh
 
-PARKING
+[Parking](/fotp/parking.svg) 8x28 
 
-CHECK IN
+Check In
 
-QUESTS
+Quests
 
-RESTROOMS
+Restrooms
 
-CLERIC TENT
+Cleric tent
 
-FAERIE TRAP
+Faerie trap
 
-MEAD
+mead
 
-MERMAID LAGOON
+Mermaid Lagoon
 
-LIEGE STATION
+Liege Station
 
-TARTARUS TRIBUNE
+Tartarus Tribune
 
-Parking Shuttle
 
-PARKING SHUTTLE
 
 
 
