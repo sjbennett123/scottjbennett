@@ -5,3 +5,4 @@ public/
 .netlify
 *.afpub~lock~
 *.afphoto~lock~
+*.afdesign~lock~
