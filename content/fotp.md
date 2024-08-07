@@ -28,7 +28,9 @@ Tartarus Tribune
 
 Parking Shuttle x3
 
-Do Not Enter
+Do Not Enter x2
+
+Restrooms x4
 
 Claddagh Hall
 
@@ -44,23 +46,17 @@ Check In
 
 Quests
 
-Restrooms
-
 Cleric tent
 
 Faerie trap
 
-mead
+Mead
 
 Mermaid Lagoon
 
 Liege Station
 
 Tartarus Tribune
-
-
-
-
 
 ## check in sign
 
